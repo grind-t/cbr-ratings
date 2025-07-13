@@ -2,7 +2,7 @@ import { it } from "node:test";
 import assert from "node:assert/strict";
 import { ratingValueToNumber } from "./convertRatingValue.ts";
 
-it("converts international ratings to numbers", () => {
+it("should convert international ratings to numbers", () => {
   assert.strictEqual(ratingValueToNumber("AAA"), 23);
   assert.strictEqual(ratingValueToNumber("AA+"), 22);
   assert.strictEqual(ratingValueToNumber("AA"), 21);
@@ -29,7 +29,7 @@ it("converts international ratings to numbers", () => {
   assert.strictEqual(ratingValueToNumber("D"), 0);
 });
 
-it("converts Russian ratings to numbers", () => {
+it("should convert Russian ratings to numbers", () => {
   assert.strictEqual(ratingValueToNumber("ruAAA"), 23);
   assert.strictEqual(ratingValueToNumber("ruAA+"), 22);
   assert.strictEqual(ratingValueToNumber("ruAA"), 21);
@@ -56,7 +56,7 @@ it("converts Russian ratings to numbers", () => {
   assert.strictEqual(ratingValueToNumber("ruD"), 0);
 });
 
-it("handles withdrawn ratings", () => {
+it("should return undefined for withdrawn ratings", () => {
   assert.strictEqual(ratingValueToNumber("Rating withdrawn"), undefined);
   assert.strictEqual(ratingValueToNumber("Рейтинг отозван"), undefined);
 });

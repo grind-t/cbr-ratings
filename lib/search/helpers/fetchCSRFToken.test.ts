@@ -1,8 +1,8 @@
-import test from "node:test";
+import { it } from "node:test";
 import assert from "node:assert/strict";
 import { fetchCSRFToken } from "./fetchCSRFToken.ts";
 
-test("fetchCSRFToken: should fetch CSRF token from CBR ratings website", async () => {
+it("should fetch CSRF token from CBR ratings website", async () => {
   const token = await fetchCSRFToken(fetch);
 
   assert.strictEqual(typeof token, "string", "Token should be a string");

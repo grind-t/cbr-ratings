@@ -1,38 +1,38 @@
-import test from "node:test";
+import { it } from "node:test";
 import assert from "node:assert/strict";
 import { serializeFields } from "./serializeFields.ts";
 
-test("serializeFields: simple fields", () => {
+it("should serialize simple fields", () => {
   const input = { foo: "bar", baz: 42 };
   const result = serializeFields(input);
   assert.equal(result, "fields[foo]=bar&fields[baz]=42");
 });
 
-test("serializeFields: array field", () => {
+it("should serialize array field", () => {
   const input = { arr: [1, 2, 3] };
   const result = serializeFields(input);
   assert.equal(result, "fields[arr][0]=1&fields[arr][1]=2&fields[arr][2]=3");
 });
 
-test("serializeFields: undefined values are skipped", () => {
+it("should skip undefined values", () => {
   const input = { foo: undefined, bar: "baz" };
   const result = serializeFields(input);
   assert.equal(result, "fields[bar]=baz");
 });
 
-test("serializeFields: empty object", () => {
+it("should serialize empty object", () => {
   const input = {};
   const result = serializeFields(input);
   assert.equal(result, "");
 });
 
-test("serializeFields: special characters", () => {
+it("should serialize special characters", () => {
   const input = { a: "c&d", b: "g h" };
   const result = serializeFields(input);
   assert.equal(result, "fields[a]=c%26d&fields[b]=g%20h");
 });
 
-test("serializeFields: custom prefix", () => {
+it("should serialize with custom prefix", () => {
   const input = { foo: "bar" };
   const result = serializeFields(input, "custom");
   assert.equal(result, "custom[foo]=bar");
