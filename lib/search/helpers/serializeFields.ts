@@ -1,26 +1,26 @@
 export function serializeFields(
-  fields: Record<string, any>,
-  prefix = "fields"
+	fields: Record<string, string | string[] | number | number[] | undefined>,
+	prefix = "fields",
 ): string {
-  const str: string[] = [];
+	const str: string[] = [];
 
-  for (const [key, value] of Object.entries(fields)) {
-    if (value === undefined) continue;
+	for (const [key, value] of Object.entries(fields)) {
+		if (value === undefined) continue;
 
-    if (Array.isArray(value)) {
-      value.forEach((v: any, i: number) => {
-        const serialzedKey = `${prefix}[${key}][${i}]`;
-        const serialzedValue = encodeURIComponent(v);
+		if (Array.isArray(value)) {
+			value.forEach((v: string | number, i: number) => {
+				const serialzedKey = `${prefix}[${key}][${i}]`;
+				const serialzedValue = encodeURIComponent(v);
 
-        str.push(`${serialzedKey}=${serialzedValue}`);
-      });
-    } else {
-      const serialzedKey = `${prefix}[${key}]`;
-      const serialzedValue = encodeURIComponent(value);
+				str.push(`${serialzedKey}=${serialzedValue}`);
+			});
+		} else {
+			const serialzedKey = `${prefix}[${key}]`;
+			const serialzedValue = encodeURIComponent(value);
 
-      str.push(`${serialzedKey}=${serialzedValue}`);
-    }
-  }
+			str.push(`${serialzedKey}=${serialzedValue}`);
+		}
+	}
 
-  return str.join("&");
+	return str.join("&");
 }
