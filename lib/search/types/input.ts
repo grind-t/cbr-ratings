@@ -147,14 +147,14 @@ export const RatingStatusSchema = z.enum([
 ]);
 
 export const SearchRatingFieldsSchema = z.object({
-  formSearh: z.string(), // 'advanced'
+  formSearh: z.enum(["advanced"]),
   captchaCode: z.string().optional(),
-  dateFrom: z.string(),
-  dateTo: z.string(),
-  ratingName: z.string(),
-  inn: z.string(),
-  isin: z.string(),
-  koNumber: z.string(),
+  dateFrom: z.string().optional(),
+  dateTo: z.string().optional(),
+  ratingName: z.string().optional(),
+  inn: z.string().optional(),
+  isin: z.string().optional(),
+  koNumber: z.string().optional(),
   country: z.array(CountrySchema).optional(),
   typeGroup: z.array(TypeGroupSchema).optional(),
   kraName: z.array(KraNameSchema).optional(),
