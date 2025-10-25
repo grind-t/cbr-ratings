@@ -80,7 +80,7 @@ for (const inn of emitentInns) {
 }
 
 fs.outputJSON(
-	resolve(import.meta.dirname, "..", "exports", "bondCompanyRating.json"),
+	resolve(import.meta.dirname, "..", "exports", "bondCompanyRatings.json"),
 	Object.fromEntries(ratings),
 	{ spaces: "\t" },
 );

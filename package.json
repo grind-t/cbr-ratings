@@ -17,7 +17,8 @@
 		"check:lint": "npx @biomejs/biome check --write ./lib ./scripts",
 		"test": "node --experimental-transform-types --experimental-test-module-mocks --test",
 		"build": "tsup",
-		"export:bondCompanyRatings": "node --env-file=.env --experimental-transform-types ./scripts/exportBondCompanyRatings.ts"
+		"export:bondCompanyRatings": "node --env-file=.env --experimental-transform-types ./scripts/exportBondCompanyRatings.ts",
+		"export:bondRatings": "node --env-file=.env --experimental-transform-types ./scripts/exportBondRatings.ts"
 	},
 	"repository": {
 		"type": "git",
