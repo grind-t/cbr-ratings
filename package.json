@@ -14,9 +14,10 @@
 	},
 	"scripts": {
 		"check:types": "tsc --noEmit",
-		"check:lint": "npx @biomejs/biome check --write ./lib",
+		"check:lint": "npx @biomejs/biome check --write ./lib ./scripts",
 		"test": "node --experimental-transform-types --experimental-test-module-mocks --test",
-		"build": "tsup"
+		"build": "tsup",
+		"export:bondCompanyRatings": "node --env-file=.env --experimental-transform-types ./scripts/exportBondCompanyRatings.ts"
 	},
 	"repository": {
 		"type": "git",
@@ -29,14 +30,20 @@
 	"homepage": "https://github.com/grind-t/cbr-ratings#readme",
 	"devDependencies": {
 		"@biomejs/biome": "latest",
+		"@grind-t/moex": "^1.0.7",
+		"@grind-t/toolkit": "^2.1.0",
 		"@microsoft/api-extractor": "latest",
 		"@swc/core": "^1.12.11",
+		"@types/fs-extra": "^11.0.4",
 		"@types/node": "latest",
+		"tinkoff-invest-api": "^7.0.1",
 		"tsup": "latest",
 		"typescript": "latest",
-		"zod": "^4.0.5"
+		"zod": "^4.0.5",
+		"zx": "^8.8.5"
 	},
 	"dependencies": {
+		"dayjs": "^1.11.18",
 		"fetch-cookie": "^3.1.0"
 	}
 }
