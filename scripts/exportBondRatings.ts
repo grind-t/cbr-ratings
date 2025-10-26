@@ -3,7 +3,7 @@ import { env } from "node:process";
 import { TinkoffInvestApi } from "tinkoff-invest-api";
 import { fs, sleep } from "zx";
 import { searchRatings } from "../lib/index.ts";
-import { converKraName } from "../lib/search/helpers/convertKraName.ts";
+import { convertKraName } from "../lib/search/helpers/convertKraName.ts";
 import { newestRelevantRating } from "../lib/search/helpers/newestRelevantRating.ts";
 
 const tInvestApi = new TinkoffInvestApi({
@@ -31,7 +31,7 @@ for (const bond of bonds) {
 	}
 
 	const bondRatingsByKra = Object.groupBy(bondRatings, (v) =>
-		converKraName(v.kraName),
+		convertKraName(v.kraName),
 	);
 
 	const rating = Object.fromEntries(
