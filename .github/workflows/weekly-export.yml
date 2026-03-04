@@ -1,15 +1,15 @@
-name: Daily Export
+name: Weekly Export
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * 1"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: daily-export
+  group: weekly-export
   cancel-in-progress: false
 
 jobs:
