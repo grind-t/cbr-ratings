@@ -2,7 +2,9 @@ import dayjs from "dayjs";
 import type { RatingItem } from "../types/output.ts";
 import { isRatingWithdrawn } from "./isRatingWithdrawn.ts";
 
-export function newestRelevantRating(items: RatingItem[]): RatingItem {
+export function newestRelevantRating(
+	items: RatingItem[],
+): RatingItem | undefined {
 	return items
 		.filter((v) => !isRatingWithdrawn(v.ratingValue, v.ratingAction))
 		.sort(

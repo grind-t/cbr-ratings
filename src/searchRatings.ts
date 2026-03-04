@@ -1,8 +1,8 @@
 import fetchCookie from "fetch-cookie";
-import { fetchCSRFToken } from "./helpers/fetchCSRFToken.ts";
-import { serializeFields } from "./helpers/serializeFields.ts";
 import type { SearchRatingRequest } from "./types/input.ts";
 import type { SearchRatingResponse } from "./types/output.ts";
+import { fetchCSRFToken } from "./utils/fetchCSRFToken.ts";
+import { serializeFields } from "./utils/serializeFields.ts";
 
 const fetcher = fetchCookie(fetch);
 

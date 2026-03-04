@@ -5,12 +5,12 @@ import { toRecord } from "@grind-t/toolkit/array";
 import dayjs from "dayjs";
 import { TinkoffInvestApi } from "tinkoff-invest-api";
 import { fs, sleep } from "zx";
-import { searchRatings } from "../lib/index.ts";
-import { convertKraName } from "../lib/search/helpers/convertKraName.ts";
-import { newestRelevantRating } from "../lib/search/helpers/newestRelevantRating.ts";
+import { searchRatings } from "../src/searchRatings.ts";
+import { convertKraName } from "../src/utils/convertKraName.ts";
+import { newestRelevantRating } from "../src/utils/newestRelevantRating.ts";
 
 const tInvestApi = new TinkoffInvestApi({
-	token: env.T_INVEST_READONLY_TOKEN,
+	token: env.T_INVEST_READONLY_TOKEN as string,
 });
 
 const [bonds, moexSecurities] = await Promise.all([
