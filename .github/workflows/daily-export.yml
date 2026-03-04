@@ -1,0 +1,67 @@
+name: Daily Export
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-export
+  cancel-in-progress: false
+
+jobs:
+  export:
+    name: Export bond ratings
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      T_INVEST_READONLY_TOKEN: ${{ secrets.T_INVEST_READONLY_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Prepare environment file
+        run: |
+          if [ -z "${T_INVEST_READONLY_TOKEN}" ]; then
+            echo "T_INVEST_READONLY_TOKEN secret is not set."
+            exit 1
+          fi
+
+          cat <<EOF > .env
+          T_INVEST_READONLY_TOKEN=${T_INVEST_READONLY_TOKEN}
+          EOF
+
+      - name: Export bond company ratings
+        run: npm run export:bondCompanyRatings
+
+      - name: Export bond ratings
+        run: npm run export:bondRatings
+
+      - name: Commit and push exports if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add exports/bondCompanyRatings.json exports/bondRatings.json
+
+          if git diff --cached --quiet; then
+            echo "No export changes detected."
+            exit 0
+          fi
+
+          git commit -m "chore(exports): daily bond ratings update"
+          git push
