@@ -20,6 +20,6 @@ describe("convertKraName (unit)", () => {
 	});
 
 	it("should return UNKNOWN for unknown value", () => {
-		assert.equal(convertKraName("Unknown"), 'UNKNOWN');
+		assert.equal(convertKraName("Unknown"), "UNKNOWN");
 	});
 });

@@ -14,7 +14,18 @@ const fetcher = fetchCookie(fetch);
 export async function searchRatings(
 	req: SearchRatingRequest,
 ): Promise<SearchRatingResponse> {
-	const csrfToken = await fetchCSRFToken(fetcher);
+  const csrfToken = await fetchCSRFToken(fetcher);
+
+  if (!csrfToken) {
+    return {
+      status: "error",
+      data: null,
+      errors: [
+        { message: "Failed to fetch CSRF token", code: 500, customData: null },
+      ],
+    };
+  }
+
 	const url =
 		"https://ratings.cbr.ru/bitrix/services/main/ajax.php?mode=ajax&c=prr.form&action=searchRating";
 	const body = serializeFields(req.fields);
