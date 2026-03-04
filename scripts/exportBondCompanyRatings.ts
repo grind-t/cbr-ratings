@@ -38,7 +38,7 @@ const emitentInns = bonds.reduce((acc, v) => {
 const ratings = new Map<string, object>();
 
 for (const inn of emitentInns) {
-	await sleep(500);
+	await sleep(250);
 
 	const response = await searchRatings({
 		fields: {

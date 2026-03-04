@@ -13,7 +13,7 @@ const bonds = await tInvestApi.instruments.bonds({}).then((v) => v.instruments);
 const ratings = new Map<string, object>();
 
 for (const bond of bonds) {
-	await sleep(500);
+	await sleep(250);
 
 	const response = await searchRatings({
 		fields: {
