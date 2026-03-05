@@ -111,13 +111,13 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: bond-company-ratings-export
-          path: .
+          path: exports
 
       - name: Download bond ratings export
         uses: actions/download-artifact@v4
         with:
           name: bond-ratings-export
-          path: .
+          path: exports
 
       - name: Commit and push exports if changed
         run: |
