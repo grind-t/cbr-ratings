@@ -130,5 +130,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore(exports): daily bond ratings update"
+          git commit -m "chore(exports): weekly bond ratings update"
           git push
