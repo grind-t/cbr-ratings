@@ -121,17 +121,17 @@
 	},
 	"RU000A10BTJ7": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.09.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 34010",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep10d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "184547",
 			"isin": "RU000A10BTJ7",
 			"subjectName": "Ульяновская область"
@@ -921,17 +921,17 @@
 	},
 	"RU000A106FT0": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.09.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "0274034308",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Республика Башкортостан серии 34013",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep11a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar05c",
 			"objectId": "184509",
 			"isin": "RU000A106FT0",
 			"subjectName": "Республика Башкортостан"
@@ -1095,17 +1095,17 @@
 	},
 	"RU000A10BV22": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.09.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "0274034308",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Республика Башкортостан серии 34015",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep11a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar05c",
 			"objectId": "184553",
 			"isin": "RU000A10BV22",
 			"subjectName": "Республика Башкортостан"
@@ -1545,20 +1545,20 @@
 	},
 	"RU000A10BBD8": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.04.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "1435032049",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "A(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"ЯТЭК\", Старший необеспеченный долг серии: 001Р-06, ISIN: RU000A10BBD8, гос.рег.номер: 4B020620510F001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЯТЭК\", Старший необеспеченный долг серии: 001Р-06, ISIN: RU000A10BBD8, рег.номер: 4B020620510F001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5640/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6647/",
 			"objectId": "179999",
 			"isin": "RU000A10BBD8",
-			"subjectName": "Публичное акционерное общество \"Якутская топливно-энергетическая компания\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКАЯ ТОПЛИВНО-ЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ\""
 		}
 	},
 	"RU000A10BW96": {
@@ -1789,17 +1789,17 @@
 	},
 	"RU000A10AC91": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.09.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "0274034308",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Республика Башкортостан серии 34014",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep11a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar05c",
 			"objectId": "184550",
 			"isin": "RU000A10AC91",
 			"subjectName": "Республика Башкортостан"
@@ -3085,17 +3085,17 @@
 			"subjectName": "Республика Саха (Якутия)"
 		},
 		"EXPERT_RA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "UP – повышение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "12.12.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "1435027673",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Республика Саха (Якутия) серии 34005",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec12f",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar05e",
 			"objectId": "183127",
 			"isin": "RU000A10BP38",
 			"subjectName": "Республика Саха (Якутия)"
@@ -4659,17 +4659,17 @@
 	},
 	"RU000A10A6J1": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.09.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "7017004461",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "BBB+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Муниципальные облигации, город Томск, Старший необеспеченный долг серии: 34009, ISIN: RU000A10A6J1, гос.рег.номер: RU34009TOM1",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Муниципальные облигации, город Томск, Старший необеспеченный долг серии: 34009, ISIN: RU000A10A6J1, рег.номер: RU34009TOM1",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6073/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6645/",
 			"objectId": "183453",
 			"isin": "RU000A10A6J1",
 			"subjectName": "город Томск"
@@ -4765,20 +4765,20 @@
 	},
 	"RU000A1070L0": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.03.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "1435032049",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "A(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"ЯТЭК\", Старший необеспеченный долг серии: 001Р-03, ISIN: RU000A1070L0, гос.рег.номер: 4B020320510F001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЯТЭК\", Старший необеспеченный долг серии: 001Р-03, ISIN: RU000A1070L0, рег.номер: 4B020320510F001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5558/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6647/",
 			"objectId": "179994",
 			"isin": "RU000A1070L0",
-			"subjectName": "Публичное акционерное общество \"Якутская топливно-энергетическая компания\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКАЯ ТОПЛИВНО-ЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ\""
 		}
 	},
 	"RU000A10A4S7": {
@@ -5251,6 +5251,24 @@
 			"objectId": "178913",
 			"isin": "RU000A107605",
 			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+		}
+	},
+	"RU000A10EEZ9": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "04.03.2026",
+			"inn": "7810962785",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Селектел серии 001Р-07R",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04",
+			"objectId": "187957",
+			"isin": "RU000A10EEZ9",
+			"subjectName": "Акционерное общество Селектел"
 		}
 	},
 	"RU000A10AST0": {
@@ -8507,17 +8525,17 @@
 			"subjectName": "Республика Саха (Якутия)"
 		},
 		"EXPERT_RA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "UP – повышение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "12.12.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "1435027673",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Республика Саха (Якутия) серии 35016",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec12f",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar05e",
 			"objectId": "183132",
 			"isin": "RU000A109L72",
 			"subjectName": "Республика Саха (Якутия)"
@@ -9383,17 +9401,17 @@
 	},
 	"RU000A1087F6": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.09.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 34008",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep10d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "184540",
 			"isin": "RU000A1087F6",
 			"subjectName": "Ульяновская область"
@@ -9769,17 +9787,17 @@
 	},
 	"RU000A1077U6": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.09.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 34006",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep10d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "184494",
 			"isin": "RU000A1077U6",
 			"subjectName": "Ульяновская область"
@@ -10359,17 +10377,17 @@
 	},
 	"RU000A106607": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.09.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 34005",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep10d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "184487",
 			"isin": "RU000A106607",
 			"subjectName": "Ульяновская область"
@@ -11175,17 +11193,17 @@
 	},
 	"RU000A101U61": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.09.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 35002",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep10d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "177845",
 			"isin": "RU000A101U61",
 			"subjectName": "Ульяновская область"
@@ -11783,6 +11801,40 @@
 			"objectId": "179722",
 			"isin": "RU000A109528",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ - РОССЕТИ\""
+		}
+	},
+	"RU000A10EG28": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "06.03.2026",
+			"inn": "7710641442",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации МЕДСИ серии 001P-04",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar06",
+			"objectId": "187961",
+			"isin": "RU000A10EG28",
+			"subjectName": "Акционерное общество Группа компаний Медси"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "06.03.2026",
+			"inn": "7710641442",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"Группа компаний \"Медси\", Старший необеспеченный долг серии: 001P-04, ISIN: RU000A10EG28, рег.номер: 4B020462024H001P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6650/",
+			"objectId": "187961",
+			"isin": "RU000A10EG28",
+			"subjectName": "Акционерное общество \"Группа компаний \"Медси\""
 		}
 	},
 	"RU000A10C6Z5": {
@@ -12771,17 +12823,17 @@
 	},
 	"RU000A10DBD4": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "29.10.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 34011",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/oct29d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "184549",
 			"isin": "RU000A10DBD4",
 			"subjectName": "Ульяновская область"
@@ -14099,20 +14151,20 @@
 	},
 	"RU000A109NF7": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.03.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "1435032049",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "A(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"ЯТЭК\", Старший необеспеченный долг серии: 001Р-04, ISIN: RU000A109NF7, гос.рег.номер: 4B020420510F001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЯТЭК\", Старший необеспеченный долг серии: 001Р-04, ISIN: RU000A109NF7, рег.номер: 4B020420510F001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5558/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6647/",
 			"objectId": "179997",
 			"isin": "RU000A109NF7",
-			"subjectName": "Публичное акционерное общество \"Якутская топливно-энергетическая компания\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКАЯ ТОПЛИВНО-ЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ\""
 		}
 	},
 	"RU000A10AV98": {
@@ -14995,17 +15047,17 @@
 			"subjectName": "Республика Саха (Якутия)"
 		},
 		"EXPERT_RA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "UP – повышение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "12.12.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "1435027673",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Республика Саха (Якутия) серии 35015",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec12f",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar05e",
 			"objectId": "183131",
 			"isin": "RU000A1033B9",
 			"subjectName": "Республика Саха (Якутия)"
@@ -15645,17 +15697,17 @@
 	},
 	"RU000A10DWF5": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.12.2025",
+			"releaseDate": "05.03.2026",
 			"inn": "0274034308",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Республика Башкортостан серии 24017",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec18",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar05c",
 			"objectId": "184495",
 			"isin": "RU000A10DWF5",
 			"subjectName": "Республика Башкортостан"
@@ -16865,6 +16917,24 @@
 			"subjectName": "Амурская область"
 		}
 	},
+	"RU000A10ASS2": {
+		"AKRA": {
+			"ratingAction": "UP - повышение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "03.12.2025",
+			"inn": "7707049388",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации, ПАО «Ростелеком», Старший необеспеченный долг серии: 001P-14R, ISIN: RU000A10ASS2, гос.рег.номер: 4B021400124A001P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
+			"objectId": "180055",
+			"isin": "RU000A10ASS2",
+			"subjectName": "Публичное акционерное общество «Ростелеком»"
+		}
+	},
 	"RU000A10CLE3": {
 		"EXPERT_RA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
@@ -16897,24 +16967,6 @@
 			"objectId": "178997",
 			"isin": "RU000A10CLE3",
 			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
-		}
-	},
-	"RU000A10ASS2": {
-		"AKRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "03.12.2025",
-			"inn": "7707049388",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Ростелеком», Старший необеспеченный долг серии: 001P-14R, ISIN: RU000A10ASS2, гос.рег.номер: 4B021400124A001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
-			"objectId": "180055",
-			"isin": "RU000A10ASS2",
-			"subjectName": "Публичное акционерное общество «Ростелеком»"
 		}
 	},
 	"RU000A10DYB0": {
@@ -17887,17 +17939,17 @@
 	},
 	"RU000A1040S8": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.09.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 34004",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep10d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "184481",
 			"isin": "RU000A1040S8",
 			"subjectName": "Ульяновская область"
@@ -18273,17 +18325,17 @@
 	},
 	"RU000A109RR3": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.09.2025",
+			"releaseDate": "04.03.2026",
 			"inn": "7325001151",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruBBB",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ульяновская область серии 34009",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep10d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
 			"objectId": "184544",
 			"isin": "RU000A109RR3",
 			"subjectName": "Ульяновская область"
