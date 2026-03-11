@@ -3,8 +3,7 @@ import { env, exit } from "node:process";
 import { TinkoffInvestApi } from "tinkoff-invest-api";
 import z from "zod";
 import { fs, sleep } from "zx";
-import { convertKraName } from "../../src/common/convert-kra-name.ts";
-import { newestRelevantRating } from "../../src/common/newest-relevant-rating.ts";
+import { latestRatingsByKra } from "../../src/common/latest-ratings-by-kra.ts";
 import { searchRatings } from "../../src/rating-search/index.ts";
 import { SearchRatingResponseSchema } from "../../src/rating-search/schema/output.ts";
 
@@ -32,25 +31,17 @@ for (const bond of bonds) {
 		exit(1);
 	}
 
-	const bondRatings = data?.data?.itemList ?? [];
+	const bondRatings = data?.data?.itemList;
 
-	if (!bondRatings) {
-		console.debug(`Missing ratings for bond with isin ${bond.isin}`);
+	if (!bondRatings?.length) {
+		console.info(`Missing ratings for bond with isin ${bond.isin}`);
 		continue;
 	}
 
-	const bondRatingsByKra = Object.groupBy(bondRatings, (v) =>
-		convertKraName(v.kraName),
-	);
+	const latestRatings = latestRatingsByKra(bondRatings);
 
-	const rating = Object.fromEntries(
-		Object.entries(bondRatingsByKra)
-			.map(([k, v]) => [k, newestRelevantRating(v)])
-			.filter(([, v]) => !!v),
-	);
-
-	if (Object.keys(rating).length) {
-		ratings.set(bond.isin, rating);
+	if (Object.keys(latestRatings).length) {
+		ratings.set(bond.isin, latestRatings);
 	}
 }
 

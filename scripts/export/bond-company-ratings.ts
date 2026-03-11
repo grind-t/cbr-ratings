@@ -1,13 +1,15 @@
 import { resolve } from "node:path";
-import { env } from "node:process";
+import { env, exit } from "node:process";
 import { getMoexBondSecurities } from "@grind-t/moex";
 import { toRecord } from "@grind-t/toolkit/array";
 import dayjs from "dayjs";
 import { TinkoffInvestApi } from "tinkoff-invest-api";
+import z from "zod";
 import { fs, sleep } from "zx";
-import { convertKraName } from "../../src/common/convert-kra-name.ts";
-import { newestRelevantRating } from "../../src/common/newest-relevant-rating.ts";
+import { latestRating } from "../../src/common/latest-rating.ts";
+import { latestRatingsByKra } from "../../src/common/latest-ratings-by-kra.ts";
 import { searchRatings } from "../../src/rating-search/index.ts";
+import { SearchRatingResponseSchema } from "../../src/rating-search/schema/output.ts";
 
 const tInvestApi = new TinkoffInvestApi({
 	token: env.T_INVEST_READONLY_TOKEN as string,
@@ -19,10 +21,6 @@ const [bonds, moexSecurities] = await Promise.all([
 ]);
 
 const emitentInns = bonds.reduce((acc, v) => {
-	if (!v.buyAvailableFlag || !v.apiTradeAvailableFlag) {
-		return acc;
-	}
-
 	const moexSecurity = moexSecurities[v.isin];
 	const emitentInn = moexSecurity?.emitent_inn;
 
@@ -57,30 +55,35 @@ for (const inn of emitentInns) {
 		},
 	});
 
-	const companyRatings = response.data?.itemList;
+	const { data, error } = z.safeParse(SearchRatingResponseSchema, response);
 
-	if (!companyRatings) {
-		console.warn(`Missing ratings for company with inn ${inn}`);
+	if (error) {
+		console.error(z.prettifyError(error));
+		exit(1);
+	}
+
+	const companyRatings = data.data?.itemList;
+
+	if (!companyRatings?.length) {
+		console.info(`Missing ratings for company with inn ${inn}`);
 		continue;
 	}
 
-	const companyRatingsByKra = Object.groupBy(companyRatings, (v) =>
-		convertKraName(v.kraName),
-	);
+	const latestRatings = latestRatingsByKra(companyRatings);
 
-	const rating = Object.fromEntries(
-		Object.entries(companyRatingsByKra)
-			.map(([k, v]) => [k, newestRelevantRating(v)])
-			.filter(([, v]) => !!v),
-	);
-
-	if (Object.keys(rating).length) {
-		ratings.set(inn, rating);
+	if (Object.keys(latestRatings).length) {
+		ratings.set(inn, latestRating);
 	}
 }
 
 fs.outputJSON(
-	resolve(import.meta.dirname, "..", "exports", "bond-company-ratings.json"),
+	resolve(
+		import.meta.dirname,
+		"..",
+		"..",
+		"exports",
+		"bond-company-ratings.json",
+	),
 	Object.fromEntries(ratings),
 	{ spaces: "\t" },
 );

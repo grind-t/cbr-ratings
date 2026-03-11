@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
 import type { RatingItem } from "../rating-search/schema/output.ts";
-import { newestRelevantRating } from "./newest-relevant-rating.ts";
+import { latestRating } from "./latest-rating.ts";
 
 const makeItem = (overrides: Partial<RatingItem>): RatingItem => ({
 	ratingAction: overrides.ratingAction ?? "",
@@ -25,7 +25,7 @@ describe("newestRelevantRating (unit)", () => {
 		const older = makeItem({ releaseDate: "01-01-2020", ratingValue: "BBB" });
 		const newer = makeItem({ releaseDate: "02-02-2021", ratingValue: "AA" });
 
-		const res = newestRelevantRating([older, newer]);
+		const res = latestRating([older, newer]);
 
 		assert.ok(res);
 		assert.equal(res.releaseDate, "02-02-2021");
@@ -39,7 +39,7 @@ describe("newestRelevantRating (unit)", () => {
 		});
 		const older = makeItem({ releaseDate: "01-01-2021", ratingValue: "B" });
 
-		const res = newestRelevantRating([withdrawnNewest, older]);
+		const res = latestRating([withdrawnNewest, older]);
 
 		assert.ok(res);
 		assert.equal(res.releaseDate, "01-01-2021");
@@ -57,7 +57,7 @@ describe("newestRelevantRating (unit)", () => {
 			ratingAction: "WD",
 		});
 
-		const res = newestRelevantRating([a, b]);
+		const res = latestRating([a, b]);
 
 		assert.equal(res, undefined);
 	});

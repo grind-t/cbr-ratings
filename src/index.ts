@@ -18,6 +18,5 @@ export type {
 } from "./rating-search/schema/input.ts";
 export type {
 	RatingItem,
-	SearchRatingData,
 	SearchRatingResponse,
 } from "./rating-search/schema/output.ts";
