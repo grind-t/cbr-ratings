@@ -13,11 +13,12 @@
 		}
 	},
 	"scripts": {
-		"check": "tsc --noEmit",
+		"typecheck": "tsc --noEmit",
 		"lint": "npx @biomejs/biome check --write ./src ./scripts",
 		"test:unit": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.unit.test.ts\"",
 		"test:e2e": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.e2e.test.ts\"",
 		"test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
+		"check": "npm run typecheck && npm run lint && npm run test",
 		"build": "tsup",
 		"export:bondCompanyRatings": "node --env-file=.env --experimental-transform-types ./scripts/export-bond-company-ratings.ts",
 		"export:bondRatings": "node --env-file=.env --experimental-transform-types ./scripts/export-bond-ratings.ts"

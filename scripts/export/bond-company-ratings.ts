@@ -5,9 +5,9 @@ import { toRecord } from "@grind-t/toolkit/array";
 import dayjs from "dayjs";
 import { TinkoffInvestApi } from "tinkoff-invest-api";
 import { fs, sleep } from "zx";
-import { convertKraName } from "../src/common/convert-kra-name.ts";
-import { newestRelevantRating } from "../src/common/newest-relevant-rating.ts";
-import { searchRatings } from "../src/rating-search/index.ts";
+import { convertKraName } from "../../src/common/convert-kra-name.ts";
+import { newestRelevantRating } from "../../src/common/newest-relevant-rating.ts";
+import { searchRatings } from "../../src/rating-search/index.ts";
 
 const tInvestApi = new TinkoffInvestApi({
 	token: env.T_INVEST_READONLY_TOKEN as string,

@@ -1,4 +1,4 @@
-export { convertKraName, type KRA } from "./common/convert-kra-name.ts";
+export { convertKraName, type Kra } from "./common/convert-kra-name.ts";
 export {
 	ratingScale,
 	ratingValueToNumber,

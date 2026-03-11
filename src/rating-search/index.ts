@@ -1,5 +1,5 @@
 import fetchCookie from "fetch-cookie";
-import { fetchCSRFToken } from "../common/fetch-csrf-token.ts";
+import { fetchCsrfToken } from "../common/fetch-csrf-token.ts";
 import { serializeFields } from "../common/serialize-fields.ts";
 import type { SearchRatingRequest } from "./schema/input.ts";
 import type { SearchRatingResponse } from "./schema/output.ts";
@@ -9,7 +9,7 @@ const fetcher = fetchCookie(fetch);
 export async function searchRatings(
 	req: SearchRatingRequest,
 ): Promise<SearchRatingResponse> {
-	const csrfToken = await fetchCSRFToken(fetcher);
+	const csrfToken = await fetchCsrfToken(fetcher);
 
 	if (!csrfToken) {
 		return {
