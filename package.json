@@ -20,8 +20,8 @@
 		"test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
 		"check": "npm run typecheck && npm run lint && npm run test",
 		"build": "tsup",
-		"export:bondCompanyRatings": "node --env-file=.env --experimental-transform-types ./scripts/export-bond-company-ratings.ts",
-		"export:bondRatings": "node --env-file=.env --experimental-transform-types ./scripts/export-bond-ratings.ts"
+		"export:bond-company-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-company-ratings.ts",
+		"export:bond-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-ratings.ts"
 	},
 	"repository": {
 		"type": "git",
