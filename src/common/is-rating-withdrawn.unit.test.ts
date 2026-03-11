@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { isRatingWithdrawn } from "./isRatingWithdrawn.ts";
+import { isRatingWithdrawn } from "./is-rating-withdrawn.ts";
 
 describe("isRatingWithdrawn (unit)", () => {
 	it("should return true for withdrawn rating value", () => {

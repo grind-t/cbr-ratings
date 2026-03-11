@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { serializeFields } from "./serializeFields.ts";
+import { serializeFields } from "./serialize-fields.ts";
 
 describe("serializeFields (unit)", () => {
 	it("should serialize simple fields", () => {

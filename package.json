@@ -19,8 +19,8 @@
 		"test:e2e": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.e2e.test.ts\"",
 		"test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
 		"build": "tsup",
-		"export:bondCompanyRatings": "node --env-file=.env --experimental-transform-types ./scripts/exportBondCompanyRatings.ts",
-		"export:bondRatings": "node --env-file=.env --experimental-transform-types ./scripts/exportBondRatings.ts"
+		"export:bondCompanyRatings": "node --env-file=.env --experimental-transform-types ./scripts/export-bond-company-ratings.ts",
+		"export:bondRatings": "node --env-file=.env --experimental-transform-types ./scripts/export-bond-ratings.ts"
 	},
 	"repository": {
 		"type": "git",

@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
 import type { RatingItem } from "../rating-search/schema/output.ts";
-import { newestRelevantRating } from "./newestRelevantRating.ts";
+import { newestRelevantRating } from "./newest-relevant-rating.ts";
 
 const makeItem = (overrides: Partial<RatingItem>): RatingItem => ({
 	ratingAction: overrides.ratingAction ?? "",

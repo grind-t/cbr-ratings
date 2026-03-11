@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { fetchCSRFToken } from "./fetchCSRFToken.ts";
+import { fetchCSRFToken } from "./fetch-csrf-token.ts";
 
 describe("fetchCSRFToken (e2e)", () => {
 	it("should fetch CSRF token from CBR ratings website", async () => {

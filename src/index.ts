@@ -1,9 +1,9 @@
-export { convertKraName, type KRA } from "./common/convertKraName.ts";
+export { convertKraName, type KRA } from "./common/convert-kra-name.ts";
 export {
 	ratingScale,
 	ratingValueToNumber,
-} from "./common/convertRatingValue.ts";
-export { isRatingWithdrawn } from "./common/isRatingWithdrawn.ts";
+} from "./common/convert-rating-value.ts";
+export { isRatingWithdrawn } from "./common/is-rating-withdrawn.ts";
 export { searchRatings } from "./rating-search/index.ts";
 export type {
 	Country,

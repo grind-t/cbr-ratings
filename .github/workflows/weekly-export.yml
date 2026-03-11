@@ -51,7 +51,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: bond-company-ratings-export
-          path: exports/bondCompanyRatings.json
+          path: exports/bond-company-ratings.json
           if-no-files-found: error
 
   export-bond-ratings:
@@ -93,7 +93,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: bond-ratings-export
-          path: exports/bondRatings.json
+          path: exports/bond-ratings.json
           if-no-files-found: error
 
   commit-exports:
@@ -123,7 +123,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add exports/bondCompanyRatings.json exports/bondRatings.json
+          git add exports/bond-company-ratings.json exports/bond-ratings.json
 
           if git diff --cached --quiet; then
             echo "No export changes detected."

@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { convertKraName } from "./convertKraName.ts";
+import { convertKraName } from "./convert-kra-name.ts";
 
 describe("convertKraName (unit)", () => {
 	it('should return EXPERT_RA for АО "Эксперт РА"', () => {

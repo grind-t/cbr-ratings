@@ -1,6 +1,6 @@
 import fetchCookie from "fetch-cookie";
-import { fetchCSRFToken } from "../common/fetchCSRFToken.ts";
-import { serializeFields } from "../common/serializeFields.ts";
+import { fetchCSRFToken } from "../common/fetch-csrf-token.ts";
+import { serializeFields } from "../common/serialize-fields.ts";
 import type { SearchRatingRequest } from "./schema/input.ts";
 import type { SearchRatingResponse } from "./schema/output.ts";
 

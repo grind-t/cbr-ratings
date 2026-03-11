@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { ratingValueToNumber } from "./convertRatingValue.ts";
+import { ratingValueToNumber } from "./convert-rating-value.ts";
 
 describe("ratingValueToNumber (unit)", () => {
 	it("should convert international ratings to numbers", () => {

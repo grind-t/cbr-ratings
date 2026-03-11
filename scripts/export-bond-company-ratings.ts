@@ -5,8 +5,8 @@ import { toRecord } from "@grind-t/toolkit/array";
 import dayjs from "dayjs";
 import { TinkoffInvestApi } from "tinkoff-invest-api";
 import { fs, sleep } from "zx";
-import { convertKraName } from "../src/common/convertKraName.ts";
-import { newestRelevantRating } from "../src/common/newestRelevantRating.ts";
+import { convertKraName } from "../src/common/convert-kra-name.ts";
+import { newestRelevantRating } from "../src/common/newest-relevant-rating.ts";
 import { searchRatings } from "../src/rating-search/index.ts";
 
 const tInvestApi = new TinkoffInvestApi({
@@ -80,7 +80,7 @@ for (const inn of emitentInns) {
 }
 
 fs.outputJSON(
-	resolve(import.meta.dirname, "..", "exports", "bondCompanyRatings.json"),
+	resolve(import.meta.dirname, "..", "exports", "bond-company-ratings.json"),
 	Object.fromEntries(ratings),
 	{ spaces: "\t" },
 );
