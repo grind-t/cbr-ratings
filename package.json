@@ -13,6 +13,7 @@
 		}
 	},
 	"scripts": {
+		"dev": "node --env-file=.env --experimental-transform-types --watch ./playground.ts",
 		"typecheck": "tsc --noEmit",
 		"lint": "npx @biomejs/biome check --write ./src ./scripts",
 		"test:unit": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.unit.test.ts\"",

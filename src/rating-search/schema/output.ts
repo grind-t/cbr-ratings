@@ -17,19 +17,23 @@ export const RatingItemSchema = z.object({
 	subjectName: z.string(),
 });
 
-export const SearchRatingDataSchema = z.object({
-	pageCount: z.number(),
-	pageNumber: z.number(),
-	sortingField: z.string(),
-	sortingDirection: z.string(),
-	pageSize: z.number(),
-	itemList: z.array(RatingItemSchema),
-	itemCount: z.number(),
+export const SearchRatingSuccessResponseSchems = z.object({
+	status: z.literal("success"),
+	data: z.object({
+		pageCount: z.number(),
+		pageNumber: z.number(),
+		sortingField: z.string(),
+		sortingDirection: z.string(),
+		pageSize: z.number(),
+		itemList: z.array(RatingItemSchema),
+		itemCount: z.number(),
+	}),
+	errors: z.tuple([]),
 });
 
-export const SearchRatingResponseSchema = z.object({
-	status: z.enum(["success", "error"]),
-	data: SearchRatingDataSchema.nullable(),
+export const SearchRatingsErrorResponseSchema = z.object({
+	status: z.literal("error"),
+	data: z.null(),
 	errors: z.array(
 		z.object({
 			message: z.string(),
@@ -39,7 +43,10 @@ export const SearchRatingResponseSchema = z.object({
 	),
 });
 
-// Экспорт типов TypeScript, сгенерированных из Zod схем
+export const SearchRatingResponseSchema = z.union([
+	SearchRatingSuccessResponseSchems,
+	SearchRatingsErrorResponseSchema,
+]);
+
 export type RatingItem = z.infer<typeof RatingItemSchema>;
-export type SearchRatingData = z.infer<typeof SearchRatingDataSchema>;
 export type SearchRatingResponse = z.infer<typeof SearchRatingResponseSchema>;

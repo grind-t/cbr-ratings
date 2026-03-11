@@ -1,10 +1,12 @@
 import { resolve } from "node:path";
-import { env } from "node:process";
+import { env, exit } from "node:process";
 import { TinkoffInvestApi } from "tinkoff-invest-api";
+import z from "zod";
 import { fs, sleep } from "zx";
 import { convertKraName } from "../../src/common/convert-kra-name.ts";
 import { newestRelevantRating } from "../../src/common/newest-relevant-rating.ts";
 import { searchRatings } from "../../src/rating-search/index.ts";
+import { SearchRatingResponseSchema } from "../../src/rating-search/schema/output.ts";
 
 const tInvestApi = new TinkoffInvestApi({
 	token: env.T_INVEST_READONLY_TOKEN as string,
@@ -23,10 +25,17 @@ for (const bond of bonds) {
 		},
 	});
 
-	const bondRatings = response.data?.itemList;
+	const { data, error } = z.safeParse(SearchRatingResponseSchema, response);
+
+	if (error) {
+		console.error(z.prettifyError(error));
+		exit(1);
+	}
+
+	const bondRatings = data?.data?.itemList ?? [];
 
 	if (!bondRatings) {
-		console.warn(`Missing ratings for bond with isin ${bond.isin}`);
+		console.debug(`Missing ratings for bond with isin ${bond.isin}`);
 		continue;
 	}
 
@@ -46,7 +55,7 @@ for (const bond of bonds) {
 }
 
 fs.outputJSON(
-	resolve(import.meta.dirname, "..", "exports", "bond-ratings.json"),
+	resolve(import.meta.dirname, "..", "..", "exports", "bond-ratings.json"),
 	Object.fromEntries(ratings),
 	{ spaces: "\t" },
 );
