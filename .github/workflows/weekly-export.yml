@@ -45,7 +45,7 @@ jobs:
 
       - name: Export bond company ratings
         run: |
-          npm run export:bondCompanyRatings
+          npm run export:bond-company-ratings
 
       - name: Upload bond company ratings export
         uses: actions/upload-artifact@v4
@@ -87,7 +87,7 @@ jobs:
 
       - name: Export bond ratings
         run: |
-          npm run export:bondRatings
+          npm run export:bond-ratings
 
       - name: Upload bond ratings export
         uses: actions/upload-artifact@v4
