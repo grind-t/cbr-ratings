@@ -72,7 +72,7 @@ for (const inn of emitentInns) {
 	const latestRatings = latestRatingsByKra(companyRatings);
 
 	if (Object.keys(latestRatings).length) {
-		ratings.set(inn, latestRating);
+		ratings.set(inn, latestRatings);
 	}
 }
 
