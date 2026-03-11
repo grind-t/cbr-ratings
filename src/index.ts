@@ -1,4 +1,10 @@
-export { searchRatings } from "./searchRatings.ts";
+export { convertKraName, type KRA } from "./common/convertKraName.ts";
+export {
+	ratingScale,
+	ratingValueToNumber,
+} from "./common/convertRatingValue.ts";
+export { isRatingWithdrawn } from "./common/isRatingWithdrawn.ts";
+export { searchRatings } from "./rating-search/index.ts";
 export type {
 	Country,
 	KraName,
@@ -9,15 +15,9 @@ export type {
 	SearchRatingFields,
 	SearchRatingRequest,
 	TypeGroup,
-} from "./types/input.ts";
+} from "./rating-search/schema/input.ts";
 export type {
 	RatingItem,
 	SearchRatingData,
 	SearchRatingResponse,
-} from "./types/output.ts";
-export { convertKraName, type KRA } from "./utils/convertKraName.ts";
-export {
-	ratingScale,
-	ratingValueToNumber,
-} from "./utils/convertRatingValue.ts";
-export { isRatingWithdrawn } from "./utils/isRatingWithdrawn.ts";
+} from "./rating-search/schema/output.ts";

@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
 import { searchRatings } from "./index.ts";
-import { SearchRatingResponseSchema } from "./types/output.ts";
+import { SearchRatingResponseSchema } from "./schema/output.ts";
 
 describe("searchRatings (e2e)", () => {
 	it("should return valid ratings for 'Sber'", async () => {

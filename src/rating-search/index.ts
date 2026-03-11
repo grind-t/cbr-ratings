@@ -1,30 +1,25 @@
 import fetchCookie from "fetch-cookie";
-import type { SearchRatingRequest } from "./types/input.ts";
-import type { SearchRatingResponse } from "./types/output.ts";
-import { fetchCSRFToken } from "./utils/fetchCSRFToken.ts";
-import { serializeFields } from "./utils/serializeFields.ts";
+import { fetchCSRFToken } from "../common/fetchCSRFToken.ts";
+import { serializeFields } from "../common/serializeFields.ts";
+import type { SearchRatingRequest } from "./schema/input.ts";
+import type { SearchRatingResponse } from "./schema/output.ts";
 
 const fetcher = fetchCookie(fetch);
 
-/**
- * Поиск кредитных рейтингов в реестре ЦБ РФ
- * @param req Параметры поиска
- * @returns Ответ API рейтингов ЦБ
- */
 export async function searchRatings(
 	req: SearchRatingRequest,
 ): Promise<SearchRatingResponse> {
-  const csrfToken = await fetchCSRFToken(fetcher);
+	const csrfToken = await fetchCSRFToken(fetcher);
 
-  if (!csrfToken) {
-    return {
-      status: "error",
-      data: null,
-      errors: [
-        { message: "Failed to fetch CSRF token", code: 500, customData: null },
-      ],
-    };
-  }
+	if (!csrfToken) {
+		return {
+			status: "error",
+			data: null,
+			errors: [
+				{ message: "Failed to fetch CSRF token", code: 500, customData: null },
+			],
+		};
+	}
 
 	const url =
 		"https://ratings.cbr.ru/bitrix/services/main/ajax.php?mode=ajax&c=prr.form&action=searchRating";

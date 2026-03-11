@@ -1,5 +1,5 @@
 import dayjs from "dayjs";
-import type { RatingItem } from "../types/output.ts";
+import type { RatingItem } from "../rating-search/schema/output.ts";
 import { isRatingWithdrawn } from "./isRatingWithdrawn.ts";
 
 export function newestRelevantRating(
