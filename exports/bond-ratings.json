@@ -381,40 +381,6 @@
 			"subjectName": "Общество с ограниченной ответственностью Биннофарм Групп"
 		}
 	},
-	"RU000A106GD2": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "12.11.2025",
-			"inn": "2460066195",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации РусГидро серии БО-П11",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov12g",
-			"objectId": "202159",
-			"isin": "RU000A106GD2",
-			"subjectName": "Публичное акционерное общество Федеральная гидрогенерирующая компания - РусГидро"
-		},
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "15.09.2025",
-			"inn": "2460066195",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «РусГидро», Старший необеспеченный долг серии: БО-П11, ISIN: RU000A106GD2, гос.рег.номер: 4B021155038E001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6082/",
-			"objectId": "202159",
-			"isin": "RU000A106GD2",
-			"subjectName": "Публичное акционерное общество «Федеральная гидрогенерирующая компания - РусГидро»"
-		}
-	},
 	"RU000A102FT9": {
 		"EXPERT_RA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -677,20 +643,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-02R, ISIN: RU000A1017J5, гос.рег.номер: 4B02-02-00146-A-003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-02R, ISIN: RU000A1017J5, рег.номер: 4B02-02-00146-A-003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201324",
 			"isin": "RU000A1017J5",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A10E6V2": {
@@ -762,6 +728,22 @@
 		}
 	},
 	"RU000A1065B1": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7804016807",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АБЗ-1 001Р-04",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/BaltProject-RA-bonds-300326/",
+			"objectId": "201027",
+			"isin": "RU000A1065B1",
+			"subjectName": "Акционерное общество \"Промышленно-строительная фирма  \"Балтийский проект\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "UP - повышение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -1321,17 +1303,17 @@
 	},
 	"RU000A10BJ02": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "29.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "1433000147",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АЛРОСА серии 001P-03",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/apr29a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr02a",
 			"objectId": "201094",
 			"isin": "RU000A10BJ02",
 			"subjectName": "Акционерная компания АЛРОСА (публичное акционерное общество)"
@@ -1424,6 +1406,22 @@
 		}
 	},
 	"RU000A10ASW4": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П14, рег. № 4B02-14-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p14/43688/",
+			"objectId": "203810",
+			"isin": "RU000A10ASW4",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -1839,6 +1837,40 @@
 			"objectId": "202382",
 			"isin": "RU000A105A87",
 			"subjectName": "Публичное акционерное общество Современный коммерческий флот"
+		}
+	},
+	"RU000A10EPW2": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "6685151087",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Брусника 002Р-07",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Brusnika-bonds-RA-300326/",
+			"objectId": "208564",
+			"isin": "RU000A10EPW2",
+			"subjectName": "Общество с ограниченной ответственностью «Брусника. Строительство и девелопмент»"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "27.03.2026",
+			"inn": "6685151087",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"БРУСНИКА. СТРОИТЕЛЬСТВО И ДЕВЕЛОПМЕНТ\", Старший необеспеченный долг серии: 002Р-07, ISIN: RU000A10EPW2, рег.номер: 4B020700492R002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6718/",
+			"objectId": "208564",
+			"isin": "RU000A10EPW2",
+			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БРУСНИКА. СТРОИТЕЛЬСТВО И ДЕВЕЛОПМЕНТ\""
 		}
 	},
 	"RU000A107WL0": {
@@ -2471,6 +2503,24 @@
 			"subjectName": "Акционерное общество Группа ГМС"
 		}
 	},
+	"RU000A108U72": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "2723115222",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Первое кол.бюро НАО 001Р-05",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/PKB-bonds-RA-300326/",
+			"objectId": "208571",
+			"isin": "RU000A108U72",
+			"subjectName": "Непубличное акционерное общество Профессиональная коллекторская организация  «Первое клиентское бюро»"
+		}
+	},
 	"RU000A109VJ2": {
 		"AKRA": {
 			"ratingAction": "UP – повышение кредитного рейтинга",
@@ -2648,6 +2698,22 @@
 		}
 	},
 	"RU000A10CQ93": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П17, рег. № 4B02-17-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p17/43699/",
+			"objectId": "203813",
+			"isin": "RU000A10CQ93",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -3087,17 +3153,17 @@
 	},
 	"RU000A10BP38": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.10.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "1435027673",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "A+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Республика Саха (Якутия), Старший необеспеченный долг серии: 34005, ISIN: RU000A10BP38, гос.рег.номер: RU34005RSY0",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Республика Саха (Якутия), Старший необеспеченный долг серии: 34005, ISIN: RU000A10BP38, рег.номер: RU34005RSY0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6156/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6740/",
 			"objectId": "199870",
 			"isin": "RU000A10BP38",
 			"subjectName": "Республика Саха (Якутия)"
@@ -3693,20 +3759,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-10R, ISIN: RU000A107UW1, гос.рег.номер: 4B021000146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-10R, ISIN: RU000A107UW1, рег.номер: 4B021000146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201371",
 			"isin": "RU000A107UW1",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A109825": {
@@ -3868,6 +3934,22 @@
 		}
 	},
 	"RU000A10BNM4": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7804016807",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АБЗ-1 002P-03",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/BaltProject-RA-bonds-300326/",
+			"objectId": "201038",
+			"isin": "RU000A10BNM4",
+			"subjectName": "Акционерное общество \"Промышленно-строительная фирма  \"Балтийский проект\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "UP - повышение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -3903,20 +3985,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.12.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 005P-03R, ISIN: RU000A10DRF5, гос.рег.номер: 4B020300146A004P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 005P-03R, ISIN: RU000A10DRF5, рег.номер: 4B020300146A004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6380/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201469",
 			"isin": "RU000A10DRF5",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A10E6Q2": {
@@ -4095,20 +4177,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "29.08.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 006Р-03R, ISIN: RU000A10CLW5, гос.рег.номер: 4B040300146A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 006Р-03R, ISIN: RU000A10CLW5, рег.номер: 4B040300146A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6045/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201465",
 			"isin": "RU000A10CLW5",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A101CQ4": {
@@ -4202,6 +4284,22 @@
 		}
 	},
 	"RU000A10DCK7": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7804016807",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АБЗ-1 002P-04",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/BaltProject-RA-bonds-300326/",
+			"objectId": "201039",
+			"isin": "RU000A10DCK7",
+			"subjectName": "Акционерное общество \"Промышленно-строительная фирма  \"Балтийский проект\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -4411,6 +4509,40 @@
 			"objectId": "200375",
 			"isin": "RU000A104Y15",
 			"subjectName": "Публичное Акционерное Общество НоваБев ГРУПП"
+		}
+	},
+	"RU000A10EPX0": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "27.03.2026",
+			"inn": "2460066195",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации РусГидро серии БО-002Р-12",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar27",
+			"objectId": "208566",
+			"isin": "RU000A10EPX0",
+			"subjectName": "Публичное акционерное общество Федеральная гидрогенерирующая компания - РусГидро"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "27.03.2026",
+			"inn": "2460066195",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"РУСГИДРО\", Старший необеспеченный долг серии: БО-002Р-12, ISIN: RU000A10EPX0, рег.номер: 4B021255038E002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6716/",
+			"objectId": "208566",
+			"isin": "RU000A10EPX0",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ГИДРОГЕНЕРИРУЮЩАЯ КОМПАНИЯ - РУСГИДРО\""
 		}
 	},
 	"RU000A10BFZ2": {
@@ -4624,6 +4756,22 @@
 		}
 	},
 	"RU000A109PP1": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7804016807",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АБЗ-1 002Р-01",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/BaltProject-RA-bonds-300326/",
+			"objectId": "201033",
+			"isin": "RU000A109PP1",
+			"subjectName": "Акционерное общество \"Промышленно-строительная фирма  \"Балтийский проект\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "UP - повышение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -4642,6 +4790,22 @@
 		}
 	},
 	"RU000A10EN37": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П21, рег. № 4B02-21-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p21/43714/",
+			"objectId": "208550",
+			"isin": "RU000A10EN37",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -5012,6 +5176,22 @@
 		}
 	},
 	"RU000A0ZZ885": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-09, рег. №",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-09/43677/",
+			"objectId": "203757",
+			"isin": "RU000A0ZZ885",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -5239,20 +5419,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-07R, ISIN: RU000A107605, гос.рег.номер: 4B020700146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-07R, ISIN: RU000A107605, рег.номер: 4B020700146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201363",
 			"isin": "RU000A107605",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A10EEZ9": {
@@ -5571,20 +5751,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.07.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 006Р-01R, ISIN: RU000A10C1S1, гос.рег.номер: 4B040100146A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 006Р-01R, ISIN: RU000A10C1S1, рег.номер: 4B040100146A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5903/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201429",
 			"isin": "RU000A10C1S1",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A1083A6": {
@@ -6035,17 +6215,17 @@
 	},
 	"RU000A1032P1": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.04.2025",
+			"releaseDate": "01.04.2026",
 			"inn": "9704018755",
-			"objectType": "TMNB - облигации, обеспеченные залогом денежных требований",
+			"objectType": "TMNB – облигации, обеспеченные залогом денежных требований",
 			"ratingValue": "ruAAA.sf",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации СФО ВТБ РКС-1 серии 01",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/apr07b",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr01a",
 			"objectId": "202464",
 			"isin": "RU000A1032P1",
 			"subjectName": "Общество с ограниченной ответственностью Специализированное финансовое общество ВТБ РКС – 1"
@@ -6314,6 +6494,22 @@
 		}
 	},
 	"RU000A0ZZ877": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-10, рег. №",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-10/43654/",
+			"objectId": "203760",
+			"isin": "RU000A0ZZ877",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -6629,20 +6825,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-12R, ISIN: RU000A108PZ2, гос.рег.номер: 4B021200146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-12R, ISIN: RU000A108PZ2, рег.номер: 4B021200146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201418",
 			"isin": "RU000A108PZ2",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A1053P7": {
@@ -7315,6 +7511,24 @@
 			"subjectName": "Публичное акционерное общество «Магнит»"
 		}
 	},
+	"RU000A10ER66": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "02.04.2026",
+			"inn": "7736216869",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ФОСАГРО\", Старший необеспеченный долг серии: БО-02-06, ISIN: RU000A10ER66, рег.номер: 4B020606556A002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6739/",
+			"objectId": "208579",
+			"isin": "RU000A10ER66",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФОСАГРО\""
+		}
+	},
 	"RU000A10ABC2": {
 		"AKRA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -7543,20 +7757,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "28.10.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 005P-02R, ISIN: RU000A10DA66, гос.рег.номер: 4B020200146A004P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 005P-02R, ISIN: RU000A10DA66, рег.номер: 4B020200146A004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6220/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201428",
 			"isin": "RU000A10DA66",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A0ZYWU3": {
@@ -7859,24 +8073,6 @@
 			"objectId": "203579",
 			"isin": "RU000A10BQX4",
 			"subjectName": "Публичное акционерное общество «Россети Северо-Запад»"
-		}
-	},
-	"RU000A1060Y4": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "31.07.2025",
-			"inn": "4705081944",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA+",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации ВИС ФИНАНС серии БО-П03",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul31d",
-			"objectId": "200433",
-			"isin": "RU000A1060Y4",
-			"subjectName": "Группа ВИС (Акционерное общество)"
 		}
 	},
 	"RU000A10DTT2": {
@@ -8319,20 +8515,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-11R, ISIN: RU000A107UX9, гос.рег.номер: 4B021100146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-11R, ISIN: RU000A107UX9, рег.номер: 4B021100146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201374",
 			"isin": "RU000A107UX9",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A1057S2": {
@@ -8456,6 +8652,22 @@
 		}
 	},
 	"RU000A10BU31": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П15, рег. № 4B02-15-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p15/43689/",
+			"objectId": "203811",
+			"isin": "RU000A10BU31",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -8475,17 +8687,17 @@
 	},
 	"RU000A109L72": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.10.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "1435027673",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "A+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Республика Саха (Якутия), Старший необеспеченный долг серии: 35016, ISIN: RU000A109L72, гос.рег.номер: RU35016RSY0",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Республика Саха (Якутия), Старший необеспеченный долг серии: 35016, ISIN: RU000A109L72, рег.номер: RU35016RSY0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6156/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6740/",
 			"objectId": "199875",
 			"isin": "RU000A109L72",
 			"subjectName": "Республика Саха (Якутия)"
@@ -9067,24 +9279,6 @@
 			"subjectName": "Публичное акционерное общество ГРУППА КОМПАНИЙ СЕГЕЖА"
 		}
 	},
-	"RU000A109JW0": {
-		"AKRA": {
-			"ratingAction": "DG – понижение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "1650032058",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "A(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"КАМАЗ\", Старший необеспеченный долг серии: БО-П12, ISIN: RU000A109JW0, рег.номер: 4B021255010D001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6678/",
-			"objectId": "203806",
-			"isin": "RU000A109JW0",
-			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАМАЗ\""
-		}
-	},
 	"RU000A107AM4": {
 		"AKRA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -9122,6 +9316,22 @@
 		}
 	},
 	"RU000A1070X5": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7804016807",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АБЗ-1 001P-05",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/BaltProject-RA-bonds-300326/",
+			"objectId": "201030",
+			"isin": "RU000A1070X5",
+			"subjectName": "Акционерное общество \"Промышленно-строительная фирма  \"Балтийский проект\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "UP - повышение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -9891,20 +10101,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "25.07.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 006Р-02R, ISIN: RU000A10C6G5, гос.рег.номер: 4B040200146A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 006Р-02R, ISIN: RU000A10C6G5, рег.номер: 4B040200146A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5948/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201430",
 			"isin": "RU000A10C6G5",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A10BRM5": {
@@ -10167,20 +10377,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-08R, ISIN: RU000A107HG1, гос.рег.номер: 4B020800146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-08R, ISIN: RU000A107HG1, рег.номер: 4B020800146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201365",
 			"isin": "RU000A107HG1",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A0JSGV0": {
@@ -10273,6 +10483,40 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИБУР ХОЛДИНГ\""
 		}
 	},
+	"RU000A10EQ75": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7707710865",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "ЕвразХолдинг Финанс 003P-06",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Evraz-RA-bonds-300326/",
+			"objectId": "208569",
+			"isin": "RU000A10EQ75",
+			"subjectName": "Публичное акционерное общество «ЕВРАЗ»"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7707710865",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ЕВРАЗХОЛДИНГ ФИНАНС\", Старший необеспеченный долг серии: 003Р-06, ISIN: RU000A10EQ75, рег.номер: 4B020636383R003P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6721/",
+			"objectId": "208569",
+			"isin": "RU000A10EQ75",
+			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЕВРАЗХОЛДИНГ ФИНАНС\""
+		}
+	},
 	"RU000A105KR6": {
 		"EXPERT_RA": {
 			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
@@ -10325,20 +10569,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.05.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-15R, ISIN: RU000A10BK17, гос.рег.номер: 4B02-15-00146-A-003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-15R, ISIN: RU000A10BK17, рег.номер: 4B021500146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5707/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201425",
 			"isin": "RU000A10BK17",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A107T27": {
@@ -10553,20 +10797,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-13R, ISIN: RU000A109B33, гос.рег.номер: 4B021300146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-13R, ISIN: RU000A109B33, рег.номер: 4B021300146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201421",
 			"isin": "RU000A109B33",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A107F49": {
@@ -11156,6 +11400,22 @@
 		}
 	},
 	"RU000A10EAC6": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П20, рег. № 4B02-20-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p20/43713/",
+			"objectId": "205213",
+			"isin": "RU000A10EAC6",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -11907,20 +12167,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "28.01.2026",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 005P-04R, ISIN: RU000A10E630, рег.номер: 4B020400146A004P",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 005P-04R, ISIN: RU000A10E630, рег.номер: 4B020400146A004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6523/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "205139",
 			"isin": "RU000A10E630",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A105M91": {
@@ -12101,20 +12361,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.05.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-14R, ISIN: RU000A10BK09, гос.рег.номер: 4B02-14-00146-A-003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-14R, ISIN: RU000A10BK09, рег.номер: 4B021400146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5707/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201423",
 			"isin": "RU000A10BK09",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A102DS6": {
@@ -12203,24 +12463,6 @@
 			"objectId": "200450",
 			"isin": "RU000A10C725",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
-		}
-	},
-	"RU000A1089J4": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "01.11.2025",
-			"inn": "7810962785",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации Селектел серии 001Р-04R",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov01d",
-			"objectId": "202076",
-			"isin": "RU000A1089J4",
-			"subjectName": "Акционерное общество Селектел"
 		}
 	},
 	"RU000A10D806": {
@@ -12553,6 +12795,22 @@
 			"objectId": "202180",
 			"isin": "RU000A10BQC8",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  ХЭНДЕРСОН ФЭШН ГРУПП"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "5047265516",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО ЭЙЧ ЭФ ДЖИ, Старший необеспеченный долг серии: 001P-01, ISIN: RU000A10BQC8, рег.номер: 4B020103109G001P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6725/",
+			"objectId": "202180",
+			"isin": "RU000A10BQC8",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО ХЭНДЕРСОН ФЭШН ГРУПП"
 		}
 	},
 	"RU000A104B46": {
@@ -12851,6 +13109,24 @@
 			"subjectName": "Группа ВИС (Акционерное общество)"
 		}
 	},
+	"RU000A10EQ83": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "9731004688",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГК \"САМОЛЕТ\", Старший необеспеченный долг серии: 002Р-03, ISIN: RU000A10EQ83, рег.номер: 4B02-03-16493-A-002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6722/",
+			"objectId": "208574",
+			"isin": "RU000A10EQ83",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГРУППА КОМПАНИЙ \"САМОЛЕТ\""
+		}
+	},
 	"RU000A10CB66": {
 		"EXPERT_RA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
@@ -12887,20 +13163,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-06R, ISIN: RU000A106565, гос.рег.номер: 4B020600146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-06R, ISIN: RU000A106565, рег.номер: 4B020600146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201361",
 			"isin": "RU000A106565",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A10EF52": {
@@ -13009,6 +13285,24 @@
 			"subjectName": "Публичное акционерное общество «Ростелеком»"
 		}
 	},
+	"RU000A10D3J5": {
+		"AKRA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "14.10.2025",
+			"inn": "7724490000",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации, АО \"Почта России\", Старший необеспеченный долг серии: 003Р-01, ISIN: RU000A10D3J5, гос.рег.номер: 4B020116643A003P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6173/",
+			"objectId": "202780",
+			"isin": "RU000A10D3J5",
+			"subjectName": "Акционерное Общество \"Почта России\""
+		}
+	},
 	"RU000A107UA7": {
 		"EXPERT_RA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
@@ -13041,24 +13335,6 @@
 			"objectId": "201489",
 			"isin": "RU000A107UA7",
 			"subjectName": "\"Газпромбанк\" (Акционерное общество)"
-		}
-	},
-	"RU000A10D3J5": {
-		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "14.10.2025",
-			"inn": "7724490000",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"Почта России\", Старший необеспеченный долг серии: 003Р-01, ISIN: RU000A10D3J5, гос.рег.номер: 4B020116643A003P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6173/",
-			"objectId": "202780",
-			"isin": "RU000A10D3J5",
-			"subjectName": "Акционерное Общество \"Почта России\""
 		}
 	},
 	"RU000A105W08": {
@@ -13268,6 +13544,22 @@
 		}
 	},
 	"RU000A10EN29": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П22, рег. № 4B02-22-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p22/43715/",
+			"objectId": "208551",
+			"isin": "RU000A10EN29",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -13635,20 +13927,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "16.10.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 005P-01R, ISIN: RU000A10D483, гос.рег.номер: 4B020100146A004P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 005P-01R, ISIN: RU000A10D483, рег.номер: 4B020100146A004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6182/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201427",
 			"isin": "RU000A10D483",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A106AT1": {
@@ -15167,17 +15459,17 @@
 	},
 	"RU000A1033B9": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.10.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "1435027673",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "A+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Республика Саха (Якутия), Старший необеспеченный долг серии: 35015, ISIN: RU000A1033B9, гос.рег.номер: RU35015RSY0",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Республика Саха (Якутия), Старший необеспеченный долг серии: 35015, ISIN: RU000A1033B9, рег.номер: RU35015RSY0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6156/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6740/",
 			"objectId": "199874",
 			"isin": "RU000A1033B9",
 			"subjectName": "Республика Саха (Якутия)"
@@ -15690,6 +15982,22 @@
 		}
 	},
 	"RU000A10DQK7": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7804016807",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АБЗ-1 002P-05",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/BaltProject-RA-bonds-300326/",
+			"objectId": "201084",
+			"isin": "RU000A10DQK7",
+			"subjectName": "Акционерное общество \"Промышленно-строительная фирма  \"Балтийский проект\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -15901,20 +16209,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.04.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 003P-09R, ISIN: RU000A107HH9, гос.рег.номер: 4B020900146A003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 003P-09R, ISIN: RU000A107HH9, рег.номер: 4B020900146A003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5637/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201368",
 			"isin": "RU000A107HH9",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A10EJA1": {
@@ -15935,17 +16243,17 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "12.03.2026",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 005P-05R, ISIN: RU000A10EJA1, рег.номер: 4B020500146A004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6660/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "205138",
 			"isin": "RU000A10EJA1",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
@@ -16507,6 +16815,24 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКЦИОНЕРНАЯ ФИНАНСОВАЯ КОРПОРАЦИЯ \"СИСТЕМА\""
 		}
 	},
+	"RU000A10EMF4": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "2723115222",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Первое кол.бюро НАО 001Р-10",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/PKB-bonds-RA-300326/",
+			"objectId": "208573",
+			"isin": "RU000A10EMF4",
+			"subjectName": "Непубличное акционерное общество Профессиональная коллекторская организация  «Первое клиентское бюро»"
+		}
+	},
 	"RU000A1083U4": {
 		"NKR": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -16858,6 +17184,22 @@
 		}
 	},
 	"RU000A10CQ77": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П16, рег. № 4B02-16-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p16/43690/",
+			"objectId": "203812",
+			"isin": "RU000A10CQ77",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -17017,24 +17359,6 @@
 			"subjectName": "Публичное акционерное общество «АПРИ»"
 		}
 	},
-	"RU000A1085D5": {
-		"AKRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "03.12.2025",
-			"inn": "7707049388",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Ростелеком», Старший необеспеченный долг серии: 002P-14R, ISIN: RU000A1085D5, гос.рег.номер: 4B021400124A002P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
-			"objectId": "203803",
-			"isin": "RU000A1085D5",
-			"subjectName": "Публичное акционерное общество «Ростелеком»"
-		}
-	},
 	"RU000A106375": {
 		"EXPERT_RA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -17191,20 +17515,20 @@
 			"subjectName": "Публичное акционерное общество Газпром нефть"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "28.08.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "5504036333",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Газпром нефть\", Старший необеспеченный долг серии: 006Р-04R, ISIN: RU000A10CLE3, гос.рег.номер: 4B040400146A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ГАЗПРОМ НЕФТЬ\", Старший необеспеченный долг серии: 006Р-04R, ISIN: RU000A10CLE3, рег.номер: 4B040400146A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6038/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
 			"objectId": "201466",
 			"isin": "RU000A10CLE3",
-			"subjectName": "Публичное акционерное общество \"Газпром Нефть\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
 		}
 	},
 	"RU000A10DYB0": {
@@ -17440,6 +17764,22 @@
 		}
 	},
 	"RU000A103QK3": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "7714431630",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Мэйл.Ру Финанс 001P-01",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/VK-RA-310326/",
+			"objectId": "203357",
+			"isin": "RU000A103QK3",
+			"subjectName": "Общество с ограниченной ответственностью «Мэйл.Ру Финанс»"
+		},
 		"AKRA": {
 			"ratingAction": "UP - повышение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -17562,6 +17902,22 @@
 		}
 	},
 	"RU000A10DP93": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П18, рег. № 4B02-18-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p18/43701/",
+			"objectId": "203814",
+			"isin": "RU000A10DP93",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -17687,23 +18043,39 @@
 	},
 	"RU000A10BQK1": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.06.2025",
+			"releaseDate": "01.04.2026",
 			"inn": "9704147373",
-			"objectType": "TMNB - облигации, обеспеченные залогом денежных требований",
+			"objectType": "TMNB – облигации, обеспеченные залогом денежных требований",
 			"ratingValue": "ruAAA.sf",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации СФО ВТБ РКС Эталон серии 05",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun11d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr01c",
 			"objectId": "202432",
 			"isin": "RU000A10BQK1",
 			"subjectName": "Общество с ограниченной ответственностью Специализированное финансовое общество ВТБ РКС Эталон"
 		}
 	},
 	"RU000A109VM6": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П13, рег. № 4B02-13-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vybrat-vypusk-birzhevyh-obligacij-pao-kamaz-bo-p13/43686/",
+			"objectId": "203808",
+			"isin": "RU000A109VM6",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -18157,17 +18529,17 @@
 	},
 	"RU000A1062J1": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.04.2025",
+			"releaseDate": "01.04.2026",
 			"inn": "9704147373",
-			"objectType": "TMNB - облигации, обеспеченные залогом денежных требований",
+			"objectType": "TMNB – облигации, обеспеченные залогом денежных требований",
 			"ratingValue": "ruAAA.sf",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации СФО ВТБ РКС Эталон серии 02",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/apr07c",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr01b",
 			"objectId": "202424",
 			"isin": "RU000A1062J1",
 			"subjectName": "Общество с ограниченной ответственностью Специализированное финансовое общество ВТБ РКС Эталон"
@@ -18210,6 +18582,22 @@
 		}
 	},
 	"RU000A10DPB8": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "1650032058",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ПАО \"КАМАЗ\" серии БО-П19, рег. № 4B02-19-55010-D-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/vypusk-birzhevyh-obligacij-pao-kamaz-bo-p19/43711/",
+			"objectId": "203815",
+			"isin": "RU000A10DPB8",
+			"subjectName": "Публичное акционерное общество \"КАМАЗ\""
+		},
 		"AKRA": {
 			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -18352,6 +18740,22 @@
 		}
 	},
 	"RU000A10B263": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.03.2026",
+			"inn": "7804016807",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АБЗ-1 002P-02",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/BaltProject-RA-bonds-300326/",
+			"objectId": "201036",
+			"isin": "RU000A10B263",
+			"subjectName": "Акционерное общество \"Промышленно-строительная фирма  \"Балтийский проект\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "UP - повышение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -18631,53 +19035,19 @@
 			"subjectName": "Ульяновская область"
 		}
 	},
-	"RU000A10AT19": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "06.08.2025",
-			"inn": "7715630469",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации ИКС 5 ФИНАНС серии 003P-09",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/aug06",
-			"objectId": "201975",
-			"isin": "RU000A10AT19",
-			"subjectName": "Общество с ограниченной ответственностью ИКС 5 ФИНАНС"
-		},
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "08.07.2025",
-			"inn": "7715630469",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ИКС 5 ФИНАНС\", Старший необеспеченный долг серии: 003P-09, ISIN: RU000A10AT19, гос.рег.номер: 4B020936241R003P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5892/",
-			"objectId": "201975",
-			"isin": "RU000A10AT19",
-			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИКС 5 ФИНАНС\""
-		}
-	},
 	"RU000A10DY92": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.12.2025",
+			"releaseDate": "02.04.2026",
 			"inn": "1433000147",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АЛРОСА серии 002Р-01",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec23",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr02a",
 			"objectId": "201095",
 			"isin": "RU000A10DY92",
 			"subjectName": "Акционерная компания АЛРОСА (публичное акционерное общество)"
