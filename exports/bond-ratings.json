@@ -173,17 +173,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-П-25, ISIN: RU000A108C74, гос.рег.номер: 4B022536419R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-П-25, ISIN: RU000A108C74, рег.номер: 4B022536419R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214990",
 			"isin": "RU000A108C74",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
@@ -759,40 +759,6 @@
 			"objectId": "215104",
 			"isin": "RU000A10BNF8",
 			"subjectName": "Публичное акционерное общество «Федеральная гидрогенерирующая компания - РусГидро»"
-		}
-	},
-	"RU000A106888": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "08.12.2025",
-			"inn": "7838360491",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации Группа ЛСР серии 001P-08",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec08e",
-			"objectId": "214764",
-			"isin": "RU000A106888",
-			"subjectName": "Публичное акционерное общество Группа ЛСР"
-		},
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "7838360491",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "A(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"ГРУППА ЛСР\", Старший необеспеченный долг серии: 001P-08, ISIN: RU000A106888, рег.номер: 4B020855234E001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6675/",
-			"objectId": "214764",
-			"isin": "RU000A106888",
-			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГРУППА ЛСР\""
 		}
 	},
 	"RU000A0ZYAP9": {
@@ -1491,17 +1457,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-02, ISIN: RU000A1057D4, гос.рег.номер: 4B020225642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-02, ISIN: RU000A1057D4, рег.номер: 4B020225642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "213013",
 			"isin": "RU000A1057D4",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -1873,17 +1839,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-П-23, ISIN: RU000A10AHC9, гос.рег.номер: 4B022336419R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-П-23, ISIN: RU000A10AHC9, рег.номер: 4B022336419R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214994",
 			"isin": "RU000A10AHC9",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
@@ -2347,17 +2313,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.06.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-14, ISIN: RU000A10BQD6, гос.рег.номер: 4B021425642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-14, ISIN: RU000A10BQD6, рег.номер: 4B021425642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5788/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214500",
 			"isin": "RU000A10BQD6",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -3009,40 +2975,6 @@
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО «АЛЬФА-БАНК»"
 		}
 	},
-	"RU000A103NU9": {
-		"EXPERT_RA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "28.04.2026",
-			"inn": "7717151380",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruAA+",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Автодор серии БO-004P-01",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr28l",
-			"objectId": "213703",
-			"isin": "RU000A103NU9",
-			"subjectName": "Государственная компания Российские автомобильные дороги"
-		},
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "14.04.2026",
-			"inn": "7717151380",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ГОСУДАРСТВЕННАЯ КОМПАНИЯ \"АВТОДОР\", Старший необеспеченный долг серии: БO-004P-01, ISIN: RU000A103NU9, рег.номер: 4B020100011T004P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6778/",
-			"objectId": "213703",
-			"isin": "RU000A103NU9",
-			"subjectName": "ГОСУДАРСТВЕННАЯ КОМПАНИЯ \"РОССИЙСКИЕ АВТОМОБИЛЬНЫЕ ДОРОГИ\""
-		}
-	},
 	"RU000A1075J3": {
 		"EXPERT_RA": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -3061,17 +2993,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-02П-05, ISIN: RU000A1075J3, гос.рег.номер: 4B020536419R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-02П-05, ISIN: RU000A1075J3, рег.номер: 4B020536419R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214967",
 			"isin": "RU000A1075J3",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
@@ -3427,6 +3359,24 @@
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИНАРА - ТРАНСПОРТНЫЕ МАШИНЫ\""
 		}
 	},
+	"RU000A10F504": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "15.05.2026",
+			"inn": "7750004150",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ВЭБ.РФ, Старший необеспеченный долг серии: ПБО-002Р-58, ISIN: RU000A10F504, рег.номер: 4B0228100004T002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6874/",
+			"objectId": "216647",
+			"isin": "RU000A10F504",
+			"subjectName": "ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ РАЗВИТИЯ \"ВЭБ.РФ\""
+		}
+	},
 	"RU000A10DBE2": {
 		"AKRA": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -3617,6 +3567,24 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКЦИОНЕРНАЯ ФИНАНСОВАЯ КОРПОРАЦИЯ \"СИСТЕМА\""
 		}
 	},
+	"RU000A10EYZ7": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.04.2026",
+			"inn": "7812014560",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Мегафон серии БО-002Р-12",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr28",
+			"objectId": "216076",
+			"isin": "RU000A10EYZ7",
+			"subjectName": "Публичное акционерное общество МегаФон"
+		}
+	},
 	"RU000A102SV8": {
 		"EXPERT_RA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -3721,17 +3689,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.02.2026",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AA+(RU)",
+			"ratingValue": "AA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-04, ISIN: RU000A10E7W8, рег.номер: 4B020425642H002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6559/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "215873",
 			"isin": "RU000A10E7W8",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -3807,17 +3775,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-П-08, ISIN: RU000A102K39, гос.рег.номер: 4B020836419R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-П-08, ISIN: RU000A102K39, рег.номер: 4B020836419R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214987",
 			"isin": "RU000A102K39",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
@@ -4185,24 +4153,6 @@
 			"objectId": "216092",
 			"isin": "RU000A10EN11",
 			"subjectName": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\""
-		}
-	},
-	"RU000A10A7S0": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "01.11.2025",
-			"inn": "7810962785",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации Селектел серии 001P-05R",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov01d",
-			"objectId": "215049",
-			"isin": "RU000A10A7S0",
-			"subjectName": "Акционерное общество Селектел"
 		}
 	},
 	"RU000A10C8C0": {
@@ -5659,17 +5609,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-08, ISIN: RU000A108WY1, гос.рег.номер: 4B020825642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-08, ISIN: RU000A108WY1, рег.номер: 4B020825642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214495",
 			"isin": "RU000A108WY1",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -6489,6 +6439,24 @@
 			"subjectName": "Общество с ограниченной ответственностью «Лизинговая компания Простые решения»"
 		}
 	},
+	"RU000A10EWA4": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "06.05.2026",
+			"inn": "9704268000",
+			"objectType": "TMNB – облигации, обеспеченные залогом денежных требований",
+			"ratingValue": "ruAAA.sf",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации СФО ВТБ РКС Олимп класса А4",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may06b",
+			"objectId": "216638",
+			"isin": "RU000A10EWA4",
+			"subjectName": "Общество с ограниченной ответственностью Специализированное финансовое общество ВТБ РКС Олимп"
+		}
+	},
 	"RU000A109098": {
 		"EXPERT_RA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -7191,17 +7159,17 @@
 	},
 	"RU000A10DSG1": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "12.12.2025",
+			"releaseDate": "14.05.2026",
 			"inn": "5406634649",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34028, ISIN: RU000A10DSG1, гос.рег.номер: RU34028ANO0",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34028, ISIN: RU000A10DSG1, рег.номер: RU34028ANO0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6401/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6870/",
 			"objectId": "214153",
 			"isin": "RU000A10DSG1",
 			"subjectName": "Новосибирская область"
@@ -7455,17 +7423,17 @@
 	},
 	"RU000A107B19": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.11.2025",
+			"releaseDate": "14.05.2026",
 			"inn": "5406634649",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 35023, ISIN: RU000A107B19, гос.рег.номер: RU35023ANO0",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 35023, ISIN: RU000A107B19, рег.номер: RU35023ANO0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6298/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6870/",
 			"objectId": "214158",
 			"isin": "RU000A107B19",
 			"subjectName": "Новосибирская область"
@@ -7597,17 +7565,17 @@
 	},
 	"RU000A10ABC2": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.11.2025",
+			"releaseDate": "14.05.2026",
 			"inn": "5406634649",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34026, ISIN: RU000A10ABC2, гос.рег.номер: RU34026ANO0",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34026, ISIN: RU000A10ABC2, рег.номер: RU34026ANO0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6298/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6870/",
 			"objectId": "214152",
 			"isin": "RU000A10ABC2",
 			"subjectName": "Новосибирская область"
@@ -9905,38 +9873,38 @@
 			"subjectName": "Открытое акционерное общество «Российские железные дороги»"
 		}
 	},
-	"RU000A0ZYJ91": {
+	"RU000A10EA08": {
 		"EXPERT_RA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "06.04.2026",
-			"inn": "4716016979",
+			"releaseDate": "13.02.2026",
+			"inn": "7736227885",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruAAA",
+			"ratingValue": "ruBBB+",
 			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Россети серии БО-04",
+			"objectName": "Облигации СофтЛайн серии 002P-02",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr06h",
-			"objectId": "213512",
-			"isin": "RU000A0ZYJ91",
-			"subjectName": "Публичное акционерное общество Федеральная сетевая компания - Россети"
+			"releaseUrl": "https://raexpert.ru/releases/2026/feb13b",
+			"objectId": "216015",
+			"isin": "RU000A10EA08",
+			"subjectName": "Публичное акционерное общество Софтлайн"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.10.2025",
-			"inn": "4716016979",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"РОССЕТИ\", Старший необеспеченный долг серии: БО-04, ISIN: RU000A0ZYJ91, гос.рег.номер: 4B020465018D",
+			"releaseDate": "26.03.2026",
+			"inn": "7736227885",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"СОФТЛАЙН\", Старший необеспеченный долг серии: 002Р-02, ISIN: RU000A10EA08, рег.номер: 4B020245848H002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6155/",
-			"objectId": "213512",
-			"isin": "RU000A0ZYJ91",
-			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ - РОССЕТИ\""
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6705/",
+			"objectId": "216015",
+			"isin": "RU000A10EA08",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СОФТЛАЙН\""
 		}
 	},
 	"RU000A101ZH4": {
@@ -10023,24 +9991,6 @@
 			"objectId": "214446",
 			"isin": "RU000A10BGY3",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\""
-		}
-	},
-	"RU000A1077U6": {
-		"EXPERT_RA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "04.03.2026",
-			"inn": "7325001151",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruBBB",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Ульяновская область серии 34006",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/mar04c",
-			"objectId": "215024",
-			"isin": "RU000A1077U6",
-			"subjectName": "Ульяновская область"
 		}
 	},
 	"RU000A109XR1": {
@@ -11171,17 +11121,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-02П-01, ISIN: RU000A104V26, гос.рег.номер: 4B020136419R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-02П-01, ISIN: RU000A104V26, рег.номер: 4B020136419R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214976",
 			"isin": "RU000A104V26",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
@@ -11641,17 +11591,17 @@
 	},
 	"RU000A105A04": {
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 028, ISIN: RU000A105A04, гос.рег.номер: 40825642H",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 028, ISIN: RU000A105A04, рег.номер: 40825642H",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "213445",
 			"isin": "RU000A105A04",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -12427,17 +12377,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "28.07.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-01, ISIN: RU000A10C725, гос.рег.номер: 4B020125642H002P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-01, ISIN: RU000A10C725, рег.номер: 4B020125642H002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5956/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214507",
 			"isin": "RU000A10C725",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -12669,24 +12619,6 @@
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИМПЛ СОЛЮШНЗ КЭПИТЛ\""
 		}
 	},
-	"RU000A105FM7": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "06.06.2025",
-			"inn": "7806586560",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA-",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации О КЕЙ ФИНАНС серии 001P-01",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun06b",
-			"objectId": "214886",
-			"isin": "RU000A105FM7",
-			"subjectName": "Общество с ограниченной ответственностью О’КЕЙ"
-		}
-	},
 	"RU000A109S91": {
 		"AKRA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -12741,17 +12673,17 @@
 	},
 	"RU000A10BQC8": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "UP – повышение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.06.2025",
+			"releaseDate": "15.05.2026",
 			"inn": "5047265516",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Хэндерсон Фэшн Групп серии 001P-01",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun03",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may15e",
 			"objectId": "215143",
 			"isin": "RU000A10BQC8",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  ХЭНДЕРСОН ФЭШН ГРУПП"
@@ -12877,17 +12809,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-06, ISIN: RU000A1079S6, гос.рег.номер: 4B020625642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-06, ISIN: RU000A1079S6, рег.номер: 4B020625642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214511",
 			"isin": "RU000A1079S6",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -13157,6 +13089,40 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
+	"RU000A10F6F4": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "14.05.2026",
+			"inn": "7717151380",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA+",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Автодор серии БО-004Р-08",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may14d",
+			"objectId": "216645",
+			"isin": "RU000A10F6F4",
+			"subjectName": "Государственная компания Российские автомобильные дороги"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "15.05.2026",
+			"inn": "7717151380",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ГОСУДАРСТВЕННАЯ КОМПАНИЯ \"АВТОДОР\", Старший необеспеченный долг серии: БО-004Р-08, ISIN: RU000A10F6F4, рег.номер: 4B020800011T004P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6871/",
+			"objectId": "216645",
+			"isin": "RU000A10F6F4",
+			"subjectName": "ГОСУДАРСТВЕННАЯ КОМПАНИЯ \"РОССИЙСКИЕ АВТОМОБИЛЬНЫЕ ДОРОГИ\""
+		}
+	},
 	"RU000A10D5H4": {
 		"EXPERT_RA": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
@@ -13333,17 +13299,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-04, ISIN: RU000A105W08, гос.рег.номер: 4B020425642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-04, ISIN: RU000A105W08, рег.номер: 4B020425642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "213004",
 			"isin": "RU000A105W08",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -13625,17 +13591,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-13, ISIN: RU000A10B4D8, гос.рег.номер: 4B021325642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-13, ISIN: RU000A10B4D8, рег.номер: 4B021325642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214514",
 			"isin": "RU000A10B4D8",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -13781,17 +13747,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-П-11, ISIN: RU000A103C53, гос.рег.номер: 4B021136419R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-П-11, ISIN: RU000A103C53, рег.номер: 4B021136419R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214992",
 			"isin": "RU000A103C53",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
@@ -13816,6 +13782,22 @@
 		}
 	},
 	"RU000A106K35": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "13.05.2026",
+			"inn": "7708813750",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "АВТОБАН-Финанс АО БО-П04",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Avtoban-bonds-RA-130526/",
+			"objectId": "214300",
+			"isin": "RU000A106K35",
+			"subjectName": "Акционерное общество «АВТОБАН-Финанс»"
+		},
 		"EXPERT_RA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
@@ -14007,24 +13989,6 @@
 			"objectId": "213473",
 			"isin": "RU000A105112",
 			"subjectName": "МЕЖДУНАРОДНАЯ КОМПАНИЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЁННАЯ КОМПАНИЯ \"РУСАЛ\""
-		}
-	},
-	"RU000A105KU0": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "24.06.2025",
-			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации Газпром Капитал серии ЗО29-1-Д",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24c",
-			"objectId": "214616",
-			"isin": "RU000A105KU0",
-			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		}
 	},
 	"RU000A105BY1": {
@@ -14239,17 +14203,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "26.03.2026",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AA+(RU)",
+			"ratingValue": "AA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-05, ISIN: RU000A10ENS5, рег.номер: 4B020525642H002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6707/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "215877",
 			"isin": "RU000A10ENS5",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -14365,17 +14329,17 @@
 	},
 	"RU000A1043E2": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.11.2025",
+			"releaseDate": "14.05.2026",
 			"inn": "5406634649",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 35022, ISIN: RU000A1043E2, гос.рег.номер: RU35022ANO0",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 35022, ISIN: RU000A1043E2, рег.номер: RU35022ANO0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6298/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6870/",
 			"objectId": "213837",
 			"isin": "RU000A1043E2",
 			"subjectName": "Новосибирская область"
@@ -14471,17 +14435,17 @@
 	},
 	"RU000A0JXS83": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.11.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7604002902",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA-",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Ярославская область серии 35015",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov18e",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may12c",
 			"objectId": "213774",
 			"isin": "RU000A0JXS83",
 			"subjectName": "Ярославская область"
@@ -15073,17 +15037,17 @@
 	},
 	"RU000A10DG60": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.11.2025",
+			"releaseDate": "14.05.2026",
 			"inn": "5406634649",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34027, ISIN: RU000A10DG60, гос.рег.номер: RU34027ANO0",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34027, ISIN: RU000A10DG60, рег.номер: RU34027ANO0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6296/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6870/",
 			"objectId": "214154",
 			"isin": "RU000A10DG60",
 			"subjectName": "Новосибирская область"
@@ -15107,17 +15071,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-09, ISIN: RU000A10AFX9, гос.рег.номер: 4B020925642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001P-09, ISIN: RU000A10AFX9, рег.номер: 4B020925642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214334",
 			"isin": "RU000A10AFX9",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -15141,17 +15105,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "14.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-12, ISIN: RU000A10B0C8, гос.рег.номер: 4B021225642H001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 001Р-12, ISIN: RU000A10B0C8, рег.номер: 4B021225642H001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5717/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214351",
 			"isin": "RU000A10B0C8",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -15193,17 +15157,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "08.12.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-03, ISIN: RU000A10DQL5, гос.рег.номер: 4B020325642H002P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-03, ISIN: RU000A10DQL5, рег.номер: 4B020325642H002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6377/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214364",
 			"isin": "RU000A10DQL5",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -15317,17 +15281,17 @@
 	},
 	"RU000A10DLP7": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "27.11.2025",
+			"releaseDate": "13.05.2026",
 			"inn": "8601009620",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Ханты-Мансийский автономный округ - Югра, Старший необеспеченный долг серии: 34002, ISIN: RU000A10DLP7, гос.рег.номер: RU34002HMN0",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Ханты-Мансийский автономный округ - Югра, Старший необеспеченный долг серии: 34002, ISIN: RU000A10DLP7, рег.номер: RU34002HMN0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6334/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6863/",
 			"objectId": "214114",
 			"isin": "RU000A10DLP7",
 			"subjectName": "Ханты-Мансийский автономный округ - Югра"
@@ -16695,17 +16659,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-П-22, ISIN: RU000A106DP3, гос.рег.номер: 4B022236419R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-П-22, ISIN: RU000A106DP3, рег.номер: 4B022236419R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214997",
 			"isin": "RU000A106DP3",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
@@ -16795,40 +16759,6 @@
 			"objectId": "215242",
 			"isin": "RU000A106VV3",
 			"subjectName": "Открытое акционерное общество «Российские железные дороги»"
-		}
-	},
-	"RU000A1068T7": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "10.02.2026",
-			"inn": "9704044804",
-			"objectType": "TMNB – облигации, обеспеченные залогом денежных требований",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации с обеспечением, ООО «СОПФ ДОМ.РФ» 05, ISIN: RU000A1068T7, рег. номер: 40500598R001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6566/",
-			"objectId": "214882",
-			"isin": "RU000A1068T7",
-			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СПЕЦИАЛИЗИРОВАННОЕ ОБЩЕСТВО ПРОЕКТНОГО ФИНАНСИРОВАНИЯ ДОМ.РФ\""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "28.10.2025",
-			"inn": "9704044804",
-			"objectType": "TMNB - облигации, обеспеченные залогом денежных требований",
-			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации СОПФ ДОМ.РФ 05",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/oct28d",
-			"objectId": "214882",
-			"isin": "RU000A1068T7",
-			"subjectName": "Публичное акционерное общество ДОМ.РФ"
 		}
 	},
 	"RU000A101XN7": {
@@ -17003,17 +16933,17 @@
 	},
 	"RU000A1099S4": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.11.2025",
+			"releaseDate": "14.05.2026",
 			"inn": "5406634649",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34024, ISIN: RU000A1099S4, гос.рег.номер: RU34024ANO0",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Новосибирская область, Старший необеспеченный долг серии: 34024, ISIN: RU000A1099S4, рег.номер: RU34024ANO0",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6298/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6870/",
 			"objectId": "214150",
 			"isin": "RU000A1099S4",
 			"subjectName": "Новосибирская область"
@@ -18629,17 +18559,17 @@
 			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.09.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7705392230",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-02, ISIN: RU000A10CSG3, гос.рег.номер: 4B020225642H002P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-02, ISIN: RU000A10CSG3, рег.номер: 4B020225642H002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6100/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
 			"objectId": "214515",
 			"isin": "RU000A10CSG3",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
@@ -18977,6 +18907,40 @@
 			"subjectName": "Акционерное общество АСФАЛЬТОБЕТОННЫЙ ЗАВОД № 1"
 		}
 	},
+	"RU000A100ET6": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.06.2025",
+			"inn": "7729355614",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации ДОМ.РФ серии 001P-06R",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jun30",
+			"objectId": "213241",
+			"isin": "RU000A100ET6",
+			"subjectName": "Акционерное общество ДОМ.РФ"
+		},
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "07.07.2025",
+			"inn": "7729355614",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ДОМ.РФ\", Старший необеспеченный долг серии: 001P-06R, ISIN: RU000A100ET6, гос.рег.номер: 4B020600739A001P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5891/",
+			"objectId": "213241",
+			"isin": "RU000A100ET6",
+			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
+		}
+	},
 	"RU000A106P97": {
 		"AKRA": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -19029,17 +18993,17 @@
 			"subjectName": "Общество с ограниченной ответственностью РЕСО-Лизинг"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2025",
+			"releaseDate": "12.05.2026",
 			"inn": "7709431786",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО «РЕСО-Лизинг», Старший необеспеченный долг серии: БО-02П-02, ISIN: RU000A105HH3, гос.рег.номер: 4B020236419R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕСО-ЛИЗИНГ\", Старший необеспеченный долг серии: БО-02П-02, ISIN: RU000A105HH3, рег.номер: 4B020236419R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5736/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
 			"objectId": "214964",
 			"isin": "RU000A105HH3",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\""
