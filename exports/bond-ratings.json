@@ -469,17 +469,17 @@
 	},
 	"RU000A109L49": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "29.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "1433000147",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АК \"АЛРОСА\" (ПАО), Старший необеспеченный долг серии: 001P-01, ISIN: RU000A109L49, гос.рег.номер: 4B020140046N001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АК \"АЛРОСА\" (ПАО), Старший необеспеченный долг серии: 001P-01, ISIN: RU000A109L49, рег.номер: 4B020140046N001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5766/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6881/",
 			"objectId": "215118",
 			"isin": "RU000A109L49",
 			"subjectName": "АКЦИОНЕРНАЯ КОМПАНИЯ \"АЛРОСА\" (ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО)"
@@ -2331,20 +2331,20 @@
 	},
 	"RU000A109X37": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD3, ISIN: RU000A109X37, гос.рег.номер: 4B0268601481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD3, ISIN: RU000A109X37, рег.номер: 4B0268601481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215497",
 			"isin": "RU000A109X37",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10ES57": {
@@ -2973,6 +2973,40 @@
 			"objectId": "213606",
 			"isin": "RU000A0ZYU21",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО «АЛЬФА-БАНК»"
+		}
+	},
+	"RU000A103NU9": {
+		"EXPERT_RA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.04.2026",
+			"inn": "7717151380",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA+",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Автодор серии БO-004P-01",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr28l",
+			"objectId": "213703",
+			"isin": "RU000A103NU9",
+			"subjectName": "Государственная компания Российские автомобильные дороги"
+		},
+		"AKRA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "14.04.2026",
+			"inn": "7717151380",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ГОСУДАРСТВЕННАЯ КОМПАНИЯ \"АВТОДОР\", Старший необеспеченный долг серии: БO-004P-01, ISIN: RU000A103NU9, рег.номер: 4B020100011T004P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6778/",
+			"objectId": "213703",
+			"isin": "RU000A103NU9",
+			"subjectName": "ГОСУДАРСТВЕННАЯ КОМПАНИЯ \"РОССИЙСКИЕ АВТОМОБИЛЬНЫЕ ДОРОГИ\""
 		}
 	},
 	"RU000A1075J3": {
@@ -4121,20 +4155,20 @@
 	},
 	"RU000A10C618": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.07.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-004Р-08, ISIN: RU000A10C618, гос.рег.номер: 4B020860525P004P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-004Р-08, ISIN: RU000A10C618, рег.номер: 4B020860525P004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5944/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215410",
 			"isin": "RU000A10C618",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A10EN11": {
@@ -4153,6 +4187,24 @@
 			"objectId": "216092",
 			"isin": "RU000A10EN11",
 			"subjectName": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЕ ЖЕЛЕЗНЫЕ ДОРОГИ\""
+		}
+	},
+	"RU000A10A7S0": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "01.11.2025",
+			"inn": "7810962785",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации Селектел серии 001P-05R",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/nov01d",
+			"objectId": "215049",
+			"isin": "RU000A10A7S0",
+			"subjectName": "Акционерное общество Селектел"
 		}
 	},
 	"RU000A10C8C0": {
@@ -4737,20 +4789,20 @@
 	},
 	"RU000A1069P3": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 002P-SBER44, ISIN: RU000A1069P3, гос.рег.номер: 4B020201481B002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 002P-SBER44, ISIN: RU000A1069P3, рег.номер: 4B020201481B002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215515",
 			"isin": "RU000A1069P3",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10BRR4": {
@@ -5105,17 +5157,17 @@
 	},
 	"RU000A104UV0": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: БО-001P-18, ISIN: RU000A104UV0, гос.рег.номер: 4B021800307R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: БО-001P-18, ISIN: RU000A104UV0, рег.номер: 4B021800307R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214285",
 			"isin": "RU000A104UV0",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -5261,20 +5313,20 @@
 	},
 	"RU000A10DDU4": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "12.11.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-005Р-04, ISIN: RU000A10DDU4, гос.рег.номер: 4B020460525P005P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-005Р-04, ISIN: RU000A10DDU4, рег.номер: 4B020460525P005P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6261/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215392",
 			"isin": "RU000A10DDU4",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A108LU2": {
@@ -5381,20 +5433,20 @@
 	},
 	"RU000A109LG9": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD2, ISIN: RU000A109LG9, гос.рег.номер: 4B0267901481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD2, ISIN: RU000A109LG9, рег.номер: 4B0267901481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215488",
 			"isin": "RU000A109LG9",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10BT34": {
@@ -5435,20 +5487,20 @@
 	},
 	"RU000A10A9Z1": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.06.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-004Р-05, ISIN: RU000A10A9Z1, гос.рег.номер: 4B020560525P004P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-004Р-05, ISIN: RU000A10A9Z1, рег.номер: 4B020560525P004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5787/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215386",
 			"isin": "RU000A10A9Z1",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A107605": {
@@ -5678,6 +5730,22 @@
 		}
 	},
 	"RU000A106P06": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.05.2026",
+			"inn": "2508064833",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ООО \"ВСК\" серия 001P-04R, рег. № 4B02-04-36527-R-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-vsk-3/44123/",
+			"objectId": "214716",
+			"isin": "RU000A106P06",
+			"subjectName": "Международная компания акционерное общество \"ГЛОБАЛ ПОРТС ИНВЕСТМЕНТС\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
 			"country": "РОССИЯ",
@@ -5869,6 +5937,40 @@
 			"subjectName": "Общество с ограниченной ответственностью Специализированное финансовое общество Сплит Финанс"
 		}
 	},
+	"RU000A10F7J4": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "22.05.2026",
+			"inn": "1435027673",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Республика Саха (Якутия), Старший необеспеченный долг серии: 34006, ISIN: RU000A10F7J4, рег.номер: RU34006RSY0",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6898/",
+			"objectId": "216654",
+			"isin": "RU000A10F7J4",
+			"subjectName": "Республика Саха (Якутия)"
+		},
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "21.05.2026",
+			"inn": "1435027673",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA-",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Республика Саха (Якутия) серии 34006",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may21c",
+			"objectId": "216654",
+			"isin": "RU000A10F7J4",
+			"subjectName": "Республика Саха (Якутия)"
+		}
+	},
 	"RU000A10D1W2": {
 		"AKRA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
@@ -5907,17 +6009,17 @@
 	},
 	"RU000A103125": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: БО-001P-07, ISIN: RU000A103125, гос.рег.номер: 4B020700307R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: БО-001P-07, ISIN: RU000A103125, рег.номер: 4B020700307R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214260",
 			"isin": "RU000A103125",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -5943,20 +6045,20 @@
 	},
 	"RU000A10BZH8": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.07.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD7, ISIN: RU000A10BZH8, гос.рег.номер: 4B0276501481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD7, ISIN: RU000A10BZH8, рег.номер: 4B0276501481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5905/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215505",
 			"isin": "RU000A10BZH8",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10DJV9": {
@@ -6031,20 +6133,20 @@
 	},
 	"RU000A10CL07": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "27.08.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-004Р-09, ISIN: RU000A10CL07, гос.рег.номер: 4B020960525P004P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-004Р-09, ISIN: RU000A10CL07, рег.номер: 4B020960525P004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6034/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215413",
 			"isin": "RU000A10CL07",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A10B487": {
@@ -6103,20 +6205,20 @@
 	},
 	"RU000A107TB7": {
 		"AKRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга",
+			"ratingAction": "UP – повышение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "28.05.2025",
+			"releaseDate": "21.05.2026",
 			"inn": "9725035060",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "A+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"Боржоми Финанс\", Старший необеспеченный долг серии: 001Р-02, ISIN: RU000A107TB7, гос.рег.номер: 4B020200561R001P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"БОРЖОМИ ФИНАНС\", Старший необеспеченный долг серии: 001Р-02, ISIN: RU000A107TB7, рег.номер: 4B020200561R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5756/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6895/",
 			"objectId": "215317",
 			"isin": "RU000A107TB7",
-			"subjectName": "ООО \"Боржоми Финанс\""
+			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БОРЖОМИ ФИНАНС\""
 		}
 	},
 	"RU000A10B313": {
@@ -6139,20 +6241,20 @@
 	},
 	"RU000A10DS74": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "16.12.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBER51, ISIN: RU000A10DS74, гос.рег.номер: 4B0280401481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBER51, ISIN: RU000A10DS74, рег.номер: 4B0280401481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6412/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215474",
 			"isin": "RU000A10DS74",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10EYH5": {
@@ -6171,6 +6273,24 @@
 			"objectId": "216053",
 			"isin": "RU000A10EYH5",
 			"subjectName": "Публичное акционерное общество Группа ЛСР"
+		}
+	},
+	"RU000A10F751": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "20.05.2026",
+			"inn": "7325001151",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruBBB",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Ульяновская область серии 34013",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may20i",
+			"objectId": "216651",
+			"isin": "RU000A10F751",
+			"subjectName": "Ульяновская область"
 		}
 	},
 	"RU000A10AUE8": {
@@ -6807,20 +6927,20 @@
 	},
 	"RU000A102HC1": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Субординированный долг (дополнительный капитал) серии: 002СУБ-02R, ISIN: RU000A102HC1, гос.рег.номер: 4-02-01481-B-002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Субординированный долг (дополнительный капитал) серии: 002СУБ-02R, ISIN: RU000A102HC1, рег.номер: 4-02-01481-B-002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "213714",
 			"isin": "RU000A102HC1",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10CSX8": {
@@ -7279,17 +7399,17 @@
 	},
 	"RU000A10ERV0": {
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.04.2026",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AAA(RU)",
+			"ratingValue": "AA+(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-006Р-02, ISIN: RU000A10ERV0, рег.номер: 4B020260525P006P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6748/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "216064",
 			"isin": "RU000A10ERV0",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
@@ -7333,17 +7453,17 @@
 	},
 	"RU000A103N43": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: БО-001P-09, ISIN: RU000A103N43, гос.рег.номер: 4B020900307R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: БО-001P-09, ISIN: RU000A103N43, рег.номер: 4B020900307R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214295",
 			"isin": "RU000A103N43",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -7529,20 +7649,20 @@
 	},
 	"RU000A10AXH5": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.06.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-005Р-02, ISIN: RU000A10AXH5, гос.рег.номер: 4B020260525P005P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-005Р-02, ISIN: RU000A10AXH5, рег.номер: 4B020260525P005P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5787/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215412",
 			"isin": "RU000A10AXH5",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A10ER66": {
@@ -7619,20 +7739,20 @@
 	},
 	"RU000A10BL99": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD6, ISIN: RU000A10BL99, гос.рег.номер: 4B0274501481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD6, ISIN: RU000A10BL99, рег.номер: 4B0274501481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5743/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215498",
 			"isin": "RU000A10BL99",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10CMT9": {
@@ -9105,6 +9225,24 @@
 			"subjectName": "Акционерное Общество \"Почта России\""
 		}
 	},
+	"RU000A10F7L0": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "22.05.2026",
+			"inn": "7706664260",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Атомэнергопром серии 001P-12",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may22",
+			"objectId": "216655",
+			"isin": "RU000A10F7L0",
+			"subjectName": "Акционерное общество Атомный Энергопромышленный Комплекс"
+		}
+	},
 	"RU000A108JV4": {
 		"EXPERT_RA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -9383,17 +9521,17 @@
 	},
 	"RU000A102D46": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: 018Р, ISIN: RU000A102D46, гос.рег.номер: 41800307R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: 018Р, ISIN: RU000A102D46, рег.номер: 41800307R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214253",
 			"isin": "RU000A102D46",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -9435,20 +9573,20 @@
 	},
 	"RU000A103661": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBER27, ISIN: RU000A103661, гос.рег.номер: 4B02-459-01481-B-001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBER27, ISIN: RU000A103661, рег.номер: 4B02-459-01481-B-001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "213028",
 			"isin": "RU000A103661",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10D3C0": {
@@ -9767,24 +9905,6 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
 		}
 	},
-	"RU000A106938": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "15.10.2025",
-			"inn": "6316031581",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации НОВАТЭК серии 001Р-01",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/oct15b",
-			"objectId": "215072",
-			"isin": "RU000A106938",
-			"subjectName": "Публичное акционерное общество НОВАТЭК"
-		}
-	},
 	"RU000A10DMS9": {
 		"AKRA": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -9798,6 +9918,22 @@
 			"objectName": "Государственные облигации, Ямало-Ненецкий автономный округ, Старший необеспеченный долг серии: 34005, ISIN: RU000A10DMS9, рег.номер: RU34005YML0",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6620/",
+			"objectId": "214128",
+			"isin": "RU000A10DMS9",
+			"subjectName": "Ямало-Ненецкий автономный округ"
+		},
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.05.2026",
+			"inn": "8901017477",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA+",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Ямало-Ненецкого автономного округа серии 34005",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may19d",
 			"objectId": "214128",
 			"isin": "RU000A10DMS9",
 			"subjectName": "Ямало-Ненецкий автономный округ"
@@ -9905,6 +10041,40 @@
 			"objectId": "216015",
 			"isin": "RU000A10EA08",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СОФТЛАЙН\""
+		}
+	},
+	"RU000A0ZYJ91": {
+		"EXPERT_RA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "06.04.2026",
+			"inn": "4716016979",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Россети серии БО-04",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr06h",
+			"objectId": "213512",
+			"isin": "RU000A0ZYJ91",
+			"subjectName": "Публичное акционерное общество Федеральная сетевая компания - Россети"
+		},
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "07.10.2025",
+			"inn": "4716016979",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"РОССЕТИ\", Старший необеспеченный долг серии: БО-04, ISIN: RU000A0ZYJ91, гос.рег.номер: 4B020465018D",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6155/",
+			"objectId": "213512",
+			"isin": "RU000A0ZYJ91",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ - РОССЕТИ\""
 		}
 	},
 	"RU000A101ZH4": {
@@ -10446,6 +10616,22 @@
 		}
 	},
 	"RU000A105KR6": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.05.2026",
+			"inn": "2508064833",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ООО \"ВСК\" серия 001P-03R, рег. № 4B02-03-36527-R-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-vsk-2/44122/",
+			"objectId": "214715",
+			"isin": "RU000A105KR6",
+			"subjectName": "Международная компания акционерное общество \"ГЛОБАЛ ПОРТС ИНВЕСТМЕНТС\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
 			"country": "РОССИЯ",
@@ -10931,17 +11117,17 @@
 	},
 	"RU000A0ZZV86": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: 006P, ISIN: RU000A0ZZV86, гос.рег.номер: 40600307R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: 006P, ISIN: RU000A0ZZV86, рег.номер: 40600307R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214225",
 			"isin": "RU000A0ZZV86",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -11573,17 +11759,17 @@
 	},
 	"RU000A10EJ90": {
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "13.03.2026",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBER54, ISIN: RU000A10EJ90, рег.номер: 4B0281201481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6664/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "216088",
 			"isin": "RU000A10EJ90",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
@@ -11697,23 +11883,39 @@
 	},
 	"RU000A10CBA2": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "29.09.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD9, ISIN: RU000A10CBA2, гос.рег.номер: 4B0277501481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD9, ISIN: RU000A10CBA2, рег.номер: 4B0277501481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6135/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215508",
 			"isin": "RU000A10CBA2",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10DJH8": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.05.2026",
+			"inn": "7805113497",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций АО \"ПКТ\" серия 002P-01, рег. № 4B02-01-03924-J-002P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/ao-pkt/44113/",
+			"objectId": "214937",
+			"isin": "RU000A10DJH8",
+			"subjectName": "Международная компания акционерное общество \"ГЛОБАЛ ПОРТС ИНВЕСТМЕНТС\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
 			"country": "РОССИЯ",
@@ -13073,17 +13275,17 @@
 	},
 	"RU000A10EF52": {
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "13.03.2026",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBER52, ISIN: RU000A10EF52, рег.номер: 4B0280601481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6664/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "216090",
 			"isin": "RU000A10EF52",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
@@ -13435,40 +13637,6 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\""
 		}
 	},
-	"RU000A10A6C6": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "12.11.2025",
-			"inn": "2460066195",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации РусГидро серии БО-002Р-03",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov12g",
-			"objectId": "215058",
-			"isin": "RU000A10A6C6",
-			"subjectName": "Публичное акционерное общество Федеральная гидрогенерирующая компания - РусГидро"
-		},
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "15.09.2025",
-			"inn": "2460066195",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «РусГидро», Старший необеспеченный долг серии: БО-002Р-03, ISIN: RU000A10A6C6, гос.рег.номер: 4B020355038E002P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6082/",
-			"objectId": "215058",
-			"isin": "RU000A10A6C6",
-			"subjectName": "Публичное акционерное общество «Федеральная гидрогенерирующая компания - РусГидро»"
-		}
-	},
 	"RU000A108NS2": {
 		"AKRA": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -13623,6 +13791,40 @@
 			"objectId": "215424",
 			"isin": "RU000A10B4W8",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИБУР ХОЛДИНГ\""
+		}
+	},
+	"RU000A10F6U3": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.05.2026",
+			"inn": "2460066195",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации РусГидро серии БО-002Р-13",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may19",
+			"objectId": "216650",
+			"isin": "RU000A10F6U3",
+			"subjectName": "Публичное акционерное общество Федеральная гидрогенерирующая компания - РусГидро"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.05.2026",
+			"inn": "2460066195",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"РУСГИДРО\", Старший необеспеченный долг серии: БО-002Р-13, ISIN: RU000A10F6U3, рег.номер: 4B021355038E002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6880/",
+			"objectId": "216650",
+			"isin": "RU000A10F6U3",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ ГИДРОГЕНЕРИРУЮЩАЯ КОМПАНИЯ - РУСГИДРО\""
 		}
 	},
 	"RU000A107746": {
@@ -13817,38 +14019,38 @@
 	},
 	"RU000A103Q24": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA-(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Субординированный долг (дополнительный капитал) серии: 002СУБ-03R, ISIN: RU000A103Q24, гос.рег.номер: 40301481B002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Субординированный долг (дополнительный капитал) серии: 002СУБ-03R, ISIN: RU000A103Q24, рег.номер: 40301481B002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "213757",
 			"isin": "RU000A103Q24",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10C8S6": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.08.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD8, ISIN: RU000A10C8S6, гос.рег.номер: 4B0277101481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD8, ISIN: RU000A10C8S6, рег.номер: 4B0277101481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5987/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215495",
 			"isin": "RU000A10C8S6",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A109KY4": {
@@ -13989,6 +14191,24 @@
 			"objectId": "213473",
 			"isin": "RU000A105112",
 			"subjectName": "МЕЖДУНАРОДНАЯ КОМПАНИЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЁННАЯ КОМПАНИЯ \"РУСАЛ\""
+		}
+	},
+	"RU000A105KU0": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "24.06.2025",
+			"inn": "7726588547",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации Газпром Капитал серии ЗО29-1-Д",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jun24c",
+			"objectId": "214616",
+			"isin": "RU000A105KU0",
+			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		}
 	},
 	"RU000A105BY1": {
@@ -14609,20 +14829,20 @@
 	},
 	"RU000A1090K0": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.06.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-004Р-06, ISIN: RU000A1090K0, гос.рег.номер: 4B020660525P004P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-004Р-06, ISIN: RU000A1090K0, рег.номер: 4B020660525P004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5787/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215394",
 			"isin": "RU000A1090K0",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A10BJ85": {
@@ -14681,20 +14901,20 @@
 	},
 	"RU000A10DPM5": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.12.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-005Р-05, ISIN: RU000A10DPM5, гос.рег.номер: 4B020560525P005P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-005Р-05, ISIN: RU000A10DPM5, рег.номер: 4B020560525P005P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6362/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215414",
 			"isin": "RU000A10DPM5",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A10C0X3": {
@@ -14807,20 +15027,20 @@
 	},
 	"RU000A10B0E4": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD5, ISIN: RU000A10B0E4, гос.рег.номер: 4B0272201481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD5, ISIN: RU000A10B0E4, рег.номер: 4B0272201481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215506",
 			"isin": "RU000A10B0E4",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A1008D7": {
@@ -15175,20 +15395,20 @@
 	},
 	"RU000A10EDW8": {
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "27.02.2026",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AAA(RU)",
+			"ratingValue": "AA+(RU)",
 			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Магнит\", Старший необеспеченный долг серии: БО-006Р-01, ISIN: RU000A10EDW8, рег.номер: 4B020160525P006P",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-006Р-01, ISIN: RU000A10EDW8, рег.номер: 4B020160525P006P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6630/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "216068",
 			"isin": "RU000A10EDW8",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A10CT33": {
@@ -15259,6 +15479,40 @@
 			"objectId": "214947",
 			"isin": "RU000A106EP1",
 			"subjectName": "Общество с ограниченной ответственностью «Лизинговая компания Простые решения»"
+		}
+	},
+	"RU000A10F728": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "20.05.2026",
+			"inn": "7726588547",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Газпром Капитал серии БО-003P-22",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may20b",
+			"objectId": "216652",
+			"isin": "RU000A10F728",
+			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "20.05.2026",
+			"inn": "7726588547",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-22, ISIN: RU000A10F728, рег.номер: 4B022236400R003P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6888/",
+			"objectId": "216652",
+			"isin": "RU000A10F728",
+			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
 		}
 	},
 	"RU000A1062M5": {
@@ -15351,20 +15605,20 @@
 	},
 	"RU000A10B0A2": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.06.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-005Р-03, ISIN: RU000A10B0A2, гос.рег.номер: 4B020360525P005P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-005Р-03, ISIN: RU000A10B0A2, рег.номер: 4B020360525P005P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5787/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "215401",
 			"isin": "RU000A10B0A2",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A1094F2": {
@@ -15527,20 +15781,20 @@
 	},
 	"RU000A10AS85": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBERD4, ISIN: RU000A10AS85, гос.рег.номер: 4B0270801481B001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBERD4, ISIN: RU000A10AS85, рег.номер: 4B0270801481B001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "215500",
 			"isin": "RU000A10AS85",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10F470": {
@@ -16625,20 +16879,20 @@
 	},
 	"RU000A105TP1": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.06.2025",
+			"releaseDate": "22.05.2026",
 			"inn": "2309085638",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Магнит», Старший необеспеченный долг серии: БО-004Р-03, ISIN: RU000A105TP1, гос.рег.номер: 4B020260525P004P",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МАГНИТ\", Старший необеспеченный долг серии: БО-004Р-03, ISIN: RU000A105TP1, рег.номер: 4B020260525P004P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5787/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
 			"objectId": "213409",
 			"isin": "RU000A105TP1",
-			"subjectName": "Публичное акционерное общество «Магнит»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\""
 		}
 	},
 	"RU000A106DP3": {
@@ -16881,17 +17135,17 @@
 	},
 	"RU000A103RL9": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "05.06.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7728803870",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Петроинжиниринг серии 001P-01",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun05e",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may20e",
 			"objectId": "214946",
 			"isin": "RU000A103RL9",
 			"subjectName": "Общество с ограниченной ответственностью Инновационная Сервисная Компания ПетроИнжиниринг"
@@ -17111,17 +17365,17 @@
 	},
 	"RU000A102JB9": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: БО-001P-02, ISIN: RU000A102JB9, гос.рег.номер: 4B020200307R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: БО-001P-02, ISIN: RU000A102JB9, рег.номер: 4B020200307R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214247",
 			"isin": "RU000A102JB9",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -17527,6 +17781,24 @@
 			"subjectName": "Амурская область"
 		}
 	},
+	"RU000A10ASS2": {
+		"AKRA": {
+			"ratingAction": "UP - повышение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "03.12.2025",
+			"inn": "7707049388",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации, ПАО «Ростелеком», Старший необеспеченный долг серии: 001P-14R, ISIN: RU000A10ASS2, гос.рег.номер: 4B021400124A001P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
+			"objectId": "215432",
+			"isin": "RU000A10ASS2",
+			"subjectName": "Публичное акционерное общество «Ростелеком»"
+		}
+	},
 	"RU000A10CLE3": {
 		"EXPERT_RA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
@@ -17559,24 +17831,6 @@
 			"objectId": "214706",
 			"isin": "RU000A10CLE3",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
-		}
-	},
-	"RU000A10ASS2": {
-		"AKRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "03.12.2025",
-			"inn": "7707049388",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Ростелеком», Старший необеспеченный долг серии: 001P-14R, ISIN: RU000A10ASS2, гос.рег.номер: 4B021400124A001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
-			"objectId": "215432",
-			"isin": "RU000A10ASS2",
-			"subjectName": "Публичное акционерное общество «Ростелеком»"
 		}
 	},
 	"RU000A10DYB0": {
@@ -17759,20 +18013,20 @@
 	},
 	"RU000A103G42": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "22.05.2025",
+			"releaseDate": "19.05.2026",
 			"inn": "7707083893",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО Сбербанк, Старший необеспеченный долг серии: 001Р-SBER29, ISIN: RU000A103G42, гос.рег.номер: 4B02-474-01481-B-001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBER29, ISIN: RU000A103G42, рег.номер: 4B02-474-01481-B-001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5741/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
 			"objectId": "212978",
 			"isin": "RU000A103G42",
-			"subjectName": "Публичное акционерное общество «Сбербанк России»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A108QA3": {
@@ -18107,17 +18361,17 @@
 	},
 	"RU000A102GD1": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: БО-001P-03, ISIN: RU000A102GD1, гос.рег.номер: 4B020300307R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: БО-001P-03, ISIN: RU000A102GD1, рег.номер: 4B020300307R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214258",
 			"isin": "RU000A102GD1",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -18246,6 +18500,22 @@
 		}
 	},
 	"RU000A104362": {
+		"NRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.05.2026",
+			"inn": "2508064833",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA|ru|",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Выпуск биржевых облигаций ООО \"ВСК\" серия 001P-02R, рег. №4B02-02-36527-R-001P",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-vsk/44109/",
+			"objectId": "214723",
+			"isin": "RU000A104362",
+			"subjectName": "Международная компания акционерное общество \"ГЛОБАЛ ПОРТС ИНВЕСТМЕНТС\""
+		},
 		"EXPERT_RA": {
 			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
 			"country": "РОССИЯ",
@@ -18455,17 +18725,17 @@
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "27.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA+",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Газпром Капитал серии 001Б-02",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/may27d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may20",
 			"objectId": "213709",
 			"isin": "RU000A1039A8",
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
@@ -18701,17 +18971,17 @@
 	},
 	"RU000A1031K4": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Жилищные облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: БО-001P-08, ISIN: RU000A1031K4, гос.рег.номер: 4B020800307R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Жилищные облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: БО-001P-08, ISIN: RU000A1031K4, рег.номер: 4B020800307R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "214259",
 			"isin": "RU000A1031K4",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
@@ -19029,17 +19299,17 @@
 	},
 	"RU000A105H23": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.05.2025",
+			"releaseDate": "20.05.2026",
 			"inn": "7727290538",
-			"objectType": "TMGB - облигации с ипотечным покрытием",
+			"objectType": "TMGB – облигации с ипотечным покрытием",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации с ипотечным покрытием, ООО «ДОМ.РФ Ипотечный агент», Старший обеспеченный долг серии: БО-001P-25, ISIN: RU000A105H23, гос.рег.номер: 4B022500307R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации с ипотечным покрытием, ООО \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\", Старший обеспеченный долг серии: БО-001P-25, ISIN: RU000A105H23, рег.номер: 4B022500307R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5775/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6891/",
 			"objectId": "215222",
 			"isin": "RU000A105H23",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДОМ.РФ ИПОТЕЧНЫЙ АГЕНТ\""
