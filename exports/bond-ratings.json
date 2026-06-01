@@ -1319,6 +1319,24 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\""
 		}
 	},
+	"RU000A10F827": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "27.05.2026",
+			"inn": "7812014560",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МЕГАФОН\", Старший необеспеченный долг серии: БО-002P-13, ISIN: RU000A10F827, рег.номер: 4B021300822J002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6912/",
+			"objectId": "216663",
+			"isin": "RU000A10F827",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕГАФОН\""
+		}
+	},
 	"RU000A10ASW4": {
 		"NRA": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
@@ -2067,6 +2085,40 @@
 			"objectId": "215269",
 			"isin": "RU000A106JX4",
 			"subjectName": "Евразийский банк развития"
+		}
+	},
+	"RU000A10F8T1": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.05.2026",
+			"inn": "7707049388",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"РОСТЕЛЕКОМ\", Старший необеспеченный долг серии: 003P-01, ISIN: RU000A10F8T1, рег.номер: 4B020100124A003P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6923/",
+			"objectId": "216668",
+			"isin": "RU000A10F8T1",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТЕЛЕКОМ\""
+		},
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "29.05.2026",
+			"inn": "7707049388",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Ростелеком ПАО 003Р-01",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Rostelekom-bonds-RA-290526/",
+			"objectId": "216668",
+			"isin": "RU000A10F8T1",
+			"subjectName": "Публичное акционерное общество «Ростелеком»"
 		}
 	},
 	"RU000A10E9Y0": {
@@ -4785,24 +4837,6 @@
 			"objectId": "215347",
 			"isin": "RU000A10C6Y8",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕГЕНДА\""
-		}
-	},
-	"RU000A1069P3": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "19.05.2026",
-			"inn": "7707083893",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 002P-SBER44, ISIN: RU000A1069P3, рег.номер: 4B020201481B002P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
-			"objectId": "215515",
-			"isin": "RU000A1069P3",
-			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10BRR4": {
@@ -10011,17 +10045,17 @@
 	},
 	"RU000A10EA08": {
 		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "UP – повышение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "13.02.2026",
+			"releaseDate": "28.05.2026",
 			"inn": "7736227885",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruBBB+",
+			"ratingValue": "ruA-",
 			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации СофтЛайн серии 002P-02",
+			"objectName": "Облигации Софтлайн серии 002P-02",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/feb13b",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may28a",
 			"objectId": "216015",
 			"isin": "RU000A10EA08",
 			"subjectName": "Публичное акционерное общество Софтлайн"
@@ -10525,6 +10559,24 @@
 			"objectId": "215325",
 			"isin": "RU000A10C8F3",
 			"subjectName": "Общество с ограниченной ответственностью \"Брусника. Строительство и девелопмент\""
+		}
+	},
+	"RU000A10F801": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "26.05.2026",
+			"inn": "7720261827",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ГТЛК\", Старший необеспеченный долг серии: 002P-13, ISIN: RU000A10F801, рег.номер: 4B021332432H002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6907/",
+			"objectId": "216661",
+			"isin": "RU000A10F801",
+			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННАЯ ТРАНСПОРТНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\""
 		}
 	},
 	"RU000A106WZ2": {
@@ -11167,24 +11219,6 @@
 			"objectId": "213461",
 			"isin": "RU000A1003A4",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННАЯ ТРАНСПОРТНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\""
-		}
-	},
-	"RU000A103760": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "24.06.2025",
-			"inn": "4401116480",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации Совкомбанк серии БО-04",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24h",
-			"objectId": "213555",
-			"isin": "RU000A103760",
-			"subjectName": "Публичное акционерное общество Совкомбанк"
 		}
 	},
 	"RU000A0JWTN2": {
@@ -12125,17 +12159,17 @@
 			"subjectName": "Акционерное общество Группа компаний Пионер"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.03.2026",
+			"releaseDate": "29.05.2026",
 			"inn": "7703635416",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "A-(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, АО \"ГК \"ПИОНЕР\", Старший необеспеченный долг серии: 002P-03, ISIN: RU000A10EHJ6, рег.номер: 4B020367750H002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6656/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6930/",
 			"objectId": "216042",
 			"isin": "RU000A10EHJ6",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГРУППА КОМПАНИЙ \"ПИОНЕР\""
@@ -12505,24 +12539,6 @@
 			"objectId": "214676",
 			"isin": "RU000A10BK09",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\""
-		}
-	},
-	"RU000A102DS6": {
-		"EXPERT_RA": {
-			"ratingAction": "DG – понижение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "06.04.2026",
-			"inn": "5200000021",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruA",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Нижегородская область серии 35015",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr06c",
-			"objectId": "215082",
-			"isin": "RU000A102DS6",
-			"subjectName": "Нижегородская область"
 		}
 	},
 	"RU000A100FE5": {
@@ -16615,6 +16631,40 @@
 			"subjectName": "Общество с ограниченной ответственностью Биннофарм Групп"
 		}
 	},
+	"RU000A10F8Q7": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.05.2026",
+			"inn": "6163030330",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Государственные облигации, Ростовская область, Старший необеспеченный долг серии: 34001, ISIN: RU000A10F8Q7, рег.номер: RU34001RST0",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6921/",
+			"objectId": "216670",
+			"isin": "RU000A10F8Q7",
+			"subjectName": "Ростовская область"
+		},
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.05.2026",
+			"inn": "6163030330",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Ростовская область серии 34001",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may28c",
+			"objectId": "216670",
+			"isin": "RU000A10F8Q7",
+			"subjectName": "Ростовская область"
+		}
+	},
 	"RU000A10ESM7": {
 		"NKR": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
@@ -17203,6 +17253,24 @@
 			"subjectName": "Новосибирская область"
 		}
 	},
+	"RU000A10F397": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "27.05.2026",
+			"inn": "9703238363",
+			"objectType": "TMNB – облигации, обеспеченные залогом денежных требований",
+			"ratingValue": "AAA(ru.sf)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации с залоговым обеспечением денежными требованиями, ООО \"СФО ТБ-8\", Обеспеченный долг серии: класс А1, ISIN: RU000A10F397, рег.номер: 40100978R",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6916/",
+			"objectId": "216664",
+			"isin": "RU000A10F397",
+			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СПЕЦИАЛИЗИРОВАННОЕ ФИНАНСОВОЕ ОБЩЕСТВО ТБ-8\""
+		}
+	},
 	"RU000A106ZL5": {
 		"AKRA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -17573,6 +17641,56 @@
 			"subjectName": "Группа ВИС (Акционерное общество)"
 		}
 	},
+	"RU000A10F8N4": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.05.2026",
+			"inn": "7740000076",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Мобильные ТелеСистемы 003P-02",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/MTS-bonds-RA-280526/",
+			"objectId": "216666",
+			"isin": "RU000A10F8N4",
+			"subjectName": "Публичное акционерное общество «Мобильные ТелеСистемы»"
+		},
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.05.2026",
+			"inn": "7740000076",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации МТС серии 003Р-02",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/may28d",
+			"objectId": "216666",
+			"isin": "RU000A10F8N4",
+			"subjectName": "Публичное акционерное общество Мобильные ТелеСистемы"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.05.2026",
+			"inn": "7740000076",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МТС\", Старший необеспеченный долг серии: 003P-02, ISIN: RU000A10F8N4, рег.номер: 4B020204715A003P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6922/",
+			"objectId": "216666",
+			"isin": "RU000A10F8N4",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\""
+		}
+	},
 	"RU000A10CFK2": {
 		"AKRA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
@@ -17779,24 +17897,6 @@
 			"objectId": "214550",
 			"isin": "RU000A10AAU6",
 			"subjectName": "Амурская область"
-		}
-	},
-	"RU000A10ASS2": {
-		"AKRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "03.12.2025",
-			"inn": "7707049388",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «Ростелеком», Старший необеспеченный долг серии: 001P-14R, ISIN: RU000A10ASS2, гос.рег.номер: 4B021400124A001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
-			"objectId": "215432",
-			"isin": "RU000A10ASS2",
-			"subjectName": "Публичное акционерное общество «Ростелеком»"
 		}
 	},
 	"RU000A10CLE3": {
