@@ -12,7 +12,7 @@
 			"objectName": "Публичное акционерное общество \"Селигдар\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/pao-seligdar/42096/",
-			"objectId": "215696",
+			"objectId": "220003",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -28,7 +28,7 @@
 			"objectName": "Публичное Акционерное Общество «Селигдар»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Seligdar-RA-290825/",
-			"objectId": "215696",
+			"objectId": "220003",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -44,7 +44,7 @@
 			"objectName": "Публичное акционерное общество Селигдар",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug29b",
-			"objectId": "215696",
+			"objectId": "220003",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -62,7 +62,7 @@
 			"objectName": "АКЦИОНЕРНАЯ КОМПАНИЯ \"АЛРОСА\" (ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6881/",
-			"objectId": "213892",
+			"objectId": "216921",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -78,7 +78,7 @@
 			"objectName": "Акционерная компания АЛРОСА (публичное акционерное общество)",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr02",
-			"objectId": "213892",
+			"objectId": "216921",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -96,7 +96,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКУТСКАЯ ТОПЛИВНО-ЭНЕРГЕТИЧЕСКАЯ КОМПАНИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6647/",
-			"objectId": "212700",
+			"objectId": "217226",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -112,7 +112,7 @@
 			"objectName": "Публичное акционерное общество Якутская топливно-энергетическая компания",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr16c",
-			"objectId": "212700",
+			"objectId": "217226",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -130,7 +130,7 @@
 			"objectName": "Государственное унитарное предприятие Жилищно-коммунальное хозяйство Республики Саха (Якутия)",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may12",
-			"objectId": "213203",
+			"objectId": "217498",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -148,7 +148,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАМАЗ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6678/",
-			"objectId": "215777",
+			"objectId": "219905",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -164,7 +164,7 @@
 			"objectName": "Публичное акционерное общество \"КАМАЗ\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/pao-kamaz/43646/",
-			"objectId": "215777",
+			"objectId": "219905",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -182,7 +182,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"НИЖНЕКАМСКНЕФТЕХИМ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6599/",
-			"objectId": "215814",
+			"objectId": "219939",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -198,7 +198,7 @@
 			"objectName": "Публичное акционерное общество Нижнекамскнефтехим",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr30",
-			"objectId": "215814",
+			"objectId": "219939",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -216,7 +216,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НОВЫЕ ТЕХНОЛОГИИ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6879/",
-			"objectId": "214357",
+			"objectId": "216885",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -232,25 +232,25 @@
 			"objectName": "Общество с ограниченной ответственностью «Новые технологии»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/New-Tech-RA-051225/",
-			"objectId": "214357",
+			"objectId": "216885",
 			"isin": "",
 			"subjectName": ""
 		}
 	},
 	"1655096633": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "05.06.2025",
+			"releaseDate": "03.06.2026",
 			"inn": "1655096633",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "ruBBB-",
-			"prediction": "STA - стабильный",
+			"objectType": "FLSG – лизинговая компания",
+			"ratingValue": "ruBB+",
+			"prediction": "DEV – развивающийся",
 			"objectName": "Общество с ограниченной ответственностью Лизинг-Трейд",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun05g",
-			"objectId": "214342",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun03f",
+			"objectId": "216721",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -268,7 +268,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТАТНЕФТЕХИМ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6027/",
-			"objectId": "214472",
+			"objectId": "218598",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -286,7 +286,7 @@
 			"objectName": "Акционерное общество \"Джи-Групп\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6076/",
-			"objectId": "213863",
+			"objectId": "218258",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -302,7 +302,7 @@
 			"objectName": "Акционерное общество Джи-групп",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr24h",
-			"objectId": "213863",
+			"objectId": "218258",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -320,7 +320,7 @@
 			"objectName": "Общество с ограниченной ответственностью \"Село Зелёное Холдинг\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-selo-zeljonoe-holding/42191/",
-			"objectId": "215618",
+			"objectId": "219867",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -336,7 +336,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Село Зелёное Холдинг»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/selo-zelenoe-RA-220925/",
-			"objectId": "215618",
+			"objectId": "219867",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -354,7 +354,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПИОНЕР-ЛИЗИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5920/",
-			"objectId": "214386",
+			"objectId": "216676",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -372,7 +372,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭЛТЕРА\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6287/",
-			"objectId": "214504",
+			"objectId": "218664",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -390,7 +390,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАГНИТ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6903/",
-			"objectId": "215802",
+			"objectId": "219923",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -406,7 +406,7 @@
 			"objectName": "Публичное акционерное общество Магнит",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec16c",
-			"objectId": "215802",
+			"objectId": "219923",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -424,7 +424,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ПРОФЕССИОНАЛЬНАЯ КОЛЛЕКТОРСКАЯ ОРГАНИЗАЦИЯ «СЛУЖБА ЗАЩИТЫ АКТИВОВ»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo_pko_sza/42692/",
-			"objectId": "214528",
+			"objectId": "218689",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -442,7 +442,7 @@
 			"objectName": "Акционерное общество им. Т.Г.Шевченко",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Shevchenko-RA-110625/",
-			"objectId": "214120",
+			"objectId": "218519",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -460,7 +460,7 @@
 			"objectName": "Общество с ограниченной ответственностью \"Славянск ЭКО\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6279/",
-			"objectId": "215619",
+			"objectId": "216729",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -476,7 +476,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Славянск ЭКО»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Slaveco-RA-080426/",
-			"objectId": "215619",
+			"objectId": "216729",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -494,7 +494,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЕНИСЕЙАГРОСОЮЗ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6209/",
-			"objectId": "213916",
+			"objectId": "218284",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -512,7 +512,7 @@
 			"objectName": "Публичное акционерное общество «Федеральная гидрогенерирующая компания - РусГидро»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6082/",
-			"objectId": "212939",
+			"objectId": "217622",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -528,7 +528,7 @@
 			"objectName": "Публичное акционерное общество Федеральная гидрогенерирующая компания - РусГидро",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov10a",
-			"objectId": "212939",
+			"objectId": "217622",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -546,7 +546,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ СИБИРЬ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6379/",
-			"objectId": "215828",
+			"objectId": "219945",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -564,7 +564,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Арктик Технолоджи Сервис»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Arctic-Tech-RA-200625/",
-			"objectId": "215657",
+			"objectId": "219891",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -582,7 +582,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СИБСУЛЬФУР\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6770/",
-			"objectId": "214434",
+			"objectId": "218838",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -600,7 +600,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДЕЛЬТАЛИЗИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5834/",
-			"objectId": "214299",
+			"objectId": "218772",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -616,7 +616,7 @@
 			"objectName": "Общество с ограниченной ответственностью ДельтаЛизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct29a",
-			"objectId": "214299",
+			"objectId": "218772",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -634,7 +634,7 @@
 			"objectName": "Общество с ограниченной ответственностью ФЭС-Агро",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/feb27",
-			"objectId": "215835",
+			"objectId": "219953",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -652,7 +652,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УНИВЕРСАЛЬНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6531/",
-			"objectId": "214030",
+			"objectId": "218387",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -670,7 +670,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Ист Лоджистикал Системс»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/ILS-RA-291225/",
-			"objectId": "215504",
+			"objectId": "219793",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -688,7 +688,7 @@
 			"objectName": "Непубличное акционерное общество Профессиональная коллекторская организация  «Первое клиентское бюро»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/PKB-RA-290126/",
-			"objectId": "213780",
+			"objectId": "217289",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -704,7 +704,7 @@
 			"objectName": "Непубличное акционерное общество Профессиональная коллекторская организация Первое клиентское бюро (прежние наименования НЕПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПЕРВОЕ КЛИЕНТСКОЕ БЮРО\", НЕПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПЕРВОЕ КОЛЛЕКТОРСКОЕ БЮРО\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul03c",
-			"objectId": "213780",
+			"objectId": "217289",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -722,25 +722,25 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СТРОЙДОРСЕРВИС\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6127/",
-			"objectId": "214452",
+			"objectId": "218569",
 			"isin": "",
 			"subjectName": ""
 		}
 	},
 	"3446010280": {
 		"NKR": {
-			"ratingAction": "DG - понижение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.09.2025",
+			"releaseDate": "05.06.2026",
 			"inn": "3446010280",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "B+.ru",
-			"prediction": "UNW - неопределенный",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "CC.ru",
+			"prediction": "OP – иной(«рейтинг на пересмотре с возможностью понижения»)",
 			"objectName": "Общество с ограниченной ответственностью «Волгоградский Завод Весоизмерительной Техники»",
 			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/VZVT-RA-110925/",
-			"objectId": "215464",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/VZVT-RA-050626/",
+			"objectId": "219769",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -758,7 +758,7 @@
 			"objectName": "Общество с ограниченной ответственностью \"АЛЬФА ДОН ТРАНС\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/alfa-don-trans/43162/",
-			"objectId": "215480",
+			"objectId": "216822",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -776,7 +776,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭКОНИВА\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6528/",
-			"objectId": "215926",
+			"objectId": "220212",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -792,7 +792,7 @@
 			"objectName": "Общество с ограниченной ответственностью ЭкоНива",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/feb16",
-			"objectId": "215926",
+			"objectId": "220212",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -810,7 +810,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГРУППА КОМПАНИЙ АГРОЭКО\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6357/",
-			"objectId": "214256",
+			"objectId": "218757",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -826,7 +826,7 @@
 			"objectName": "Общество с ограниченной ответственностью Группа компаний Агроэко",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov28d",
-			"objectId": "214256",
+			"objectId": "218757",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -844,7 +844,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Бизнес-Лэнд»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Business-Land-RA-160426/",
-			"objectId": "215658",
+			"objectId": "219892",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -862,7 +862,7 @@
 			"objectName": "Акционерное общество «ИНК-Капитал»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5856/",
-			"objectId": "213900",
+			"objectId": "218283",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -878,7 +878,7 @@
 			"objectName": "Акционерное общество ИНК-Капитал",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep29",
-			"objectId": "213900",
+			"objectId": "218283",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -896,7 +896,7 @@
 			"objectName": "МЕЖДУНАРОДНАЯ КОМПАНИЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯНДЕКС\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6393/",
-			"objectId": "214339",
+			"objectId": "218638",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -912,7 +912,7 @@
 			"objectName": "Международная компания публичное акционерное общество ЯНДЕКС",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec05c",
-			"objectId": "214339",
+			"objectId": "218638",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -930,7 +930,7 @@
 			"objectName": "Международная компания Публичное акционерное общество \"Озон\"",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Ozon-RA-260326/",
-			"objectId": "214462",
+			"objectId": "218763",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -946,7 +946,7 @@
 			"objectName": "Международная компания Публичное акционерное общество Озон",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov17b",
-			"objectId": "214462",
+			"objectId": "218763",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -964,7 +964,7 @@
 			"objectName": "МЕЖДУНАРОДНАЯ КОМПАНИЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЁННАЯ КОМПАНИЯ \"РУСАЛ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6714/",
-			"objectId": "214341",
+			"objectId": "218616",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -980,43 +980,7 @@
 			"objectName": "Международная Компания Публичное Акционерное Общество Объединённая компания РУСАЛ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug29e",
-			"objectId": "214341",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"4004021785": {
-		"NRA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "08.05.2026",
-			"inn": "4004021785",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "BBB-|ru|",
-			"prediction": "STA – стабильный",
-			"objectName": "Акционерное общество \"Кириллица\"",
-			"kraName": "ООО \"НРА\"",
-			"releaseUrl": "https://www.ra-national.ru/press_release/kirillica/44064/",
-			"objectId": "213968",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"4012004991": {
-		"NRA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "08.05.2026",
-			"inn": "4012004991",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "BBB-|ru|",
-			"prediction": "STA – стабильный",
-			"objectName": "Общество с ограниченной ответственностью «Оил Ресурс»",
-			"kraName": "ООО \"НРА\"",
-			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-ojl-resurs-grupp/44067/",
-			"objectId": "215559",
+			"objectId": "218616",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1034,7 +998,7 @@
 			"objectName": "Общество с ограниченной ответственностью «РОЯЛ КАПИТАЛ»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-rojal-kapital/44140/",
-			"objectId": "215604",
+			"objectId": "216746",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1052,7 +1016,7 @@
 			"objectName": "Общество с ограниченной ответственностью «КАЛУЖСКИЙ ЛИКЕРО-ВОДОЧНЫЙ ЗАВОД КРИСТАЛЛ»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/klvzk-RA-201025/",
-			"objectId": "212937",
+			"objectId": "217438",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1070,7 +1034,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Агротек»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Agrotek-RA-210725/",
-			"objectId": "215646",
+			"objectId": "219890",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1088,7 +1052,7 @@
 			"objectName": "Публичное акционерное общество \"Кокс\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6229/",
-			"objectId": "215737",
+			"objectId": "219910",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1106,7 +1070,7 @@
 			"objectName": "Акционерное общество Холдинговая компания «Новотранс»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Novotrans-RA-080526/",
-			"objectId": "214112",
+			"objectId": "218502",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1122,7 +1086,7 @@
 			"objectName": "Акционерное общество Холдинговая компания Новотранс",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul18b",
-			"objectId": "214112",
+			"objectId": "218502",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1140,7 +1104,7 @@
 			"objectName": "Общество с ограниченной ответственностью Профессиональная коллекторская организация АйДи Коллект (прежнее наименование Общество с ограниченной ответственностью \"АЙДИ КОЛЛЕКТ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug01c",
-			"objectId": "215490",
+			"objectId": "216709",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1158,7 +1122,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
-			"objectId": "214485",
+			"objectId": "216820",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1174,7 +1138,7 @@
 			"objectName": "Общество с ограниченной ответственностью Газпром капитал",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun24a",
-			"objectId": "214485",
+			"objectId": "216820",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1192,7 +1156,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Лизинговая компания Простые решения»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5972/",
-			"objectId": "212785",
+			"objectId": "217554",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1208,7 +1172,7 @@
 			"objectName": "Общество с ограниченной ответственностью Лизинговая компания Простые решения",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr17b",
-			"objectId": "212785",
+			"objectId": "217554",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1226,7 +1190,7 @@
 			"objectName": "Публичное акционерное общество ГРУППА КОМПАНИЙ СЕГЕЖА (прежние наименования Акционерное общество ГРУППА КОМПАНИЙ «СЕГЕЖА», Общество с ограниченной ответственностью \"ГРУППА КОМПАНИЙ \"СЕГЕЖА\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep02",
-			"objectId": "213660",
+			"objectId": "217326",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1244,7 +1208,7 @@
 			"objectName": "Публичное акционерное общество \"АПРИ\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-apri-flaj-pljening/42493/",
-			"objectId": "213984",
+			"objectId": "218350",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1260,7 +1224,7 @@
 			"objectName": "Публичное акционерное общество «АПРИ»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/APRI-RA-060825/",
-			"objectId": "213984",
+			"objectId": "218350",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1278,7 +1242,7 @@
 			"objectName": "Газпромбанк (Акционерное общество)",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr28d",
-			"objectId": "214047",
+			"objectId": "218375",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1294,7 +1258,7 @@
 			"objectName": "\"Газпромбанк\" (Акционерное общество)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6195/",
-			"objectId": "214047",
+			"objectId": "218375",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1312,7 +1276,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГРУППА ПОЗИТИВ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6703/",
-			"objectId": "215712",
+			"objectId": "219909",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1328,7 +1292,7 @@
 			"objectName": "Публичное акционерное общество Группа Позитив",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun19a",
-			"objectId": "215712",
+			"objectId": "219909",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1346,7 +1310,7 @@
 			"objectName": "Банк ВТБ (публичное акционерное общество)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6029/",
-			"objectId": "214186",
+			"objectId": "218470",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1362,7 +1326,7 @@
 			"objectName": "Банк ВТБ (публичное акционерное общество)",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/VTB-RA-071125/",
-			"objectId": "214186",
+			"objectId": "218470",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1378,7 +1342,7 @@
 			"objectName": "Банк ВТБ (Публичное акционерное общество)",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr10b",
-			"objectId": "214186",
+			"objectId": "218470",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1396,7 +1360,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕСО-ЛИЗИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6859/",
-			"objectId": "214425",
+			"objectId": "218815",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1412,7 +1376,7 @@
 			"objectName": "Общество с ограниченной ответственностью РЕСО-Лизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/mar24a",
-			"objectId": "214425",
+			"objectId": "218815",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1430,7 +1394,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННАЯ ТРАНСПОРТНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6673/",
-			"objectId": "213914",
+			"objectId": "217183",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1446,7 +1410,7 @@
 			"objectName": "Акционерное общество Государственная транспортная лизинговая компания",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec11b",
-			"objectId": "213914",
+			"objectId": "217183",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1464,7 +1428,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СОВКОМБАНК\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6694/",
-			"objectId": "215820",
+			"objectId": "219960",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1480,7 +1444,7 @@
 			"objectName": "Публичное акционерное общество «Совкомбанк»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Sovcombank-RA-170426/",
-			"objectId": "215820",
+			"objectId": "219960",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1496,7 +1460,7 @@
 			"objectName": "Публичное акционерное общество Совкомбанк",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun24g",
-			"objectId": "215820",
+			"objectId": "219960",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1514,7 +1478,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ТЕХНОЛОГИЯ»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/tech74-RA-240925/",
-			"objectId": "215637",
+			"objectId": "219883",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1532,7 +1496,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АРТГЕН БИОТЕХ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5908/",
-			"objectId": "215769",
+			"objectId": "217194",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1550,7 +1514,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЭЛЕКТРОРЕШЕНИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6711/",
-			"objectId": "214498",
+			"objectId": "216693",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1568,7 +1532,7 @@
 			"objectName": "Общество с ограниченной ответственностью РегионСпецТранс",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep16d",
-			"objectId": "215711",
+			"objectId": "220030",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1586,7 +1550,7 @@
 			"objectName": "Открытое акционерное общество «Российские железные дороги»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5866/",
-			"objectId": "215725",
+			"objectId": "216778",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1602,7 +1566,7 @@
 			"objectName": "Открытое акционерное общество Российские железные дороги",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul01b",
-			"objectId": "215725",
+			"objectId": "216778",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1620,7 +1584,7 @@
 			"objectName": "Публичное акционерное общество «КИФА»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-kifa/44138/",
-			"objectId": "214097",
+			"objectId": "218438",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1638,7 +1602,7 @@
 			"objectName": "Общество с ограниченной ответственностью ХРОМОС Инжиниринг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/feb19d",
-			"objectId": "215839",
+			"objectId": "219959",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1656,7 +1620,7 @@
 			"objectName": "Общество с ограниченной ответственностью Биннофарм Групп",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr14d",
-			"objectId": "215516",
+			"objectId": "216839",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1674,7 +1638,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКЦИОНЕРНАЯ ФИНАНСОВАЯ КОРПОРАЦИЯ \"СИСТЕМА\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6480/",
-			"objectId": "212746",
+			"objectId": "217282",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1690,7 +1654,7 @@
 			"objectName": "Публичное акционерное общество Акционерная финансовая корпорация Система",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul01f",
-			"objectId": "212746",
+			"objectId": "217282",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1708,7 +1672,7 @@
 			"objectName": "Микрофинансовая компания Быстроденьги (Общество с ограниченной ответственностью)",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul10c",
-			"objectId": "212980",
+			"objectId": "217600",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1726,7 +1690,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АРЕНЗА-ПРО\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6638/",
-			"objectId": "214470",
+			"objectId": "218719",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1744,7 +1708,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВУШ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6737/",
-			"objectId": "215667",
+			"objectId": "219766",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1760,7 +1724,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ВУШ»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-vush/43719/",
-			"objectId": "215667",
+			"objectId": "219766",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1778,7 +1742,7 @@
 			"objectName": "Публичное акционерное общество «Ростелеком»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
-			"objectId": "215805",
+			"objectId": "219935",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1794,7 +1758,7 @@
 			"objectName": "Публичное акционерное общество «Ростелеком»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Rostelecom-RA-270426/",
-			"objectId": "215805",
+			"objectId": "219935",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1810,7 +1774,7 @@
 			"objectName": "Публичное акционерное общество Ростелеком",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may14a",
-			"objectId": "215805",
+			"objectId": "219935",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1828,7 +1792,7 @@
 			"objectName": "Акционерное общество Эффективные технологии",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may20h",
-			"objectId": "214115",
+			"objectId": "218510",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1846,7 +1810,7 @@
 			"objectName": "Акционерное общество «ГИДРОМАШСЕРВИС»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/HMS-RA-300925/",
-			"objectId": "214056",
+			"objectId": "218413",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1862,7 +1826,7 @@
 			"objectName": "Акционерное общество ГИДРОМАШСЕРВИС",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct06e",
-			"objectId": "214056",
+			"objectId": "218413",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1880,7 +1844,7 @@
 			"objectName": "Общество с ограниченной ответственностью «СОЛИД СпецАвтоТехЛизинг»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-specavtotehlizing/43958/",
-			"objectId": "214518",
+			"objectId": "218688",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1898,7 +1862,7 @@
 			"objectName": "Публичное Акционерное Общество  «Группа Компаний «Самолет»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Samolet-RA-200326/",
-			"objectId": "215691",
+			"objectId": "216808",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1914,7 +1878,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГРУППА КОМПАНИЙ \"САМОЛЕТ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6637/",
-			"objectId": "215691",
+			"objectId": "216808",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1932,7 +1896,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГАЗПРОМ НЕФТЬ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6741/",
-			"objectId": "215706",
+			"objectId": "219996",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -1948,7 +1912,7 @@
 			"objectName": "Публичное акционерное общество Газпром нефть",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun23e",
-			"objectId": "215706",
+			"objectId": "219996",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1966,7 +1930,7 @@
 			"objectName": "Общество с ограниченной ответственностью Микрофинансовая компания Фордевинд",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct24c",
-			"objectId": "212773",
+			"objectId": "217180",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1984,7 +1948,7 @@
 			"objectName": "Публичное акционерное общество \"ГРУППА ЧЕРКИЗОВО\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5964/",
-			"objectId": "215726",
+			"objectId": "220012",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2000,7 +1964,7 @@
 			"objectName": "Публичное акционерное общество Группа Черкизово",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may06f",
-			"objectId": "215726",
+			"objectId": "220012",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2018,7 +1982,7 @@
 			"objectName": "ВТБ Лизинг (акционерное общество)",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec17e",
-			"objectId": "214146",
+			"objectId": "218541",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2034,7 +1998,7 @@
 			"objectName": "ВТБ ЛИЗИНГ (АКЦИОНЕРНОЕ ОБЩЕСТВО)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6817/",
-			"objectId": "214146",
+			"objectId": "218541",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2052,7 +2016,7 @@
 			"objectName": "Публичное акционерное общество «МГКЛ»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/mgkl/42719/",
-			"objectId": "213664",
+			"objectId": "217334",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2068,7 +2032,7 @@
 			"objectName": "Публичное акционерное общество МГКЛ (прежние наименования Акционерное общество \"МГКЛ\", Акционерное общество МОСКОВСКИЙ ГОРОДСКОЙ КОМБИНАТ ЛОМБАРДОВ \"МОСГОРЛОМБАРД\", Акционерное общество МОСКОВСКИЙ ГОРОДСКОЙ КОМБИНАТ ЛОМБАРДОВ ЛОМБАРД \"МОСГОРЛОМБАРД\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep12e",
-			"objectId": "213664",
+			"objectId": "217334",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2086,7 +2050,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНАРКТИКА\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5936/",
-			"objectId": "215766",
+			"objectId": "219900",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2102,7 +2066,7 @@
 			"objectName": "Публичное акционерное общество «ИНАРКТИКА»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Inarctica-RA-110725/",
-			"objectId": "215766",
+			"objectId": "219900",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2120,7 +2084,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСАГРОЛИЗИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6526/",
-			"objectId": "213878",
+			"objectId": "218270",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2136,7 +2100,7 @@
 			"objectName": "Акционерное общество «Росагролизинг»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-rosagrolizing/43265/",
-			"objectId": "213878",
+			"objectId": "218270",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2152,7 +2116,7 @@
 			"objectName": "Акционерное общество Росагролизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug14",
-			"objectId": "213878",
+			"objectId": "218270",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2170,7 +2134,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АТОМНЫЙ ЭНЕРГОПРОМЫШЛЕННЫЙ КОМПЛЕКС\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6242/",
-			"objectId": "213889",
+			"objectId": "216807",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2186,7 +2150,7 @@
 			"objectName": "Акционерное общество Атомный Энергопромышленный Комплекс",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep09b",
-			"objectId": "213889",
+			"objectId": "216807",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2204,7 +2168,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФОСАГРО\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6653/",
-			"objectId": "215754",
+			"objectId": "220043",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2220,7 +2184,7 @@
 			"objectName": "Публичное акционерное общество ФосАгро",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/mar11b",
-			"objectId": "215754",
+			"objectId": "220043",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2238,7 +2202,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6381/",
-			"objectId": "215791",
+			"objectId": "219917",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2254,7 +2218,7 @@
 			"objectName": "Публичное акционерное общество «Мобильные ТелеСистемы»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/MTS-RA-190126/",
-			"objectId": "215791",
+			"objectId": "219917",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -2270,7 +2234,7 @@
 			"objectName": "Публичное акционерное общество Мобильные ТелеСистемы",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov24f",
-			"objectId": "215791",
+			"objectId": "219917",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -2288,1149 +2252,7 @@
 			"objectName": "Общество с ограниченной ответственностью микрофинансовая компания МигКредит",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun25g",
-			"objectId": "212755",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"9703014525": {
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "07.10.2025",
-			"inn": "9703014525",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BBB(RU)",
-			"prediction": "NEG - негативный",
-			"objectName": "Общество с ограниченной ответственностью «Алтимейт Эдьюкейшн»",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6158/",
-			"objectId": "215644",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7734202860": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "1978",
-			"releaseDate": "10.06.2025",
-			"inn": "7734202860",
-			"objectType": "CBNK - кредитная организация",
-			"ratingValue": "ruA+",
-			"prediction": "STA - стабильный",
-			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО МОСКОВСКИЙ КРЕДИТНЫЙ БАНК",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun10",
-			"objectId": "213879",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "1978",
-			"releaseDate": "17.10.2025",
-			"inn": "7734202860",
-			"objectType": "CBNK - кредитная организация",
-			"ratingValue": "AA-|ru|",
-			"prediction": "DEV - развивающийся",
-			"objectName": "\"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\" (публичное акционерное общество)",
-			"kraName": "ООО \"НРА\"",
-			"releaseUrl": "https://www.ra-national.ru/press_release/moskovskij-kreditnyj-bank/42430/",
-			"objectId": "213879",
-			"isin": "",
-			"subjectName": ""
-		},
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "1978",
-			"releaseDate": "21.10.2025",
-			"inn": "7734202860",
-			"objectType": "CBNK - кредитная организация",
-			"ratingValue": "A+(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "«МОСКОВСКИЙ КРЕДИТНЫЙ БАНК» (публичное акционерное общество)",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6193/",
-			"objectId": "213879",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7718122921": {
-		"NKR": {
-			"ratingAction": "DG – понижение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "20.02.2026",
-			"inn": "7718122921",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "D",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Акционерное общество «ВЕРАТЕК»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/vera-tec-RA-200226/",
-			"objectId": "214060",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7826705374": {
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "11.12.2025",
-			"inn": "7826705374",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "AA-(RU)",
-			"prediction": "DEV - развивающийся",
-			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БАЛТИЙСКИЙ ЛИЗИНГ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6396/",
-			"objectId": "214471",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "28.01.2026",
-			"inn": "7826705374",
-			"objectType": "FLSG – лизинговая компания",
-			"ratingValue": "ruAA-",
-			"prediction": "STA – стабильный",
-			"objectName": "Общество с ограниченной ответственностью Балтийский лизинг",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/jan28a",
-			"objectId": "214471",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7810245481": {
-		"AKRA": {
-			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "08.05.2026",
-			"inn": "7810245481",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "A-(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СЭТЛ ГРУПП\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6854/",
-			"objectId": "215633",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "29.09.2025",
-			"inn": "7810245481",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "A.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью «Сэтл Групп»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Setl-RA-290925/",
-			"objectId": "215633",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7724490000": {
-		"AKRA": {
-			"ratingAction": "DG - понижение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "20.08.2025",
-			"inn": "7724490000",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "AA(RU)",
-			"prediction": "NEG - негативный",
-			"objectName": "Акционерное Общество \"Почта России\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6019/",
-			"objectId": "213897",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7534018889": {
-		"NKR": {
-			"ratingAction": "DG - понижение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу, WR - изменение статуса «под наблюдением» или «на пересмотре»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "27.11.2025",
-			"inn": "7534018889",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BBB.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество «Территориальная генерирующая компания № 14»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/TGK14-RA-271125/",
-			"objectId": "212747",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7708186108": {
-		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "07.08.2025",
-			"inn": "7708186108",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "A(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЛИПЛАСТ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5990/",
-			"objectId": "213869",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "10.11.2025",
-			"inn": "7708186108",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "A.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Акционерное общество «Полипласт»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Polyplast-RA-101125/",
-			"objectId": "213869",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7724889891": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "19.11.2025",
-			"inn": "7724889891",
-			"objectType": "FMFO - микрофинансовая организация",
-			"ratingValue": "ruBB+",
-			"prediction": "STA - стабильный",
-			"objectName": "Микрофинансовая компания Лайм-Займ (Общество с ограниченной ответственностью)",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov19",
-			"objectId": "212881",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"5406780551": {
-		"EXPERT_RA": {
-			"ratingAction": "DG – понижение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "30.01.2026",
-			"inn": "5406780551",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "ruBB",
-			"prediction": "STA – стабильный",
-			"objectName": "Общество с ограниченной ответственностью СЕЛЛ-Сервис",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/jan30",
-			"objectId": "215714",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7750004150": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "25.03.2026",
-			"inn": "7750004150",
-			"objectType": "FOFO – прочие финансовые организации, в том числе специализированные общества",
-			"ratingValue": "AAA(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ РАЗВИТИЯ \"ВЭБ.РФ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6706/",
-			"objectId": "214183",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "17.09.2025",
-			"inn": "7750004150",
-			"objectType": "FOFO - прочие финансовые организации, в том числе специализированные общества",
-			"ratingValue": "AAA.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Государственная корпорация развития «ВЭБ.РФ»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/VEB-RA-170925/",
-			"objectId": "214183",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7812014560": {
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "30.06.2025",
-			"inn": "7812014560",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "AAA(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество \"Мегафон\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5871/",
-			"objectId": "215734",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "23.06.2025",
-			"inn": "7812014560",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество МегаФон",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun23k",
-			"objectId": "215734",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7702824562": {
-		"EXPERT_RA": {
-			"ratingAction": "UP - повышение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.06.2025",
-			"inn": "7702824562",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruBBB-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью Помощь интернет-магазинам",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun18a",
-			"objectId": "215674",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"9705101614": {
-		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "19.11.2025",
-			"inn": "9705101614",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "AA(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество «Лизинговая компания «Европлан»",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
-			"objectId": "215780",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу, RWR – снятие статуса «под наблюдением»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "22.04.2026",
-			"inn": "9705101614",
-			"objectType": "FLSG – лизинговая компания",
-			"ratingValue": "ruAA",
-			"prediction": "STA – стабильный",
-			"objectName": "Публичное акционерное общество Лизинговая компания Европлан (прежнее наименование Акционерное общество \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\")",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr22a",
-			"objectId": "215780",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"6625000100": {
-		"NRA": {
-			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "0965",
-			"releaseDate": "19.05.2026",
-			"inn": "6625000100",
-			"objectType": "CBNK – кредитная организация",
-			"ratingValue": "BB+|ru|",
-			"prediction": "STA – стабильный",
-			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО «ПЕРВОУРАЛЬСКБАНК»",
-			"kraName": "ООО \"НРА\"",
-			"releaseUrl": "https://www.ra-national.ru/press_release/ao-pervouralskbank/44115/",
-			"objectId": "212985",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "0965",
-			"releaseDate": "10.10.2025",
-			"inn": "6625000100",
-			"objectType": "CBNK - кредитная организация",
-			"ratingValue": "ruBB",
-			"prediction": "STA - стабильный",
-			"objectName": "Акционерное общество ПЕРВОУРАЛЬСКБАНК (прежнее наименование Акционерное общество \"ПЕРВОУРАЛЬСКИЙ АКЦИОНЕРНЫЙ КОММЕРЧЕСКИЙ БАНК\")",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/oct10c",
-			"objectId": "212985",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7704400618": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "03.07.2025",
-			"inn": "7704400618",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruBB",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество Эфферон (прежнее наименование Акционерное общество \"ЭФФЕРОН\")",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul03a",
-			"objectId": "213928",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7722514880": {
-		"AKRA": {
-			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу, NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "10.04.2026",
-			"inn": "7722514880",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "BB(RU)",
-			"prediction": "NEG – негативный",
-			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСИНТЕР РЕСТОРАНТС ХОЛДИНГ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6763/",
-			"objectId": "215832",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7801485085": {
-		"NRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "13.10.2025",
-			"inn": "7801485085",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BB|ru|",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью «УПТК-65»",
-			"kraName": "ООО \"НРА\"",
-			"releaseUrl": "https://www.ra-national.ru/press_release/uptk-65/42399/",
-			"objectId": "215551",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7802131219": {
-		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "01.04.2026",
-			"inn": "7802131219",
-			"objectType": "FLSG – лизинговая компания",
-			"ratingValue": "A(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНТЕРЛИЗИНГ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6731/",
-			"objectId": "215732",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "24.06.2025",
-			"inn": "7802131219",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "ruA",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью Интерлизинг",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24e",
-			"objectId": "215732",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7705392230": {
-		"AKRA": {
-			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "12.05.2026",
-			"inn": "7705392230",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "AA(RU)",
-			"prediction": "NEG – негативный",
-			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
-			"objectId": "213915",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "23.04.2026",
-			"inn": "7705392230",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "AA+.ru",
-			"prediction": "NEG – негативный",
-			"objectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Metalloinvest-RA-230426/",
-			"objectId": "213915",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7713076301": {
-		"AKRA": {
-			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "22.01.2026",
-			"inn": "7713076301",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "AA(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВЫМПЕЛ-КОММУНИКАЦИИ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6509/",
-			"objectId": "215763",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "19.12.2025",
-			"inn": "7713076301",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "AA.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество «Вымпел-Коммуникации»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/VimpelCom-RA-191225/",
-			"objectId": "215763",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7705619586": {
-		"NKR": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "31.03.2026",
-			"inn": "7705619586",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "A-.ru",
-			"prediction": "STA – стабильный",
-			"objectName": "Акционерное общество «Эталон-Финанс»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Etalon-RA-310326/",
-			"objectId": "213189",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "DG – понижение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "17.04.2026",
-			"inn": "7705619586",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "ruBBB+",
-			"prediction": "STA – стабильный",
-			"objectName": "Акционерное общество Эталон-Финанс (прежнее наименование Акционерное общество \"ЛИДЕР-ИНВЕСТ\")",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr17j",
-			"objectId": "213189",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7424024375": {
-		"AKRA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "7424024375",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "AA(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЮЖУРАЛЗОЛОТО ГРУППА КОМПАНИЙ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6682/",
-			"objectId": "214119",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "7424024375",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "ruAA",
-			"prediction": "DEV – развивающийся",
-			"objectName": "Публичное акционерное общество Южуралзолото Группа Компаний (прежнее наименование Акционерное общество \"ЮЖУРАЛЗОЛОТО ГРУППА КОМПАНИЙ\")",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/mar18i",
-			"objectId": "214119",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7451195700": {
-		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "24.07.2025",
-			"inn": "7451195700",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "ruBB",
-			"prediction": "STA - стабильный",
-			"objectName": "Акционерное общество Южноуральский лизинговый центр",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul24b",
-			"objectId": "214118",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7702060116": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "06.10.2025",
-			"inn": "7702060116",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество Современный коммерческий флот",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/oct06b",
-			"objectId": "215880",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"6685151087": {
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "01.12.2025",
-			"inn": "6685151087",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "A-(RU)",
-			"prediction": "NEG - негативный",
-			"objectName": "Общество с ограниченной ответственностью \"Брусника. Строительство и девелопмент\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6350/",
-			"objectId": "212840",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "17.10.2025",
-			"inn": "6685151087",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "A-.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью «Брусника. Строительство и девелопмент»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Brusnika-RA-171025/",
-			"objectId": "212840",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7709780434": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "26.03.2026",
-			"inn": "7709780434",
-			"objectType": "FLSG – лизинговая компания",
-			"ratingValue": "AA-(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СОВКОМБАНК ЛИЗИНГ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6713/",
-			"objectId": "215553",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "06.11.2025",
-			"inn": "7709780434",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "ruAA-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью Совкомбанк Лизинг",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov06d",
-			"objectId": "215553",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"6672241304": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "03.02.2026",
-			"inn": "6672241304",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "A(RU)",
-			"prediction": "NEG – негативный",
-			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИНАРА - ТРАНСПОРТНЫЕ МАШИНЫ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6544/",
-			"objectId": "213940",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "11.06.2025",
-			"inn": "6672241304",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "A+.ru",
-			"prediction": "NEG - негативный",
-			"objectName": "Акционерное общество «Синара-Транспортные Машины»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/SinaraTM-RA-110625/",
-			"objectId": "213940",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7826087713": {
-		"NKR": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу, WR - изменение статуса «под наблюдением» или «на пересмотре»",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "22.07.2025",
-			"inn": "7826087713",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "A.ru",
-			"prediction": "UNW - неопределенный",
-			"objectName": "Общество с ограниченной ответственностью «О’КЕЙ»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Okey-RA-220725/",
-			"objectId": "215546",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "06.06.2025",
-			"inn": "7826087713",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruA-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью О’КЕЙ",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun06a",
-			"objectId": "215546",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"9909152102": {
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "Международные организации и институты",
-			"koNumber": "",
-			"releaseDate": "25.12.2025",
-			"inn": "9909152102",
-			"objectType": "IFO - международная финансовая организация",
-			"ratingValue": "A-",
-			"prediction": "STA - стабильный",
-			"objectName": "Международный банк экономического сотрудничества",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6459/",
-			"objectId": "214474",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"9703051608": {
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "25.11.2025",
-			"inn": "9703051608",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "BB+(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФЕРА\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6324/",
-			"objectId": "214489",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"6164218952": {
-		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "02.07.2025",
-			"inn": "6164218952",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "ruBBB-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью МСБ-Лизинг",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02e",
-			"objectId": "214506",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7729523682": {
-		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "30.09.2025",
-			"inn": "7729523682",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruBBB",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью ГЕЛЬТЕК-МЕДИКА",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep30g",
-			"objectId": "215540",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7710140679": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "2673",
-			"releaseDate": "12.03.2026",
-			"inn": "7710140679",
-			"objectType": "CBNK – кредитная организация",
-			"ratingValue": "AA(RU)",
-			"prediction": "POS – позитивный",
-			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТБАНК\" (АКЦИОНЕРНОЕ ОБЩЕСТВО «Тинькофф Банк»)",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6662/",
-			"objectId": "213952",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу, WR - изменение статуса «под наблюдением» или «на пересмотре»",
-			"country": "РОССИЯ",
-			"koNumber": "2673",
-			"releaseDate": "11.06.2025",
-			"inn": "7710140679",
-			"objectType": "CBNK - кредитная организация",
-			"ratingValue": "ruAA",
-			"prediction": "STA - стабильный",
-			"objectName": "Акционерное общество ТБАНК (прежнее наименование Акционерное общество \"ТИНЬКОФФ БАНК\")",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun11a",
-			"objectId": "213952",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7707017509": {
-		"AKRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "20.08.2025",
-			"inn": "7707017509",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "AA(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"НЕФТЕГАЗОВАЯ КОМПАНИЯ \"СЛАВНЕФТЬ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6018/",
-			"objectId": "215808",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "03.09.2025",
-			"inn": "7707017509",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruAA",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество Нефтегазовая компания Славнефть",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep03a",
-			"objectId": "215808",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7728192413": {
-		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "29.08.2025",
-			"inn": "7728192413",
-			"objectType": "FLSG - лизинговая компания (фирма)",
-			"ratingValue": "BB-(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БЭЛТИ-ГРАНД\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6048/",
-			"objectId": "214469",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7725625041": {
-		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "23.07.2025",
-			"inn": "7725625041",
-			"objectType": "FFCT - юридическое лицо, специализирующееся на предоставлении финансирования под уступку денежного требования (факторинговая компания)",
-			"ratingValue": "AA-(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью \"Совкомбанк Факторинг\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5942/",
-			"objectId": "215608",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "21.11.2025",
-			"inn": "7725625041",
-			"objectType": "FFCT - юридическое лицо, специализирующееся на предоставлении финансирования под уступку денежного требования (факторинговая компания)",
-			"ratingValue": "ruAA-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью Совкомбанк Факторинг",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov21k",
-			"objectId": "215608",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7707083893": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "1481",
-			"releaseDate": "19.05.2026",
-			"inn": "7707083893",
-			"objectType": "CBNK – кредитная организация",
-			"ratingValue": "AAA(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
-			"objectId": "215821",
-			"isin": "",
-			"subjectName": ""
-		},
-		"NKR": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "1481",
-			"releaseDate": "10.10.2025",
-			"inn": "7707083893",
-			"objectType": "CBNK - кредитная организация",
-			"ratingValue": "AAA.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество «Сбербанк России»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Sberbank-RA-101025/",
-			"objectId": "215821",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7709938216": {
-		"NKR": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "12.08.2025",
-			"inn": "7709938216",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BBB.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью «ЭНЕРГОНИКА»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Energonica-RA-120825/",
-			"objectId": "215465",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"8401005730": {
-		"NKR": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "24.04.2026",
-			"inn": "8401005730",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "AAA.ru",
-			"prediction": "STA – стабильный",
-			"objectName": "Публичное Акционерное Общество «Горно-металлургическая компания «Норильский никель»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Nornickel-RA-240426/",
-			"objectId": "212942",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "14.11.2025",
-			"inn": "8401005730",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество Горно-металлургическая компания Норильский никель",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov14c",
-			"objectId": "212942",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"9725029780": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "11.07.2025",
-			"inn": "9725029780",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruBB-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью Мой самокат",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul11c",
-			"objectId": "215822",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7722753969": {
-		"AKRA": {
-			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "29.01.2026",
-			"inn": "7722753969",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "A(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВСЕИНСТРУМЕНТЫ.РУ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6532/",
-			"objectId": "214484",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7704784072": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "25.09.2025",
-			"inn": "7704784072",
-			"objectType": "FMFO - микрофинансовая организация",
-			"ratingValue": "ruBBB-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью Микрофинансовая компания Мани Мен",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep25h",
-			"objectId": "212759",
+			"objectId": "217134",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3448,7 +2270,7 @@
 			"objectName": "Акционерное общество \"Трансмашхолдинг\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5976/",
-			"objectId": "213122",
+			"objectId": "218023",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3464,7 +2286,1133 @@
 			"objectName": "Акционерное общество Трансмашхолдинг (прежнее наименование Закрытое акционерное общество \"ТРАНСМАШХОЛДИНГ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug04",
-			"objectId": "213122",
+			"objectId": "218023",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"9703014525": {
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "07.10.2025",
+			"inn": "9703014525",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "BBB(RU)",
+			"prediction": "NEG - негативный",
+			"objectName": "Общество с ограниченной ответственностью «Алтимейт Эдьюкейшн»",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6158/",
+			"objectId": "219888",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7734202860": {
+		"EXPERT_RA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "1978",
+			"releaseDate": "05.06.2026",
+			"inn": "7734202860",
+			"objectType": "CBNK – кредитная организация",
+			"ratingValue": "ruA+",
+			"prediction": "STA – стабильный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО МОСКОВСКИЙ КРЕДИТНЫЙ БАНК",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun05a",
+			"objectId": "216786",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "1978",
+			"releaseDate": "17.10.2025",
+			"inn": "7734202860",
+			"objectType": "CBNK - кредитная организация",
+			"ratingValue": "AA-|ru|",
+			"prediction": "DEV - развивающийся",
+			"objectName": "\"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\" (публичное акционерное общество)",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/moskovskij-kreditnyj-bank/42430/",
+			"objectId": "216786",
+			"isin": "",
+			"subjectName": ""
+		},
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "1978",
+			"releaseDate": "21.10.2025",
+			"inn": "7734202860",
+			"objectType": "CBNK - кредитная организация",
+			"ratingValue": "A+(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "«МОСКОВСКИЙ КРЕДИТНЫЙ БАНК» (публичное акционерное общество)",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6193/",
+			"objectId": "216786",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7718122921": {
+		"NKR": {
+			"ratingAction": "DG – понижение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "20.02.2026",
+			"inn": "7718122921",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "D",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Акционерное общество «ВЕРАТЕК»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/vera-tec-RA-200226/",
+			"objectId": "218407",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7826705374": {
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "11.12.2025",
+			"inn": "7826705374",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "AA-(RU)",
+			"prediction": "DEV - развивающийся",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БАЛТИЙСКИЙ ЛИЗИНГ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6396/",
+			"objectId": "216910",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "28.01.2026",
+			"inn": "7826705374",
+			"objectType": "FLSG – лизинговая компания",
+			"ratingValue": "ruAA-",
+			"prediction": "STA – стабильный",
+			"objectName": "Общество с ограниченной ответственностью Балтийский лизинг",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jan28a",
+			"objectId": "216910",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7810245481": {
+		"AKRA": {
+			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "08.05.2026",
+			"inn": "7810245481",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "A-(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СЭТЛ ГРУПП\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6854/",
+			"objectId": "219886",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "29.09.2025",
+			"inn": "7810245481",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "A.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью «Сэтл Групп»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Setl-RA-290925/",
+			"objectId": "219886",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7724490000": {
+		"AKRA": {
+			"ratingAction": "DG - понижение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "20.08.2025",
+			"inn": "7724490000",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "AA(RU)",
+			"prediction": "NEG - негативный",
+			"objectName": "Акционерное Общество \"Почта России\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6019/",
+			"objectId": "218263",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7534018889": {
+		"NKR": {
+			"ratingAction": "DG - понижение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу, WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "27.11.2025",
+			"inn": "7534018889",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "BBB.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество «Территориальная генерирующая компания № 14»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/TGK14-RA-271125/",
+			"objectId": "217294",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7708186108": {
+		"AKRA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "07.08.2025",
+			"inn": "7708186108",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "A(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЛИПЛАСТ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5990/",
+			"objectId": "218250",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "10.11.2025",
+			"inn": "7708186108",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "A.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Акционерное общество «Полипласт»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Polyplast-RA-101125/",
+			"objectId": "218250",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7724889891": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.11.2025",
+			"inn": "7724889891",
+			"objectType": "FMFO - микрофинансовая организация",
+			"ratingValue": "ruBB+",
+			"prediction": "STA - стабильный",
+			"objectName": "Микрофинансовая компания Лайм-Займ (Общество с ограниченной ответственностью)",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/nov19",
+			"objectId": "217590",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"5406780551": {
+		"EXPERT_RA": {
+			"ratingAction": "DG – понижение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.01.2026",
+			"inn": "5406780551",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "ruBB",
+			"prediction": "STA – стабильный",
+			"objectName": "Общество с ограниченной ответственностью СЕЛЛ-Сервис",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jan30",
+			"objectId": "220026",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7750004150": {
+		"AKRA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "25.03.2026",
+			"inn": "7750004150",
+			"objectType": "FOFO – прочие финансовые организации, в том числе специализированные общества",
+			"ratingValue": "AAA(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ РАЗВИТИЯ \"ВЭБ.РФ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6706/",
+			"objectId": "218464",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "17.09.2025",
+			"inn": "7750004150",
+			"objectType": "FOFO - прочие финансовые организации, в том числе специализированные общества",
+			"ratingValue": "AAA.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Государственная корпорация развития «ВЭБ.РФ»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/VEB-RA-170925/",
+			"objectId": "218464",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7812014560": {
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.06.2025",
+			"inn": "7812014560",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "AAA(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество \"Мегафон\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5871/",
+			"objectId": "220036",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "23.06.2025",
+			"inn": "7812014560",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruAAA",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество МегаФон",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jun23k",
+			"objectId": "220036",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7702824562": {
+		"EXPERT_RA": {
+			"ratingAction": "UP - повышение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "18.06.2025",
+			"inn": "7702824562",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruBBB-",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью Помощь интернет-магазинам",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jun18a",
+			"objectId": "217240",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"9705101614": {
+		"AKRA": {
+			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.11.2025",
+			"inn": "9705101614",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "AA(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество «Лизинговая компания «Европлан»",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"objectId": "216978",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу, RWR – снятие статуса «под наблюдением»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "22.04.2026",
+			"inn": "9705101614",
+			"objectType": "FLSG – лизинговая компания",
+			"ratingValue": "ruAA",
+			"prediction": "STA – стабильный",
+			"objectName": "Публичное акционерное общество Лизинговая компания Европлан (прежнее наименование Акционерное общество \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\")",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr22a",
+			"objectId": "216978",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"6625000100": {
+		"NRA": {
+			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "0965",
+			"releaseDate": "19.05.2026",
+			"inn": "6625000100",
+			"objectType": "CBNK – кредитная организация",
+			"ratingValue": "BB+|ru|",
+			"prediction": "STA – стабильный",
+			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО «ПЕРВОУРАЛЬСКБАНК»",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/ao-pervouralskbank/44115/",
+			"objectId": "217143",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "0965",
+			"releaseDate": "10.10.2025",
+			"inn": "6625000100",
+			"objectType": "CBNK - кредитная организация",
+			"ratingValue": "ruBB",
+			"prediction": "STA - стабильный",
+			"objectName": "Акционерное общество ПЕРВОУРАЛЬСКБАНК (прежнее наименование Акционерное общество \"ПЕРВОУРАЛЬСКИЙ АКЦИОНЕРНЫЙ КОММЕРЧЕСКИЙ БАНК\")",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/oct10c",
+			"objectId": "217143",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7704400618": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "03.07.2025",
+			"inn": "7704400618",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruBB",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество Эфферон (прежнее наименование Акционерное общество \"ЭФФЕРОН\")",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jul03a",
+			"objectId": "218293",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7722514880": {
+		"AKRA": {
+			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу, NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "10.04.2026",
+			"inn": "7722514880",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "BB(RU)",
+			"prediction": "NEG – негативный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСИНТЕР РЕСТОРАНТС ХОЛДИНГ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6763/",
+			"objectId": "219951",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7801485085": {
+		"NRA": {
+			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "13.10.2025",
+			"inn": "7801485085",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "BB|ru|",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью «УПТК-65»",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/uptk-65/42399/",
+			"objectId": "219826",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7802131219": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "01.04.2026",
+			"inn": "7802131219",
+			"objectType": "FLSG – лизинговая компания",
+			"ratingValue": "A(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНТЕРЛИЗИНГ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6731/",
+			"objectId": "220035",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "24.06.2025",
+			"inn": "7802131219",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "ruA",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью Интерлизинг",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jun24e",
+			"objectId": "220035",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7705392230": {
+		"AKRA": {
+			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "12.05.2026",
+			"inn": "7705392230",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "AA(RU)",
+			"prediction": "NEG – негативный",
+			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6856/",
+			"objectId": "216813",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "23.04.2026",
+			"inn": "7705392230",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "AA+.ru",
+			"prediction": "NEG – негативный",
+			"objectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Metalloinvest-RA-230426/",
+			"objectId": "216813",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7713076301": {
+		"AKRA": {
+			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "22.01.2026",
+			"inn": "7713076301",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "AA(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВЫМПЕЛ-КОММУНИКАЦИИ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6509/",
+			"objectId": "219907",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "19.12.2025",
+			"inn": "7713076301",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "AA.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество «Вымпел-Коммуникации»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/VimpelCom-RA-191225/",
+			"objectId": "219907",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7705619586": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "31.03.2026",
+			"inn": "7705619586",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "A-.ru",
+			"prediction": "STA – стабильный",
+			"objectName": "Акционерное общество «Эталон-Финанс»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Etalon-RA-310326/",
+			"objectId": "217497",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "DG – понижение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "17.04.2026",
+			"inn": "7705619586",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "ruBBB+",
+			"prediction": "STA – стабильный",
+			"objectName": "Акционерное общество Эталон-Финанс (прежнее наименование Акционерное общество \"ЛИДЕР-ИНВЕСТ\")",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr17j",
+			"objectId": "217497",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7424024375": {
+		"AKRA": {
+			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "18.03.2026",
+			"inn": "7424024375",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "AA(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЮЖУРАЛЗОЛОТО ГРУППА КОМПАНИЙ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6682/",
+			"objectId": "218517",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "18.03.2026",
+			"inn": "7424024375",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "ruAA",
+			"prediction": "DEV – развивающийся",
+			"objectName": "Публичное акционерное общество Южуралзолото Группа Компаний (прежнее наименование Акционерное общество \"ЮЖУРАЛЗОЛОТО ГРУППА КОМПАНИЙ\")",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/mar18i",
+			"objectId": "218517",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7451195700": {
+		"EXPERT_RA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "24.07.2025",
+			"inn": "7451195700",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "ruBB",
+			"prediction": "STA - стабильный",
+			"objectName": "Акционерное общество Южноуральский лизинговый центр",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jul24b",
+			"objectId": "218516",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7702060116": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "06.10.2025",
+			"inn": "7702060116",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruAAA",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество Современный коммерческий флот",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/oct06b",
+			"objectId": "216976",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"6685151087": {
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "01.12.2025",
+			"inn": "6685151087",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "A-(RU)",
+			"prediction": "NEG - негативный",
+			"objectName": "Общество с ограниченной ответственностью \"Брусника. Строительство и девелопмент\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6350/",
+			"objectId": "217449",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "17.10.2025",
+			"inn": "6685151087",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "A-.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью «Брусника. Строительство и девелопмент»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Brusnika-RA-171025/",
+			"objectId": "217449",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7709780434": {
+		"AKRA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "26.03.2026",
+			"inn": "7709780434",
+			"objectType": "FLSG – лизинговая компания",
+			"ratingValue": "AA-(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СОВКОМБАНК ЛИЗИНГ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6713/",
+			"objectId": "216908",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "06.11.2025",
+			"inn": "7709780434",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "ruAA-",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью Совкомбанк Лизинг",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/nov06d",
+			"objectId": "216908",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"6672241304": {
+		"AKRA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "03.02.2026",
+			"inn": "6672241304",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "A(RU)",
+			"prediction": "NEG – негативный",
+			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИНАРА - ТРАНСПОРТНЫЕ МАШИНЫ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6544/",
+			"objectId": "218317",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "11.06.2025",
+			"inn": "6672241304",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "A+.ru",
+			"prediction": "NEG - негативный",
+			"objectName": "Акционерное общество «Синара-Транспортные Машины»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/SinaraTM-RA-110625/",
+			"objectId": "218317",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7826087713": {
+		"NKR": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу, WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "22.07.2025",
+			"inn": "7826087713",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "A.ru",
+			"prediction": "UNW - неопределенный",
+			"objectName": "Общество с ограниченной ответственностью «О’КЕЙ»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Okey-RA-220725/",
+			"objectId": "219839",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"9909152102": {
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "Международные организации и институты",
+			"koNumber": "",
+			"releaseDate": "25.12.2025",
+			"inn": "9909152102",
+			"objectType": "IFO - международная финансовая организация",
+			"ratingValue": "A-",
+			"prediction": "STA - стабильный",
+			"objectName": "Международный банк экономического сотрудничества",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6459/",
+			"objectId": "218774",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"9703051608": {
+		"AKRA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "25.11.2025",
+			"inn": "9703051608",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "BB+(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФЕРА\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6324/",
+			"objectId": "218606",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"6164218952": {
+		"EXPERT_RA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "02.07.2025",
+			"inn": "6164218952",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "ruBBB-",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью МСБ-Лизинг",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jul02e",
+			"objectId": "218674",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7729523682": {
+		"EXPERT_RA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.09.2025",
+			"inn": "7729523682",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruBBB",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью ГЕЛЬТЕК-МЕДИКА",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/sep30g",
+			"objectId": "219825",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7710140679": {
+		"AKRA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "2673",
+			"releaseDate": "12.03.2026",
+			"inn": "7710140679",
+			"objectType": "CBNK – кредитная организация",
+			"ratingValue": "AA(RU)",
+			"prediction": "POS – позитивный",
+			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТБАНК\" (АКЦИОНЕРНОЕ ОБЩЕСТВО «Тинькофф Банк»)",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6662/",
+			"objectId": "218335",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу, WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"country": "РОССИЯ",
+			"koNumber": "2673",
+			"releaseDate": "11.06.2025",
+			"inn": "7710140679",
+			"objectType": "CBNK - кредитная организация",
+			"ratingValue": "ruAA",
+			"prediction": "STA - стабильный",
+			"objectName": "Акционерное общество ТБАНК (прежнее наименование Акционерное общество \"ТИНЬКОФФ БАНК\")",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jun11a",
+			"objectId": "218335",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7707017509": {
+		"AKRA": {
+			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "20.08.2025",
+			"inn": "7707017509",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "AA(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"НЕФТЕГАЗОВАЯ КОМПАНИЯ \"СЛАВНЕФТЬ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6018/",
+			"objectId": "217263",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "03.09.2025",
+			"inn": "7707017509",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruAA",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество Нефтегазовая компания Славнефть",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/sep03a",
+			"objectId": "217263",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7728192413": {
+		"AKRA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "29.08.2025",
+			"inn": "7728192413",
+			"objectType": "FLSG - лизинговая компания (фирма)",
+			"ratingValue": "BB-(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БЭЛТИ-ГРАНД\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6048/",
+			"objectId": "218715",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7725625041": {
+		"AKRA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "23.07.2025",
+			"inn": "7725625041",
+			"objectType": "FFCT - юридическое лицо, специализирующееся на предоставлении финансирования под уступку денежного требования (факторинговая компания)",
+			"ratingValue": "AA-(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью \"Совкомбанк Факторинг\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5942/",
+			"objectId": "216990",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "21.11.2025",
+			"inn": "7725625041",
+			"objectType": "FFCT - юридическое лицо, специализирующееся на предоставлении финансирования под уступку денежного требования (факторинговая компания)",
+			"ratingValue": "ruAA-",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью Совкомбанк Факторинг",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/nov21k",
+			"objectId": "216990",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7707083893": {
+		"AKRA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "1481",
+			"releaseDate": "19.05.2026",
+			"inn": "7707083893",
+			"objectType": "CBNK – кредитная организация",
+			"ratingValue": "AAA(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
+			"objectId": "219950",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "1481",
+			"releaseDate": "10.10.2025",
+			"inn": "7707083893",
+			"objectType": "CBNK - кредитная организация",
+			"ratingValue": "AAA.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество «Сбербанк России»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Sberbank-RA-101025/",
+			"objectId": "219950",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7709938216": {
+		"NKR": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "12.08.2025",
+			"inn": "7709938216",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "BBB.ru",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью «ЭНЕРГОНИКА»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Energonica-RA-120825/",
+			"objectId": "219757",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"8401005730": {
+		"NKR": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "24.04.2026",
+			"inn": "8401005730",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "AAA.ru",
+			"prediction": "STA – стабильный",
+			"objectName": "Публичное Акционерное Общество «Горно-металлургическая компания «Норильский никель»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Nornickel-RA-240426/",
+			"objectId": "217442",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "14.11.2025",
+			"inn": "8401005730",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruAAA",
+			"prediction": "STA - стабильный",
+			"objectName": "Публичное акционерное общество Горно-металлургическая компания Норильский никель",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/nov14c",
+			"objectId": "217442",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"9725029780": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "11.07.2025",
+			"inn": "9725029780",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruBB-",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью Мой самокат",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/jul11c",
+			"objectId": "219961",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7722753969": {
+		"AKRA": {
+			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "29.01.2026",
+			"inn": "7722753969",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "A(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВСЕИНСТРУМЕНТЫ.РУ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6532/",
+			"objectId": "218737",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"7704784072": {
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "25.09.2025",
+			"inn": "7704784072",
+			"objectType": "FMFO - микрофинансовая организация",
+			"ratingValue": "ruBBB-",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью Микрофинансовая компания Мани Мен",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/sep25h",
+			"objectId": "217109",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3482,7 +3430,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ - РОССЕТИ\" (Публичное акционерное общество «Федеральная сетевая компания Единой энергетической системы»)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6155/",
-			"objectId": "215841",
+			"objectId": "217233",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3498,7 +3446,7 @@
 			"objectName": "Публичное акционерное общество Федеральная сетевая компания - Россети",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr06g",
-			"objectId": "215841",
+			"objectId": "217233",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3516,7 +3464,7 @@
 			"objectName": "Публичное акционерное общество «Полюс»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/polyus-RA-310326/",
-			"objectId": "215803",
+			"objectId": "219925",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3532,7 +3480,7 @@
 			"objectName": "Публичное акционерное общество Полюс",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep11b",
-			"objectId": "215803",
+			"objectId": "219925",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3550,7 +3498,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЭРОФЛОТ-РОССИЙСКИЕ АВИАЛИНИИ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5845/",
-			"objectId": "215768",
+			"objectId": "216876",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3566,7 +3514,7 @@
 			"objectName": "Публичное акционерное общество Аэрофлот — российские авиалинии",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct27",
-			"objectId": "215768",
+			"objectId": "216876",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3584,7 +3532,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"НЕФТЯНАЯ КОМПАНИЯ \"РОСНЕФТЬ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6339/",
-			"objectId": "215817",
+			"objectId": "216924",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3600,7 +3548,7 @@
 			"objectName": "Публичное акционерное общество Нефтяная компания Роснефть",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may08a",
-			"objectId": "215817",
+			"objectId": "216924",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3618,7 +3566,7 @@
 			"objectName": "Общество с ограниченной ответственностью \"Элемент Лизинг\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6142/",
-			"objectId": "215627",
+			"objectId": "216801",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3634,7 +3582,7 @@
 			"objectName": "Общество с ограниченной ответственностью Элемент Лизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/jan15a",
-			"objectId": "215627",
+			"objectId": "216801",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3652,7 +3600,7 @@
 			"objectName": "Общество с ограниченной ответственностью МИКРОФИНАНСОВАЯ КОМПАНИЯ СОВКОМ ЭКСПРЕСС",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov10c",
-			"objectId": "215785",
+			"objectId": "219929",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3670,7 +3618,7 @@
 			"objectName": "Акционерное общество «Первая Грузовая Компания»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/PGK-RA-240326/",
-			"objectId": "213270",
+			"objectId": "218082",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3686,7 +3634,7 @@
 			"objectName": "Акционерное общество Первая Грузовая Компания (прежнее наименование Публичное акционерное общество \"ПЕРВАЯ ГРУЗОВАЯ КОМПАНИЯ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun18",
-			"objectId": "213270",
+			"objectId": "218082",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3704,7 +3652,7 @@
 			"objectName": "Общество с ограниченной ответственностью ДАРС-Девелопмент",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul10a",
-			"objectId": "215578",
+			"objectId": "219855",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3722,7 +3670,7 @@
 			"objectName": "Акционерное общество МИКРОФИНАНСОВАЯ КОМПАНИЯ МАНИ КАПИТАЛ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep02a",
-			"objectId": "213958",
+			"objectId": "218326",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3740,7 +3688,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОЛЬФ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6006/",
-			"objectId": "213976",
+			"objectId": "218343",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3756,7 +3704,7 @@
 			"objectName": "Акционерное общество «РОЛЬФ»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Rolf-RA-310326/",
-			"objectId": "213976",
+			"objectId": "218343",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3772,7 +3720,7 @@
 			"objectName": "Акционерное общество РОЛЬФ (прежнее наименование Общество с ограниченной ответственностью \"РОЛЬФ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/feb06",
-			"objectId": "213976",
+			"objectId": "218343",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3790,7 +3738,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО «АЛЬФА-БАНК»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6090/",
-			"objectId": "213985",
+			"objectId": "218351",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3806,7 +3754,7 @@
 			"objectName": "Акционерное общество АЛЬФА-БАНК",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr06",
-			"objectId": "213985",
+			"objectId": "218351",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3824,7 +3772,7 @@
 			"objectName": "ГОСУДАРСТВЕННАЯ КОМПАНИЯ \"РОССИЙСКИЕ АВТОМОБИЛЬНЫЕ ДОРОГИ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6778/",
-			"objectId": "214163",
+			"objectId": "216821",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3840,7 +3788,7 @@
 			"objectName": "Государственная компания Российские автомобильные дороги",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr28k",
-			"objectId": "214163",
+			"objectId": "216821",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3858,7 +3806,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Айдеко»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Ideco-RA-140825/",
-			"objectId": "215640",
+			"objectId": "219885",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3876,7 +3824,7 @@
 			"objectName": "Акционерное общество «Новосибирскавтодор»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Nskavtodor-RA-180526/",
-			"objectId": "213871",
+			"objectId": "218254",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3894,7 +3842,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АВТО ФИНАНС БАНК\" (Акционерное общество \"РН Банк\")",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6153/",
-			"objectId": "213893",
+			"objectId": "218261",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3910,7 +3858,7 @@
 			"objectName": "Акционерное общество Авто Финанс Банк",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec10a",
-			"objectId": "213893",
+			"objectId": "218261",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3928,7 +3876,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МТС-БАНК\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6407/",
-			"objectId": "215787",
+			"objectId": "219919",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3944,7 +3892,7 @@
 			"objectName": "Публичное акционерное общество «МТС-Банк»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/MTS-Bank-RA-161225/",
-			"objectId": "215787",
+			"objectId": "219919",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3960,7 +3908,7 @@
 			"objectName": "Публичное акционерное общество МТС-Банк",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/feb11a",
-			"objectId": "215787",
+			"objectId": "219919",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -3978,7 +3926,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИБУР ХОЛДИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6033/",
-			"objectId": "215827",
+			"objectId": "219954",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -3994,7 +3942,7 @@
 			"objectName": "Публичное акционерное общество СИБУР Холдинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/feb13d",
-			"objectId": "215827",
+			"objectId": "219954",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4012,7 +3960,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"САРАТОВСКИЙ ЭЛЕКТРОПРИБОРОСТРОИТЕЛЬНЫЙ ЗАВОД ИМЕНИ СЕРГО ОРДЖОНИКИДЗЕ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6852/",
-			"objectId": "213155",
+			"objectId": "217446",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4030,7 +3978,7 @@
 			"objectName": "Акционерное общество МИКРОФИНАНСОВАЯ КОМПАНИЯ САММИТ (прежнее наименование Общество с ограниченной ответственностью МИКРОФИНАНСОВАЯ КОМПАНИЯ \"САММИТ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct15d",
-			"objectId": "213964",
+			"objectId": "218331",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4048,7 +3996,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ИЛОН»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6165/",
-			"objectId": "215485",
+			"objectId": "219788",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4066,7 +4014,7 @@
 			"objectName": "Акционерное общество Лизинговая компания Роделен (прежнее наименование Закрытое акционерное общество ЛИЗИНГОВАЯ КОМПАНИЯ \"РОДЕЛЕН\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct08",
-			"objectId": "212911",
+			"objectId": "218100",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4084,7 +4032,7 @@
 			"objectName": "Общество с ограниченной ответственностью «КРОНОС»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Kronos-RA-300426/",
-			"objectId": "216100",
+			"objectId": "220294",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4102,7 +4050,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Электроаппарат»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/EA-RA-030925/",
-			"objectId": "215468",
+			"objectId": "216690",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4120,7 +4068,7 @@
 			"objectName": "Общество с ограниченной ответственностью \"Городской Супермаркет\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6421/",
-			"objectId": "215566",
+			"objectId": "217003",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4138,7 +4086,7 @@
 			"objectName": "Общество с ограниченной ответственностью Элит Строй",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov21o",
-			"objectId": "215666",
+			"objectId": "219985",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4156,7 +4104,7 @@
 			"objectName": "Акционерное общество «БИЗНЕС АЛЬЯНС»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-biznes-aljans/43317/",
-			"objectId": "214052",
+			"objectId": "218383",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4174,7 +4122,7 @@
 			"objectName": "Общество с ограниченной ответственностью Научно-производственное предприятие Моторные технологии",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may26",
-			"objectId": "213104",
+			"objectId": "217598",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4192,7 +4140,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Байсэл»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Buysell-RA-180925/",
-			"objectId": "215654",
+			"objectId": "219896",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4210,7 +4158,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО ГРУППА КОМПАНИЙ \"АЗОТ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6498/",
-			"objectId": "213840",
+			"objectId": "218232",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4226,7 +4174,7 @@
 			"objectName": "Акционерное общество Группа компаний «Азот»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Azot-Group-RA-280526/",
-			"objectId": "213840",
+			"objectId": "218232",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4242,7 +4190,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО ГРУППА КОМПАНИЙ АЗОТ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/jan21",
-			"objectId": "213840",
+			"objectId": "218232",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4260,7 +4208,7 @@
 			"objectName": "Общество с ограниченной ответственностью А Спэйс",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec04a",
-			"objectId": "215479",
+			"objectId": "219772",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4278,7 +4226,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕЛЕКТЕЛ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5963/",
-			"objectId": "213998",
+			"objectId": "218354",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4294,7 +4242,7 @@
 			"objectName": "Акционерное общество Селектел (прежнее наименование Общество с ограниченной ответственностью \"СЕТЬ ДАТА-ЦЕНТРОВ \"СЕЛЕКТЕЛ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov01c",
-			"objectId": "213998",
+			"objectId": "218354",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4312,7 +4260,7 @@
 			"objectName": "Общество с ограниченной ответственностью КОНТРОЛ лизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may26g",
-			"objectId": "215755",
+			"objectId": "216791",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4330,7 +4278,7 @@
 			"objectName": "Общество с ограниченной ответственностью \"Племзавод \"Пушкинское\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-pz-pushkinskoe/43425/",
-			"objectId": "215575",
+			"objectId": "216981",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4348,7 +4296,7 @@
 			"objectName": "Общество с ограниченной ответственностью СУЭК-Финанс",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr06i",
-			"objectId": "215747",
+			"objectId": "220053",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4366,7 +4314,7 @@
 			"objectName": "Акционерное общество «ЭР-Телеком Холдинг»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/er-telecom-RA-241225/",
-			"objectId": "213980",
+			"objectId": "218340",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4382,7 +4330,7 @@
 			"objectName": "Акционерное общество ЭР-Телеком Холдинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep19b",
-			"objectId": "213980",
+			"objectId": "218340",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4400,7 +4348,7 @@
 			"objectName": "Общество с ограниченной ответственностью  ЭкономЛизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul22c",
-			"objectId": "215590",
+			"objectId": "216724",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4418,7 +4366,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЕННАЯ ДВИГАТЕЛЕСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6337/",
-			"objectId": "213867",
+			"objectId": "217209",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4434,7 +4382,7 @@
 			"objectName": "Акционерное общество «Объединённая двигателестроительная корпорация»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/odk/42863/",
-			"objectId": "213867",
+			"objectId": "217209",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4452,7 +4400,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ТАЛЬВЕН»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Talven-RA-281125/",
-			"objectId": "215643",
+			"objectId": "219887",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4470,7 +4418,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5891/",
-			"objectId": "213857",
+			"objectId": "218242",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4486,7 +4434,7 @@
 			"objectName": "Акционерное общество ДОМ.РФ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun24j",
-			"objectId": "213857",
+			"objectId": "218242",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4504,7 +4452,7 @@
 			"objectName": "Акционерное общество «АВТОБАН-Финанс»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Avtoban-RA-250925/",
-			"objectId": "213977",
+			"objectId": "218345",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4522,7 +4470,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УРОЖАЙ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6833/",
-			"objectId": "214479",
+			"objectId": "218591",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4540,7 +4488,7 @@
 			"objectName": "Публичное акционерное общество «НоваБев Групп»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/NovaBev-RA-250625/",
-			"objectId": "215686",
+			"objectId": "219928",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4556,7 +4504,7 @@
 			"objectName": "Публичное Акционерное Общество НоваБев ГРУПП (прежнее наименование Публичное акционерное общество \"БЕЛУГА ГРУПП\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul24",
-			"objectId": "215686",
+			"objectId": "219928",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4574,7 +4522,7 @@
 			"objectName": "Общество с ограниченной ответственностью МИКРОФИНАНСОВАЯ КОМПАНИЯ ПСБ ФИНАНС (прежнее наименование Общество с ограниченной ответственностью МИКРОФИНАНСОВАЯ КОМПАНИЯ \"КАРМАНИ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct13d",
-			"objectId": "212806",
+			"objectId": "217280",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4592,7 +4540,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Профессиональная коллекторская организация «Агентство Судебного Взыскания»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-asv/44051/",
-			"objectId": "215585",
+			"objectId": "219860",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4610,7 +4558,7 @@
 			"objectName": "ГОСУДАРСТВЕННЫЙ СПЕЦИАЛИЗИРОВАННЫЙ РОССИЙСКИЙ ЭКСПОРТНО-ИМПОРТНЫЙ БАНК (АКЦИОНЕРНОЕ ОБЩЕСТВО)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6253/",
-			"objectId": "213153",
+			"objectId": "217445",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4626,7 +4574,7 @@
 			"objectName": "Государственный специализированный Российский экспортно-импортный банк (акционерное общество)",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep01",
-			"objectId": "213153",
+			"objectId": "217445",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4644,7 +4592,7 @@
 			"objectName": "Акционерное общество «Лазерные системы»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Lsystems-RA-280825/",
-			"objectId": "213839",
+			"objectId": "218459",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4662,7 +4610,7 @@
 			"objectName": "Акционерное Общество \"Группа компаний \"Медси\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5984/",
-			"objectId": "213843",
+			"objectId": "218233",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4678,7 +4626,7 @@
 			"objectName": "Акционерное общество Группа компаний Медси",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug05c",
-			"objectId": "213843",
+			"objectId": "218233",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4696,7 +4644,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОСКОВСКАЯ ОБЛАСТНАЯ ЭНЕРГОСЕТЕВАЯ КОМПАНИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6201/",
-			"objectId": "213949",
+			"objectId": "217272",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4712,25 +4660,25 @@
 			"objectName": "Акционерное общество МОСКОВСКАЯ ОБЛАСТНАЯ ЭНЕРГОСЕТЕВАЯ КОМПАНИЯ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec15i",
-			"objectId": "213949",
+			"objectId": "217272",
 			"isin": "",
 			"subjectName": ""
 		}
 	},
 	"7840438730": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.06.2025",
+			"releaseDate": "02.06.2026",
 			"inn": "7840438730",
-			"objectType": "BNFC - нефинансовая компания",
+			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "BBB(RU)",
-			"prediction": "POS - позитивный",
+			"prediction": "STA – стабильный",
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЛЕГЕНДА\"",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5799/",
-			"objectId": "214335",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6948/",
+			"objectId": "218782",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4746,7 +4694,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ЛЕГЕНДА»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Legenda-RA-150426/",
-			"objectId": "214335",
+			"objectId": "218782",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4764,7 +4712,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Органик Парк»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5940/",
-			"objectId": "215569",
+			"objectId": "219840",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4782,7 +4730,7 @@
 			"objectName": "Публичное акционерное общество «Акрон»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Acron-RA-220126/",
-			"objectId": "215762",
+			"objectId": "219967",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4798,7 +4746,7 @@
 			"objectName": "Публичное акционерное общество Акрон",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov28c",
-			"objectId": "215762",
+			"objectId": "219967",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4816,7 +4764,7 @@
 			"objectName": "Акционерное общество «Российский Сельскохозяйственный банк»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6482/",
-			"objectId": "213906",
+			"objectId": "216891",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4832,7 +4780,7 @@
 			"objectName": "Акционерное общество «Российский Сельскохозяйственный банк»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/RSHB-RA-120825/",
-			"objectId": "213906",
+			"objectId": "216891",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4850,7 +4798,25 @@
 			"objectName": "Общество с ограниченной ответственностью «Охта Групп»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6004/",
-			"objectId": "215572",
+			"objectId": "219851",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"9718011220": {
+		"AKRA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "22.12.2025",
+			"inn": "9718011220",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "B(RU)",
+			"prediction": "STA - стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОИЗВОДСТВЕННАЯ КОМПАНИЯ \"ФАБРИКС\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6438/",
+			"objectId": "218820",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4868,7 +4834,7 @@
 			"objectName": "Общество с ограниченной ответственностью «РДВ Технолоджи»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/RDW-Tech-RA-281125/",
-			"objectId": "215591",
+			"objectId": "219865",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4886,25 +4852,25 @@
 			"objectName": "Общество с ограниченной ответственностью ЛайфСтрим",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep19a",
-			"objectId": "215767",
+			"objectId": "219918",
 			"isin": "",
 			"subjectName": ""
 		}
 	},
 	"7705934210": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "06.06.2025",
+			"releaseDate": "03.06.2026",
 			"inn": "7705934210",
-			"objectType": "FOFO - прочие финансовые организации, в том числе специализированные общества",
+			"objectType": "FOFO – прочие финансовые организации, в том числе специализированные общества",
 			"ratingValue": "ruBBB",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "Общество с ограниченной ответственностью Цифра брокер (прежнее наименование Общество с ограниченной ответственностью ИНВЕСТИЦИОННАЯ КОМПАНИЯ \"ФРИДОМ ФИНАНС\")",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun06f",
-			"objectId": "212856",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun03c",
+			"objectId": "217448",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4922,7 +4888,7 @@
 			"objectName": "Общество с ограниченной ответственностью Лизинговая компания СПЕКТР",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec10b",
-			"objectId": "215788",
+			"objectId": "219920",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4940,7 +4906,7 @@
 			"objectName": "Акционерное общество «Экспобанк»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-jekspobank/42283/",
-			"objectId": "213092",
+			"objectId": "217989",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4956,7 +4922,7 @@
 			"objectName": "Акционерное общество «Экспобанк»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Expobank-RA-050526/",
-			"objectId": "213092",
+			"objectId": "217989",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -4972,41 +4938,7 @@
 			"objectName": "Акционерное общество Экспобанк (прежнее наименование Общество с ограниченной ответственностью \"ЭКСПОБАНК\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec23a",
-			"objectId": "213092",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"4823006703": {
-		"NRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "4823006703",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "AAA|ru|",
-			"prediction": "STA – стабильный",
-			"objectName": "Публичное акционерное общество  «Новолипецкий металлургический комбинат»",
-			"kraName": "ООО \"НРА\"",
-			"releaseUrl": "https://www.ra-national.ru/press_release/pao_nlmk/43549/",
-			"objectId": "215721",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "28.10.2025",
-			"inn": "4823006703",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество Новолипецкий металлургический комбинат",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/oct28e",
-			"objectId": "215721",
+			"objectId": "217989",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5024,7 +4956,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЗООПТ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6316/",
-			"objectId": "214291",
+			"objectId": "218769",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5042,7 +4974,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МСП ФАКТОРИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6730/",
-			"objectId": "215793",
+			"objectId": "219926",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5058,7 +4990,7 @@
 			"objectName": "Общество с ограниченной ответственностью МСП Факторинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/mar24e",
-			"objectId": "215793",
+			"objectId": "219926",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5076,7 +5008,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГРУППА ЛСР\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6675/",
-			"objectId": "215705",
+			"objectId": "219901",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5092,7 +5024,7 @@
 			"objectName": "Публичное акционерное общество Группа ЛСР",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec05",
-			"objectId": "215705",
+			"objectId": "219901",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5110,7 +5042,7 @@
 			"objectName": "Общество с ограниченной ответственностью «А101»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6299/",
-			"objectId": "215477",
+			"objectId": "219771",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5126,7 +5058,7 @@
 			"objectName": "Общество с ограниченной ответственностью «А101»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/A101-RA-230326/",
-			"objectId": "215477",
+			"objectId": "219771",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5142,7 +5074,7 @@
 			"objectName": "Общество с ограниченной ответственностью А101",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov24m",
-			"objectId": "215477",
+			"objectId": "219771",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5160,7 +5092,7 @@
 			"objectName": "Закрытое акционерное общество «Прогресс»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Progress-RA-160426/",
-			"objectId": "215990",
+			"objectId": "220103",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5178,7 +5110,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ЗАВОД АЛЮМИНИЕВЫХ СИСТЕМ КОРПСАН»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-zas-korpsan/42068/",
-			"objectId": "215478",
+			"objectId": "219783",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5196,7 +5128,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АКВИЛОН-ЛИЗИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6850/",
-			"objectId": "215645",
+			"objectId": "216716",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5214,7 +5146,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ДелоПортс»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/deloports-RA-060526/",
-			"objectId": "215473",
+			"objectId": "219777",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5230,7 +5162,7 @@
 			"objectName": "Общество с ограниченной ответственностью ДелоПортс",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/mar20e",
-			"objectId": "215473",
+			"objectId": "219777",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5248,7 +5180,7 @@
 			"objectName": "Публичное акционерное общество Россети Центр (прежнее наименование Публичное акционерное общество \"МЕЖРЕГИОНАЛЬНАЯ РАСПРЕДЕЛИТЕЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ ЦЕНТРА\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec02g",
-			"objectId": "213672",
+			"objectId": "217361",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5266,7 +5198,7 @@
 			"objectName": "Общество с ограниченной ответственностью ЛК АДВАНСТРАК",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep04a",
-			"objectId": "215773",
+			"objectId": "219915",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5284,7 +5216,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПАРТНЕРСТВО, ИНВЕСТИЦИИ, РАЗВИТИЕ\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-pir/42713/",
-			"objectId": "214378",
+			"objectId": "218799",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5302,7 +5234,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИЭК ХОЛДИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6642/",
-			"objectId": "213901",
+			"objectId": "218285",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5318,7 +5250,7 @@
 			"objectName": "Акционерное общество ИЭК ХОЛДИНГ (прежнее наименование Общество с ограниченной ответственностью \"ИЭК ХОЛДИНГ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov27g",
-			"objectId": "213901",
+			"objectId": "218285",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5336,7 +5268,7 @@
 			"objectName": "Акционерное общество \"Федеральная пассажирская компания\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6258/",
-			"objectId": "213966",
+			"objectId": "216684",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5352,7 +5284,7 @@
 			"objectName": "Акционерное общество «Федеральная пассажирская компания»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-fpk/42262/",
-			"objectId": "213966",
+			"objectId": "216684",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5370,7 +5302,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"НЕФТЯНАЯ КОМПАНИЯ \"ЛУКОЙЛ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5916/",
-			"objectId": "215819",
+			"objectId": "216782",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5386,7 +5318,7 @@
 			"objectName": "Публичное акционерное общество Нефтяная компания ЛУКОЙЛ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep02c",
-			"objectId": "215819",
+			"objectId": "216782",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5404,7 +5336,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕКОРД ТРЕЙД\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6244/",
-			"objectId": "214421",
+			"objectId": "218826",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5422,7 +5354,7 @@
 			"objectName": "Общество с ограниченной ответственностью микрофинансовая компания ВЭББАНКИР",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/mar18k",
-			"objectId": "212763",
+			"objectId": "217162",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5440,7 +5372,7 @@
 			"objectName": "Общество с ограниченной ответственностью ПЭТ ПЛАСТ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct10a",
-			"objectId": "215663",
+			"objectId": "219997",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5458,7 +5390,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СИБИРСКИЙ КОМБИНАТ ХЛЕБОПРОДУКТОВ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5979/",
-			"objectId": "214432",
+			"objectId": "218837",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5476,7 +5408,7 @@
 			"objectName": "Публично-правовая компания ПО формированию комплексной системы обращения с твердыми коммунальными отходами «Российский экологический оператор»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/REO-RA-310725/",
-			"objectId": "213821",
+			"objectId": "217330",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5492,7 +5424,7 @@
 			"objectName": "Публично-правовая компания по формированию комплексной системы обращения с твердыми коммунальными отходами Российский экологический оператор",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may08c",
-			"objectId": "213821",
+			"objectId": "217330",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5510,7 +5442,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕЖДУНАРОДНЫЙ МЕДИЦИНСКИЙ ЦЕНТР ОБРАБОТКИ И КРИОХРАНЕНИЯ БИОМАТЕРИАЛОВ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5924/",
-			"objectId": "213173",
+			"objectId": "217477",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5528,7 +5460,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ДиректЛизинг»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6191/",
-			"objectId": "215483",
+			"objectId": "216744",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5546,7 +5478,7 @@
 			"objectName": "Общество с ограниченной ответственностью Унител",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep08c",
-			"objectId": "214483",
+			"objectId": "218596",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5564,7 +5496,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ПЛАЗА-Телеком»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Plaza-Telecom-RA-250725/",
-			"objectId": "215577",
+			"objectId": "219848",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5582,7 +5514,7 @@
 			"objectName": "Общество с ограниченной ответственностью «СибАвтоТранс»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/sibavtotrans/44004/",
-			"objectId": "215615",
+			"objectId": "216739",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5600,7 +5532,7 @@
 			"objectName": "Общество с ограниченной ответственность «МОТОРИКА»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Motorica-RA-250725/",
-			"objectId": "215520",
+			"objectId": "219819",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5618,7 +5550,7 @@
 			"objectName": "Общество с ограниченной ответственностью ТЕХНО Лизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov21i",
-			"objectId": "212874",
+			"objectId": "216736",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5636,7 +5568,7 @@
 			"objectName": "Общество с ограниченной ответственностью Воксис",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug12",
-			"objectId": "215532",
+			"objectId": "219830",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5654,7 +5586,7 @@
 			"objectName": "Публичное акционерное общество «Московская объединенная энергетическая компания»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5977/",
-			"objectId": "212857",
+			"objectId": "217478",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5670,7 +5602,7 @@
 			"objectName": "Публичное акционерное общество Московская объединенная энергетическая компания",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul11",
-			"objectId": "212857",
+			"objectId": "217478",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5688,7 +5620,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УРАЛЬСКАЯ СТАЛЬ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6417/",
-			"objectId": "213921",
+			"objectId": "218289",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5706,7 +5638,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПИК-КОРПОРАЦИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6015/",
-			"objectId": "214375",
+			"objectId": "216795",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5722,7 +5654,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ПИК-Корпорация»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/PIKCrp-RA-021025/",
-			"objectId": "214375",
+			"objectId": "216795",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5740,7 +5672,7 @@
 			"objectName": "Общество с ограниченной ответственностью  Р-Вижн",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep30i",
-			"objectId": "215561",
+			"objectId": "219845",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5758,7 +5690,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕДСКАН\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6726/",
-			"objectId": "213963",
+			"objectId": "218330",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5774,7 +5706,7 @@
 			"objectName": "Акционерное общество Медскан",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may08e",
-			"objectId": "213963",
+			"objectId": "218330",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5792,7 +5724,7 @@
 			"objectName": "Публичное акционерное общество «Россети Северо-Запад»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5938/",
-			"objectId": "215809",
+			"objectId": "219941",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5808,7 +5740,7 @@
 			"objectName": "Публичное акционерное общество Россети Северо-Запад",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov25e",
-			"objectId": "215809",
+			"objectId": "219941",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5826,7 +5758,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ПАТРИОТ ГРУПП»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Patriot-Group-RA-261125/",
-			"objectId": "215573",
+			"objectId": "216702",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5844,25 +5776,25 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ «АНТЕРРА»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-anterra/42964/",
-			"objectId": "214503",
+			"objectId": "218663",
 			"isin": "",
 			"subjectName": ""
 		}
 	},
 	"5036065113": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "11.06.2025",
+			"releaseDate": "04.06.2026",
 			"inn": "5036065113",
-			"objectType": "BNFC - нефинансовая компания",
+			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "AAA(RU)",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\"",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5811/",
-			"objectId": "215806",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6959/",
+			"objectId": "216779",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -5878,7 +5810,7 @@
 			"objectName": "Публичное акционерное общество «Россети Московский регион»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/pao-rosseti-moskovskij-region/43638/",
-			"objectId": "215806",
+			"objectId": "216779",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5896,7 +5828,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТЮМЕНСКАЯ АГРОПРОМЫШЛЕННАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6474/",
-			"objectId": "214027",
+			"objectId": "217275",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5914,7 +5846,7 @@
 			"objectName": "Общество с ограниченной ответственностью Транспортная лизинговая компания",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may29b",
-			"objectId": "212809",
+			"objectId": "217274",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5932,7 +5864,7 @@
 			"objectName": "Общество с ограниченной ответственностью Мосрегионлифт",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct20d",
-			"objectId": "215823",
+			"objectId": "216677",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5950,7 +5882,7 @@
 			"objectName": "Общество с ограниченной ответственностью Миррико",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/mar23",
-			"objectId": "215815",
+			"objectId": "219956",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5968,7 +5900,7 @@
 			"objectName": "Общество с ограниченной ответственностью Арлифт Интернешнл",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec25e",
-			"objectId": "215496",
+			"objectId": "219799",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5986,7 +5918,7 @@
 			"objectName": "Акционерное общество Сергиево-Посадский мясокомбинат",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul31",
-			"objectId": "214185",
+			"objectId": "218475",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6004,7 +5936,7 @@
 			"objectName": "Акционерное общество «МаксимаТелеком»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Maximatelecom-RA-171225/",
-			"objectId": "213847",
+			"objectId": "218236",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6022,7 +5954,7 @@
 			"objectName": "Общество с ограниченной ответственностью Микрофинансовая компания Джой Мани",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun24i",
-			"objectId": "212762",
+			"objectId": "217185",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6040,7 +5972,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИМПЛ СОЛЮШНЗ КЭПИТЛ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6000/",
-			"objectId": "214004",
+			"objectId": "218360",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6056,7 +5988,7 @@
 			"objectName": "Акционерное общество СИМПЛ СОЛЮШНЗ КЭПИТЛ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep30c",
-			"objectId": "214004",
+			"objectId": "218360",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6074,7 +6006,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СИБНЕФТЕХИМТРЕЙД\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-sibneftehimtrejd/42703/",
-			"objectId": "214443",
+			"objectId": "216887",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6092,7 +6024,7 @@
 			"objectName": "Публичное акционерное общество «Трубная Металлургическая Компания»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/TMK-RA-161225/",
-			"objectId": "215843",
+			"objectId": "217119",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6108,7 +6040,7 @@
 			"objectName": "Публичное акционерное общество Трубная Металлургическая Компания",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr02d",
-			"objectId": "215843",
+			"objectId": "217119",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6126,7 +6058,7 @@
 			"objectName": "Общество с ограниченной ответственностью Энерготехсервис",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/jan29a",
-			"objectId": "215679",
+			"objectId": "216838",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6144,7 +6076,23 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАРШЕРИНГ РУССИЯ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6842/",
-			"objectId": "215789",
+			"objectId": "219916",
+			"isin": "",
+			"subjectName": ""
+		},
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "03.06.2026",
+			"inn": "9718236471",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "BBB+.ru",
+			"prediction": "STA – стабильный",
+			"objectName": "Публичное акционерное общество «Каршеринг Руссия»",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Delimobil-RA-030626/",
+			"objectId": "219916",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6162,7 +6110,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РУССОЙЛ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6495/",
-			"objectId": "214430",
+			"objectId": "218835",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6180,7 +6128,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СОФТЛАЙН\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6705/",
-			"objectId": "215878",
+			"objectId": "220072",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6196,7 +6144,7 @@
 			"objectName": "Публичное акционерное общество Софтлайн (прежнее наименование Акционерное общество \"СОФТЛАЙН\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may28",
-			"objectId": "215878",
+			"objectId": "220072",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6214,7 +6162,7 @@
 			"objectName": "Общество с ограниченной ответственностью «КЛС-Трейд»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/KLS-Trade-RA-230725/",
-			"objectId": "215499",
+			"objectId": "219800",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6232,7 +6180,7 @@
 			"objectName": "Общество с ограниченной ответственностью Проект 111",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr30c",
-			"objectId": "215689",
+			"objectId": "220009",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6250,7 +6198,7 @@
 			"objectName": "Общество с ограниченной ответственностью Профессиональная Коллекторская Организация \"Защита онлайн\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/zashchita-onlajn/42674/",
-			"objectId": "215695",
+			"objectId": "220014",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6268,7 +6216,7 @@
 			"objectName": "Общество с Ограниченной Ответственностью \"Альфа-Лизинг\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6369/",
-			"objectId": "215538",
+			"objectId": "216714",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6286,7 +6234,7 @@
 			"objectName": "Акционерное общество «ГЛОРАКС»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5992/",
-			"objectId": "214085",
+			"objectId": "218420",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6302,7 +6250,7 @@
 			"objectName": "Публичное акционерное общество «ГЛОРАКС» (АО «ГЛОРАКС»)",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Glorax-RA-100426/",
-			"objectId": "214085",
+			"objectId": "218420",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6320,7 +6268,7 @@
 			"objectName": "Общество с ограниченной ответственностью ООО АСГ ТРАНСФОРМАТОРЕН",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec10m",
-			"objectId": "215854",
+			"objectId": "219987",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6338,7 +6286,7 @@
 			"objectName": "Общество с ограниченной ответственностью СмартФакт",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep24b",
-			"objectId": "215750",
+			"objectId": "220046",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6356,7 +6304,7 @@
 			"objectName": "Публичное Акционерное Общество  «ТрансФин-М»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Transfin-M-RA-201125/",
-			"objectId": "215688",
+			"objectId": "219999",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6372,7 +6320,7 @@
 			"objectName": "Публичное акционерное общество \"ТрансФин-М\"",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/transfin_m/42600/",
-			"objectId": "215688",
+			"objectId": "219999",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6390,7 +6338,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"БАНК ПСБ\" (Публичное акционерное общество «Промсвязьбанк»)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6108/",
-			"objectId": "215772",
+			"objectId": "219908",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6406,7 +6354,7 @@
 			"objectName": "Публичное акционерное общество БАНК ПСБ (прежнее наименование Публичное акционерное общество \"ПРОМСВЯЗЬБАНК\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec03d",
-			"objectId": "215772",
+			"objectId": "219908",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6424,7 +6372,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ БАНК ПОДДЕРЖКИ МАЛОГО И СРЕДНЕГО ПРЕДПРИНИМАТЕЛЬСТВА\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6851/",
-			"objectId": "212966",
+			"objectId": "217511",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6440,7 +6388,7 @@
 			"objectName": "Акционерное общество «Российский Банк поддержки малого и среднего предпринимательства»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-msp-bank/43840/",
-			"objectId": "212966",
+			"objectId": "217511",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6458,7 +6406,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЦЕНТР КОМПЬЮТЕРНЫХ ТЕХНОЛОГИЙ \"ВЕКУС\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6125/",
-			"objectId": "214488",
+			"objectId": "218603",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6476,7 +6424,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВАТЭК\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6131/",
-			"objectId": "215811",
+			"objectId": "219937",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6492,7 +6440,7 @@
 			"objectName": "Публичное акционерное общество НОВАТЭК",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct15a",
-			"objectId": "215811",
+			"objectId": "219937",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6510,7 +6458,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Сибирское стекло»",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6290/",
-			"objectId": "215613",
+			"objectId": "216898",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6528,7 +6476,7 @@
 			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГРУППА КОМПАНИЙ \"ПИОНЕР\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6930/",
-			"objectId": "213855",
+			"objectId": "218240",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6544,7 +6492,7 @@
 			"objectName": "Акционерное общество «Группа компаний «ПИОНЕР»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Pioneer-RA-131025/",
-			"objectId": "213855",
+			"objectId": "218240",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6560,7 +6508,7 @@
 			"objectName": "Акционерное общество Группа компаний Пионер",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug15e",
-			"objectId": "213855",
+			"objectId": "218240",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6578,7 +6526,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Сергиевское»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Sergievskoe-RA-110326/",
-			"objectId": "215612",
+			"objectId": "219873",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6596,7 +6544,7 @@
 			"objectName": "Публичное акционерное общество «ТрансКонтейнер»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/TrCont-RA-230426/",
-			"objectId": "213673",
+			"objectId": "217352",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6612,7 +6560,7 @@
 			"objectName": "Публичное акционерное общество ТрансКонтейнер (прежнее наименование Публичное акционерное общество \"ЦЕНТР ПО ПЕРЕВОЗКЕ ГРУЗОВ В КОНТЕЙНЕРАХ \"ТРАНСКОНТЕЙНЕР\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/mar20h",
-			"objectId": "213673",
+			"objectId": "217352",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6630,7 +6578,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИНВЕСТ КЦ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6074/",
-			"objectId": "214298",
+			"objectId": "218771",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6646,7 +6594,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Инвест КЦ»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Invest-kts-RA-270825/",
-			"objectId": "214298",
+			"objectId": "218771",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6664,7 +6612,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АПТЕЧНАЯ СЕТЬ 36,6\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6857/",
-			"objectId": "215761",
+			"objectId": "220039",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6680,7 +6628,7 @@
 			"objectName": "Публичное акционерное общество «Аптечная сеть 36,6»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/pao-aptechnaja-set-36-6/42061/",
-			"objectId": "215761",
+			"objectId": "220039",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6698,7 +6646,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Бианка Премиум»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Bianca-RA-100725/",
-			"objectId": "215656",
+			"objectId": "219898",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6716,7 +6664,7 @@
 			"objectName": "Общество с ограниченной ответственностью «Группа «Продовольствие»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/prodgrup-RA-230725/",
-			"objectId": "215471",
+			"objectId": "217223",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6734,7 +6682,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО  ХЭНДЕРСОН ФЭШН ГРУПП",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may15d",
-			"objectId": "215751",
+			"objectId": "220047",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6750,7 +6698,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО ХЭНДЕРСОН ФЭШН ГРУПП",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6725/",
-			"objectId": "215751",
+			"objectId": "220047",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6768,7 +6716,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕД СОФТ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6788/",
-			"objectId": "215606",
+			"objectId": "219859",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6786,7 +6734,25 @@
 			"objectName": "Общество с ограниченной ответственностью «БиоВитрум»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Biovitrum-RA-101225/",
-			"objectId": "215669",
+			"objectId": "219897",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"6321418601": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "07.04.2026",
+			"inn": "6321418601",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "BBB-(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИННОВАЦИОННЫЕ СИСТЕМЫ ПОЖАРОБЕЗОПАСНОСТИ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6749/",
+			"objectId": "220189",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6804,7 +6770,7 @@
 			"objectName": "Общество с ограниченной ответственностью «ПРОМОМЕД ДМ»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/promomed_dm/43359/",
-			"objectId": "215665",
+			"objectId": "219992",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6820,25 +6786,7 @@
 			"objectName": "Общество с ограниченной ответственностью ПРОМОМЕД ДМ",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jun23b",
-			"objectId": "215665",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7826108963": {
-		"NKR": {
-			"ratingAction": "DG - понижение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "24.12.2025",
-			"inn": "7826108963",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "B+.ru",
-			"prediction": "NEG - негативный",
-			"objectName": "Общество с ограниченной ответственностью «Омега»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Omega-RA-241225/",
-			"objectId": "215558",
+			"objectId": "219992",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6856,7 +6804,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СТАНКОМАШСТРОЙ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6049/",
-			"objectId": "214451",
+			"objectId": "216692",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6874,7 +6822,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АГРО-ФРЕГАТ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6083/",
-			"objectId": "214436",
+			"objectId": "218697",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6892,7 +6840,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ ЛЕНЭНЕРГО\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6792/",
-			"objectId": "215694",
+			"objectId": "220002",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6908,7 +6856,7 @@
 			"objectName": "Публичное акционерное общество Россети Ленэнерго",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep24a",
-			"objectId": "215694",
+			"objectId": "220002",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6926,7 +6874,7 @@
 			"objectName": "Акционерное общество «Башкирская содовая компания»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ao-bsk/43650/",
-			"objectId": "214075",
+			"objectId": "218428",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -6942,7 +6890,7 @@
 			"objectName": "Акционерное общество Башкирская содовая компания",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep22e",
-			"objectId": "214075",
+			"objectId": "218428",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6960,7 +6908,7 @@
 			"objectName": "Общество с ограниченной ответственностью Кеарли Групп",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr17c",
-			"objectId": "215743",
+			"objectId": "220050",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6978,7 +6926,7 @@
 			"objectName": "Общество с ограниченной ответственностью Парк Сказка",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov17a",
-			"objectId": "215668",
+			"objectId": "220000",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6996,7 +6944,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЦЕНТР-РЕЗЕРВ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6634/",
-			"objectId": "214490",
+			"objectId": "216723",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7014,7 +6962,7 @@
 			"objectName": "Общество с ограниченной ответственностью Реиннольц",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct02a",
-			"objectId": "215601",
+			"objectId": "219872",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7032,7 +6980,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПИК-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК\" (ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО «ГРУППА КОМПАНИЙ ПИК»)",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5850/",
-			"objectId": "213827",
+			"objectId": "217122",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -7048,7 +6996,7 @@
 			"objectName": "Публичное акционерное общество «ПИК-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/PIKSZ-RA-021025/",
-			"objectId": "213827",
+			"objectId": "217122",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7066,7 +7014,7 @@
 			"objectName": "Акционерное общество «АВТОАССИСТАНС»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/Autoassistance-RA-031225/",
-			"objectId": "214046",
+			"objectId": "218388",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7084,7 +7032,7 @@
 			"objectName": "Акционерное Общество Нэппи Клаб (прежнее наименование Общество с ограниченной ответственностью \"НЭППИ КЛАБ\")",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/apr30g",
-			"objectId": "213929",
+			"objectId": "218295",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7102,7 +7050,7 @@
 			"objectName": "Общество с ограниченной ответственностью Мани Капитал Лизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/oct02c",
-			"objectId": "215798",
+			"objectId": "219932",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7120,7 +7068,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЦЕНТР-К\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6159/",
-			"objectId": "214487",
+			"objectId": "218599",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7138,7 +7086,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИННОВАЦИОННАЯ СЕРВИСНАЯ КОМПАНИЯ \"ПЕТРОИНЖИНИРИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6795/",
-			"objectId": "213161",
+			"objectId": "217454",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -7154,7 +7102,7 @@
 			"objectName": "Общество с ограниченной ответственностью Инновационная Сервисная Компания ПетроИнжиниринг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2026/may20d",
-			"objectId": "213161",
+			"objectId": "217454",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7172,7 +7120,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МИКРОФИНАНСОВАЯ КОМПАНИЯ \"Т-ФИНАНС\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6781/",
-			"objectId": "214354",
+			"objectId": "218798",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7190,7 +7138,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АБРАУ - ДЮРСО\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6016/",
-			"objectId": "215757",
+			"objectId": "219971",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -7206,7 +7154,7 @@
 			"objectName": "Публичное акционерное общество Абрау-Дюрсо",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/aug04a",
-			"objectId": "215757",
+			"objectId": "219971",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7224,7 +7172,7 @@
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПСБ ЛИЗИНГ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6414/",
-			"objectId": "214412",
+			"objectId": "218816",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -7240,7 +7188,7 @@
 			"objectName": "Общество с ограниченной ответственностью ПСБ Лизинг",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep05",
-			"objectId": "214412",
+			"objectId": "218816",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7258,7 +7206,7 @@
 			"objectName": "Публичное Акционерное Общество \"Россети Волга\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6364/",
-			"objectId": "215690",
+			"objectId": "219948",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -7274,7 +7222,7 @@
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО «РОССЕТИ ВОЛГА»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/pao-rosseti-volga/42405/",
-			"objectId": "215690",
+			"objectId": "219948",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7292,7 +7240,7 @@
 			"objectName": "Общество с ограниченной ответственностью «АВТОМОЁ ОПТ»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/a-moe-RA-061025/",
-			"objectId": "215629",
+			"objectId": "219881",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7310,7 +7258,7 @@
 			"objectName": "Акционерное общество \"Банк ДОМ.РФ\"",
 			"kraName": "АКРА (АО)",
 			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6124/",
-			"objectId": "213638",
+			"objectId": "217423",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -7326,7 +7274,7 @@
 			"objectName": "Акционерное общество «Банк ДОМ.РФ»",
 			"kraName": "ООО \"НКР\"",
 			"releaseUrl": "https://ratings.ru/ratings/press-releases/BankDomRF-RA-140725/",
-			"objectId": "213638",
+			"objectId": "217423",
 			"isin": "",
 			"subjectName": ""
 		},
@@ -7342,7 +7290,7 @@
 			"objectName": "Акционерное общество Банк ДОМ.РФ (прежнее наименование АКЦИОНЕРНЫЙ КОММЕРЧЕСКИЙ БАНК \"РОССИЙСКИЙ КАПИТАЛ\" (АКЦИОНЕРНОЕ ОБЩЕСТВО))",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/sep01e",
-			"objectId": "213638",
+			"objectId": "217423",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7360,7 +7308,7 @@
 			"objectName": "Общество с ограниченной ответственностью профессиональная коллекторская организация «Вернём»",
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/vernem/42943/",
-			"objectId": "215685",
+			"objectId": "220008",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -7378,7 +7326,7 @@
 			"objectName": "Общество с ограниченной ответственностью Профессиональная коллекторская организация Интел коллект",
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul03d",
-			"objectId": "215699",
+			"objectId": "220016",
 			"isin": "",
 			"subjectName": ""
 		}
