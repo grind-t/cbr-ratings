@@ -139,17 +139,17 @@
 	},
 	"RU000A10AHJ4": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.06.2025",
+			"releaseDate": "11.06.2026",
 			"inn": "9718077239",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Группа Позитив серии 001Р-02",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun23f",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun11d",
 			"objectId": "218898",
 			"isin": "RU000A10AHJ4",
 			"subjectName": "Публичное акционерное общество Группа Позитив"
@@ -1457,17 +1457,17 @@
 	},
 	"RU000A108AL4": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "11.06.2026",
 			"inn": "7802131219",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Интерлизинг серии 001Р-08",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24k",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun11b",
 			"objectId": "219104",
 			"isin": "RU000A108AL4",
 			"subjectName": "Общество с ограниченной ответственностью Интерлизинг"
@@ -1629,6 +1629,24 @@
 			"objectId": "218496",
 			"isin": "RU000A10DWQ2",
 			"subjectName": "Томская область"
+		}
+	},
+	"RU000A10FD46": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "10.06.2026",
+			"inn": "9705000373",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "BBB+(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"РЕД СОФТ\", Старший необеспеченный долг серии: 002Р-06, ISIN: RU000A10FD46, рег.номер: 4B020600372R002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6976/",
+			"objectId": "220715",
+			"isin": "RU000A10FD46",
+			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕД СОФТ\""
 		}
 	},
 	"RU000A10DBA0": {
@@ -2906,14 +2924,14 @@
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "06.02.2026",
+			"releaseDate": "10.06.2026",
 			"inn": "7725806898",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации ПГК серии 003P-03",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/feb06b",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun10b",
 			"objectId": "219193",
 			"isin": "RU000A10DSM9",
 			"subjectName": "Акционерное общество Первая Грузовая Компания"
@@ -6575,17 +6593,17 @@
 	},
 	"RU000A109098": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.06.2025",
+			"releaseDate": "11.06.2026",
 			"inn": "9718077239",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Группа Позитив серии 001Р-01",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun23f",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun11d",
 			"objectId": "218894",
 			"isin": "RU000A109098",
 			"subjectName": "Публичное акционерное общество Группа Позитив"
@@ -6593,17 +6611,17 @@
 	},
 	"RU000A10CWF7": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.09.2025",
+			"releaseDate": "10.06.2026",
 			"inn": "7725806898",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации ПГК серии 003P-01",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep30a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun10b",
 			"objectId": "219182",
 			"isin": "RU000A10CWF7",
 			"subjectName": "Акционерное общество Первая Грузовая Компания"
@@ -6799,17 +6817,17 @@
 	},
 	"RU000A106SF2": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "11.06.2026",
 			"inn": "7802131219",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Интерлизинг серии 001Р-06",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24k",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun11b",
 			"objectId": "219099",
 			"isin": "RU000A106SF2",
 			"subjectName": "Общество с ограниченной ответственностью Интерлизинг"
@@ -8248,14 +8266,14 @@
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "06.02.2026",
+			"releaseDate": "10.06.2026",
 			"inn": "7725806898",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации ПГК серии 003P-02",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/feb06b",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun10b",
 			"objectId": "219195",
 			"isin": "RU000A10DSL1",
 			"subjectName": "Акционерное общество Первая Грузовая Компания"
@@ -9221,6 +9239,40 @@
 			"subjectName": "Публичное акционерное общество Аэрофлот — российские авиалинии"
 		}
 	},
+	"RU000A10FC96": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "08.06.2026",
+			"inn": "9731098069",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Борец Капитал 001Р-07",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Borets-bonds-RA-080626/",
+			"objectId": "220713",
+			"isin": "RU000A10FC96",
+			"subjectName": "Общество с ограниченной ответственностью \"Борец Капитал”"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "08.06.2026",
+			"inn": "9731098069",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "A-(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"БОРЕЦ КАПИТАЛ\", Старший необеспеченный долг серии: 001P-07, ISIN: RU000A10FC96, рег.номер: 4B020700676R001P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6967/",
+			"objectId": "220713",
+			"isin": "RU000A10FC96",
+			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БОРЕЦ КАПИТАЛ\""
+		}
+	},
 	"RU000A104W17": {
 		"AKRA": {
 			"ratingAction": "DG - понижение кредитного рейтинга",
@@ -9583,24 +9635,6 @@
 			"objectId": "217800",
 			"isin": "RU000A105VQ5",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНАЯ СЕТЕВАЯ КОМПАНИЯ - РОССЕТИ\""
-		}
-	},
-	"RU000A103661": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "19.05.2026",
-			"inn": "7707083893",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ПАО СБЕРБАНК, Старший необеспеченный долг серии: 001Р-SBER27, ISIN: RU000A103661, рег.номер: 4B02-459-01481-B-001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6884/",
-			"objectId": "218216",
-			"isin": "RU000A103661",
-			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"СБЕРБАНК РОССИИ\""
 		}
 	},
 	"RU000A10D3C0": {
@@ -9991,17 +10025,17 @@
 	},
 	"RU000A10EYV6": {
 		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "28.04.2026",
+			"releaseDate": "10.06.2026",
 			"inn": "7725806898",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации ПГК серии 003P-04",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr28h",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun10b",
 			"objectId": "220287",
 			"isin": "RU000A10EYV6",
 			"subjectName": "Акционерное общество Первая Грузовая Компания"
@@ -12733,56 +12767,6 @@
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
 		}
 	},
-	"RU000A10ELF6": {
-		"NKR": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "7740000076",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AAA.ru",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Мобильные ТелеСистемы 002P-17",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/MTS-bonds-RA-180326/",
-			"objectId": "220158",
-			"isin": "RU000A10ELF6",
-			"subjectName": "Публичное акционерное общество «Мобильные ТелеСистемы»"
-		},
-		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "7740000076",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruAAA",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации МТС серии 002P-17",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/mar18a",
-			"objectId": "220158",
-			"isin": "RU000A10ELF6",
-			"subjectName": "Публичное акционерное общество Мобильные ТелеСистемы"
-		},
-		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "18.03.2026",
-			"inn": "7740000076",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AAA(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"МТС\", Старший необеспеченный долг серии: 002P-17, ISIN: RU000A10ELF6, рег.номер: 4B021704715A002P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6676/",
-			"objectId": "220158",
-			"isin": "RU000A10ELF6",
-			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\""
-		}
-	},
 	"RU000A10EPV4": {
 		"EXPERT_RA": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
@@ -13633,24 +13617,6 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\""
 		}
 	},
-	"RU000A108NS2": {
-		"AKRA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "17.03.2026",
-			"inn": "7720261827",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "AA-(RU)",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ГТЛК\", Старший необеспеченный долг серии: 002Р-05, ISIN: RU000A108NS2, рег.номер: 4B020532432H002P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6673/",
-			"objectId": "219441",
-			"isin": "RU000A108NS2",
-			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННАЯ ТРАНСПОРТНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\""
-		}
-	},
 	"RU000A10EN29": {
 		"NRA": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
@@ -13683,40 +13649,6 @@
 			"objectId": "220151",
 			"isin": "RU000A10EN29",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАМАЗ\""
-		}
-	},
-	"RU000A103943": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "31.10.2025",
-			"inn": "7712040126",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации Аэрофлот серии П01-БО-01",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/oct31h",
-			"objectId": "219043",
-			"isin": "RU000A103943",
-			"subjectName": "Публичное акционерное общество Аэрофлот — российские авиалинии"
-		},
-		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "23.06.2025",
-			"inn": "7712040126",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО \"Аэрофлот\" , Старший необеспеченный долг серии: П01-БО-01, ISIN: RU000A103943, гос.рег.номер: 4B020100010A001P",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5845/",
-			"objectId": "219043",
-			"isin": "RU000A103943",
-			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЭРОФЛОТ-РОССИЙСКИЕ АВИАЛИНИИ\""
 		}
 	},
 	"RU000A10A398": {
@@ -16763,17 +16695,17 @@
 	},
 	"RU000A1077X0": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "11.06.2026",
 			"inn": "7802131219",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Интерлизинг серии 001Р-07",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24k",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun11b",
 			"objectId": "219100",
 			"isin": "RU000A1077X0",
 			"subjectName": "Общество с ограниченной ответственностью Интерлизинг"
@@ -18053,17 +17985,17 @@
 	},
 	"RU000A10EYW4": {
 		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "28.04.2026",
+			"releaseDate": "10.06.2026",
 			"inn": "7725806898",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruAA",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации ПГК серии 003P-05",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr28h",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun10b",
 			"objectId": "220289",
 			"isin": "RU000A10EYW4",
 			"subjectName": "Акционерное общество Первая Грузовая Компания"
@@ -18819,17 +18751,17 @@
 	},
 	"RU000A109DV5": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "11.06.2026",
 			"inn": "7802131219",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruA",
-			"prediction": "NA - не предусмотрен методологией",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации Интерлизинг серии 001P-09",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24k",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun11b",
 			"objectId": "219084",
 			"isin": "RU000A109DV5",
 			"subjectName": "Общество с ограниченной ответственностью Интерлизинг"
