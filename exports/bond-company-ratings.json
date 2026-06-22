@@ -533,24 +533,6 @@
 			"subjectName": ""
 		}
 	},
-	"2462224915": {
-		"NKR": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "20.06.2025",
-			"inn": "2462224915",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BB.ru",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью «Арктик Технолоджи Сервис»",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Arctic-Tech-RA-200625/",
-			"objectId": "219891",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
 	"2466127447": {
 		"AKRA": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
@@ -571,17 +553,17 @@
 	},
 	"2536247123": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.06.2025",
+			"releaseDate": "16.06.2026",
 			"inn": "2536247123",
-			"objectType": "FLSG - лизинговая компания (фирма)",
+			"objectType": "FLSG – лизинговая компания",
 			"ratingValue": "AA-(RU)",
-			"prediction": "STA - стабильный",
+			"prediction": "DEV – развивающийся",
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ДЕЛЬТАЛИЗИНГ\"",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5834/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6990/",
 			"objectId": "218772",
 			"isin": "",
 			"subjectName": ""
@@ -711,17 +693,17 @@
 	},
 	"3446010280": {
 		"NKR": {
-			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
+			"ratingAction": "OT – изменение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "05.06.2026",
+			"releaseDate": "19.06.2026",
 			"inn": "3446010280",
 			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "CC.ru",
-			"prediction": "OP – иной(«рейтинг на пересмотре с возможностью понижения»)",
+			"prediction": "OP – иной(«рейтинг на пересмотре — неопределённый прогноз»)",
 			"objectName": "Общество с ограниченной ответственностью «Волгоградский Завод Весоизмерительной Техники»",
 			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/VZVT-RA-050626/",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/VZVT-RA-190626/",
 			"objectId": "219769",
 			"isin": "",
 			"subjectName": ""
@@ -1073,6 +1055,24 @@
 			"subjectName": ""
 		}
 	},
+	"7707837251": {
+		"EXPERT_RA": {
+			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "24.09.2025",
+			"inn": "7707837251",
+			"objectType": "FFCT - юридическое лицо, специализирующееся на предоставлении финансирования под уступку денежного требования (факторинговая компания)",
+			"ratingValue": "ruBBB-",
+			"prediction": "STA - стабильный",
+			"objectName": "Общество с ограниченной ответственностью СмартФакт",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/sep24b",
+			"objectId": "220046",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
 	"7730233723": {
 		"EXPERT_RA": {
 			"ratingAction": "UP - повышение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
@@ -1109,17 +1109,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "16.06.2026",
 			"inn": "7726588547",
-			"objectType": "BNFC - нефинансовая компания",
+			"objectType": "FOFO – прочие финансовые организации, в том числе специализированные общества",
 			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "Общество с ограниченной ответственностью Газпром капитал",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun16b",
 			"objectId": "216820",
 			"isin": "",
 			"subjectName": ""
@@ -1431,17 +1431,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "0963",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "19.06.2026",
 			"inn": "4401116480",
-			"objectType": "CBNK - кредитная организация",
+			"objectType": "CBNK – кредитная организация",
 			"ratingValue": "ruAA",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "Публичное акционерное общество Совкомбанк",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24g",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun19h",
 			"objectId": "219960",
 			"isin": "",
 			"subjectName": ""
@@ -1549,24 +1549,6 @@
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/jul01b",
 			"objectId": "216778",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7720779760": {
-		"NRA": {
-			"ratingAction": "DG – понижение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "20.05.2026",
-			"inn": "7720779760",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "BB+|ru|",
-			"prediction": "STA – стабильный",
-			"objectName": "Публичное акционерное общество «КИФА»",
-			"kraName": "ООО \"НРА\"",
-			"releaseUrl": "https://www.ra-national.ru/press_release/ao-kifa/44138/",
-			"objectId": "218438",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -1799,17 +1781,17 @@
 	},
 	"5017135982": {
 		"EXPERT_RA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"ratingAction": "DG – понижение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу, EWR – продление статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2026",
+			"releaseDate": "17.06.2026",
 			"inn": "5017135982",
 			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "ruBB-",
-			"prediction": "NEG – негативный",
+			"ratingValue": "ruC",
+			"prediction": "DEV – развивающийся",
 			"objectName": "Акционерное общество Эффективные технологии",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/may20h",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun17a",
 			"objectId": "218510",
 			"isin": "",
 			"subjectName": ""
@@ -1919,17 +1901,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.06.2025",
+			"releaseDate": "16.06.2026",
 			"inn": "5504036333",
-			"objectType": "BNFC - нефинансовая компания",
+			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "Публичное акционерное общество Газпром нефть",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun23e",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun16c",
 			"objectId": "219996",
 			"isin": "",
 			"subjectName": ""
@@ -2605,33 +2587,33 @@
 	},
 	"7812014560": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "30.06.2025",
+			"releaseDate": "19.06.2026",
 			"inn": "7812014560",
-			"objectType": "BNFC - нефинансовая компания",
+			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "AAA(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "Публичное акционерное общество \"Мегафон\"",
+			"prediction": "STA – стабильный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МЕГАФОН\"",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5871/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7014/",
 			"objectId": "220036",
 			"isin": "",
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.06.2025",
+			"releaseDate": "15.06.2026",
 			"inn": "7812014560",
-			"objectType": "BNFC - нефинансовая компания",
+			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "Публичное акционерное общество МегаФон",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun23k",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun15f",
 			"objectId": "220036",
 			"isin": "",
 			"subjectName": ""
@@ -2949,17 +2931,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"ratingAction": "EWR – продление статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "18.03.2026",
+			"releaseDate": "17.06.2026",
 			"inn": "7424024375",
 			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "ruAA",
 			"prediction": "DEV – развивающийся",
 			"objectName": "Публичное акционерное общество Южуралзолото Группа Компаний (прежнее наименование Акционерное общество \"ЮЖУРАЛЗОЛОТО ГРУППА КОМПАНИЙ\")",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/mar18i",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun17c",
 			"objectId": "218517",
 			"isin": "",
 			"subjectName": ""
@@ -3123,17 +3105,17 @@
 	},
 	"9909152102": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "Международные организации и институты",
 			"koNumber": "",
-			"releaseDate": "25.12.2025",
+			"releaseDate": "15.06.2026",
 			"inn": "9909152102",
-			"objectType": "IFO - международная финансовая организация",
+			"objectType": "IFO – международная финансовая организация",
 			"ratingValue": "A-",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "Международный банк экономического сотрудничества",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6459/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6986/",
 			"objectId": "218774",
 			"isin": "",
 			"subjectName": ""
@@ -3395,6 +3377,40 @@
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/nov14c",
 			"objectId": "217442",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
+	"5074092485": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "04.03.2026",
+			"inn": "5074092485",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "A-(RU)",
+			"prediction": "STA – стабильный",
+			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИЭК ХОЛДИНГ\"",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6642/",
+			"objectId": "218285",
+			"isin": "",
+			"subjectName": ""
+		},
+		"EXPERT_RA": {
+			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "27.11.2025",
+			"inn": "5074092485",
+			"objectType": "BNFC - нефинансовая компания",
+			"ratingValue": "ruA-",
+			"prediction": "STA - стабильный",
+			"objectName": "Акционерное общество ИЭК ХОЛДИНГ (прежнее наименование Общество с ограниченной ответственностью \"ИЭК ХОЛДИНГ\")",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2025/nov27g",
+			"objectId": "218285",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -4441,17 +4457,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "18.06.2026",
 			"inn": "7729355614",
-			"objectType": "FOFO - прочие финансовые организации, в том числе специализированные общества",
+			"objectType": "FOFO – прочие финансовые организации, в том числе специализированные общества",
 			"ratingValue": "ruAAA",
-			"prediction": "STA - стабильный",
-			"objectName": "Акционерное общество ДОМ.РФ",
+			"prediction": "STA – стабильный",
+			"objectName": "Публичное акционерное общество ДОМ.РФ (прежнее наименование Акционерное общество \"ДОМ.РФ\")",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24j",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun18",
 			"objectId": "218242",
 			"isin": "",
 			"subjectName": ""
@@ -5169,17 +5185,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"ratingAction": "EWR – продление статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.03.2026",
+			"releaseDate": "18.06.2026",
 			"inn": "7706420120",
 			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "ruAA-",
 			"prediction": "STA – стабильный",
 			"objectName": "Общество с ограниченной ответственностью ДелоПортс",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/mar20e",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun18h",
 			"objectId": "219777",
 			"isin": "",
 			"subjectName": ""
@@ -5235,40 +5251,6 @@
 			"kraName": "ООО \"НРА\"",
 			"releaseUrl": "https://www.ra-national.ru/press_release/ooo-pir/42713/",
 			"objectId": "218799",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"5074092485": {
-		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "04.03.2026",
-			"inn": "5074092485",
-			"objectType": "BNFC – нефинансовая компания",
-			"ratingValue": "A-(RU)",
-			"prediction": "STA – стабильный",
-			"objectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИЭК ХОЛДИНГ\"",
-			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6642/",
-			"objectId": "218285",
-			"isin": "",
-			"subjectName": ""
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "27.11.2025",
-			"inn": "5074092485",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruA-",
-			"prediction": "STA - стабильный",
-			"objectName": "Акционерное общество ИЭК ХОЛДИНГ (прежнее наименование Общество с ограниченной ответственностью \"ИЭК ХОЛДИНГ\")",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/nov27g",
-			"objectId": "218285",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -5959,6 +5941,24 @@
 			"subjectName": ""
 		}
 	},
+	"5077009710": {
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга, ORP – первичное присвоение прогноза по кредитному рейтингу, NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "14.04.2026",
+			"inn": "5077009710",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "ruA",
+			"prediction": "STA – стабильный",
+			"objectName": "Акционерное общество АЛИУМ",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr14e",
+			"objectId": "220106",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
 	"7703534295": {
 		"NKR": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
@@ -5979,17 +5979,17 @@
 	},
 	"5407496776": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.06.2025",
+			"releaseDate": "17.06.2026",
 			"inn": "5407496776",
-			"objectType": "FMFO - микрофинансовая организация",
-			"ratingValue": "ruBB-",
-			"prediction": "STA - стабильный",
+			"objectType": "FMFO – микрофинансовая организация",
+			"ratingValue": "ruBB",
+			"prediction": "STA – стабильный",
 			"objectName": "Общество с ограниченной ответственностью Микрофинансовая компания Джой Мани",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun24i",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun17f",
 			"objectId": "217185",
 			"isin": "",
 			"subjectName": ""
@@ -6187,17 +6187,17 @@
 	},
 	"7709971326": {
 		"NKR": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.07.2025",
+			"releaseDate": "19.06.2026",
 			"inn": "7709971326",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BB+.ru",
-			"prediction": "STA - стабильный",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "BBB-.ru",
+			"prediction": "STA – стабильный",
 			"objectName": "Общество с ограниченной ответственностью «КЛС-Трейд»",
 			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/KLS-Trade-RA-230725/",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/KLS-Trade-RA-190626/",
 			"objectId": "219800",
 			"isin": "",
 			"subjectName": ""
@@ -6259,17 +6259,17 @@
 	},
 	"9729387137": {
 		"AKRA": {
-			"ratingAction": "UP - повышение кредитного рейтинга, OT - изменение прогноза по кредитному рейтингу",
+			"ratingAction": "UP – повышение кредитного рейтинга, OT – изменение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "08.08.2025",
+			"releaseDate": "17.06.2026",
 			"inn": "9729387137",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BBB(RU)",
-			"prediction": "STA - стабильный",
-			"objectName": "Акционерное общество «ГЛОРАКС»",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "BBB+(RU)",
+			"prediction": "POS – позитивный",
+			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГЛОРАКС\" (Акционерное общество «ГЛОРАКС»)",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5992/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6999/",
 			"objectId": "218420",
 			"isin": "",
 			"subjectName": ""
@@ -6305,24 +6305,6 @@
 			"kraName": "АО \"Эксперт РА\"",
 			"releaseUrl": "https://raexpert.ru/releases/2025/dec10m",
 			"objectId": "219987",
-			"isin": "",
-			"subjectName": ""
-		}
-	},
-	"7707837251": {
-		"EXPERT_RA": {
-			"ratingAction": "UP - повышение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "24.09.2025",
-			"inn": "7707837251",
-			"objectType": "FFCT - юридическое лицо, специализирующееся на предоставлении финансирования под уступку денежного требования (факторинговая компания)",
-			"ratingValue": "ruBBB-",
-			"prediction": "STA - стабильный",
-			"objectName": "Общество с ограниченной ответственностью СмартФакт",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep24b",
-			"objectId": "220046",
 			"isin": "",
 			"subjectName": ""
 		}
@@ -6567,17 +6549,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "NWR – присвоение статуса кредитного рейтинга «под наблюдением»",
+			"ratingAction": "EWR – продление статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.03.2026",
+			"releaseDate": "18.06.2026",
 			"inn": "7708591995",
 			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "ruAA-",
 			"prediction": "STA – стабильный",
 			"objectName": "Публичное акционерное общество ТрансКонтейнер (прежнее наименование Публичное акционерное общество \"ЦЕНТР ПО ПЕРЕВОЗКЕ ГРУЗОВ В КОНТЕЙНЕРАХ \"ТРАНСКОНТЕЙНЕР\")",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/mar20h",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun18f",
 			"objectId": "217352",
 			"isin": "",
 			"subjectName": ""
@@ -6775,17 +6757,17 @@
 			"subjectName": ""
 		},
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга, AFP - подтверждение прогноза по кредитному рейтингу",
+			"ratingAction": "UP – повышение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "23.06.2025",
+			"releaseDate": "15.06.2026",
 			"inn": "7724365841",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "ruA-",
-			"prediction": "STA - стабильный",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "ruA",
+			"prediction": "STA – стабильный",
 			"objectName": "Общество с ограниченной ответственностью ПРОМОМЕД ДМ",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jun23b",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun15e",
 			"objectId": "219992",
 			"isin": "",
 			"subjectName": ""
@@ -6949,6 +6931,24 @@
 			"subjectName": ""
 		}
 	},
+	"7720779760": {
+		"NRA": {
+			"ratingAction": "DG – понижение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "20.05.2026",
+			"inn": "7720779760",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "BB+|ru|",
+			"prediction": "STA – стабильный",
+			"objectName": "Публичное акционерное общество «КИФА»",
+			"kraName": "ООО \"НРА\"",
+			"releaseUrl": "https://www.ra-national.ru/press_release/ao-kifa/44138/",
+			"objectId": "218438",
+			"isin": "",
+			"subjectName": ""
+		}
+	},
 	"5406697416": {
 		"EXPERT_RA": {
 			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
@@ -6969,17 +6969,17 @@
 	},
 	"7713011336": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "25.06.2025",
+			"releaseDate": "18.06.2026",
 			"inn": "7713011336",
-			"objectType": "BNFC - нефинансовая компания",
+			"objectType": "BNFC – нефинансовая компания",
 			"ratingValue": "AA-(RU)",
-			"prediction": "STA - стабильный",
+			"prediction": "STA – стабильный",
 			"objectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПИК-СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК\" (ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО «ГРУППА КОМПАНИЙ ПИК»)",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5850/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7005/",
 			"objectId": "217122",
 			"isin": "",
 			"subjectName": ""
@@ -7057,17 +7057,17 @@
 	},
 	"7714365497": {
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга, ORP - первичное присвоение и раскрытие прогноза по кредитному рейтингу",
+			"ratingAction": "DG – понижение кредитного рейтинга, AFP – подтверждение прогноза по кредитному рейтингу",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "08.10.2025",
+			"releaseDate": "19.06.2026",
 			"inn": "7714365497",
-			"objectType": "BNFC - нефинансовая компания",
-			"ratingValue": "BB+(RU)",
-			"prediction": "STA - стабильный",
+			"objectType": "BNFC – нефинансовая компания",
+			"ratingValue": "BB-(RU)",
+			"prediction": "STA – стабильный",
 			"objectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ЦЕНТР-К\"",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6159/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7016/",
 			"objectId": "218599",
 			"isin": "",
 			"subjectName": ""
