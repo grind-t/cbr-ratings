@@ -17,17 +17,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "15.12.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-20, ISIN: RU000A10DT08, гос.рег.номер: 4B022036400R003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-20, ISIN: RU000A10DT08, рег.номер: 4B022036400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6405/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "219160",
 			"isin": "RU000A10DT08",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -225,17 +225,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "24.02.2026",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-21, ISIN: RU000A10ECM1, рег.номер: 4B022136400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6610/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "220262",
 			"isin": "RU000A10ECM1",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -383,17 +383,17 @@
 	},
 	"RU000A102FT9": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-17",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219163",
 			"isin": "RU000A102FT9",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -541,17 +541,17 @@
 	},
 	"RU000A1098F3": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-31",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218889",
 			"isin": "RU000A1098F3",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -847,24 +847,6 @@
 			"subjectName": "Акционерное общество Атомный Энергопромышленный Комплекс"
 		}
 	},
-	"RU000A106FT0": {
-		"EXPERT_RA": {
-			"ratingAction": "AF – подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "05.03.2026",
-			"inn": "0274034308",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruAA+",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Республика Башкортостан серии 34013",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/mar05c",
-			"objectId": "219318",
-			"isin": "RU000A106FT0",
-			"subjectName": "Республика Башкортостан"
-		}
-	},
 	"RU000A10C3M0": {
 		"EXPERT_RA": {
 			"ratingAction": "AF - подтверждение кредитного рейтинга",
@@ -919,17 +901,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-12, ISIN: RU000A10BBW8, гос.рег.номер: 4B021236400R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-12, ISIN: RU000A10BBW8, рег.номер: 4B021236400R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218932",
 			"isin": "RU000A10BBW8",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -1177,22 +1159,6 @@
 			"objectId": "218498",
 			"isin": "RU000A10BW70",
 			"subjectName": "Томская область"
-		},
-		"EXPERT_RA": {
-			"ratingAction": "DG – понижение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "30.04.2026",
-			"inn": "7000000885",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruBBB",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Томская область серии 34074",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr30f",
-			"objectId": "218498",
-			"isin": "RU000A10BW70",
-			"subjectName": "Томская область"
 		}
 	},
 	"RU000A10DJY3": {
@@ -1231,17 +1197,17 @@
 	},
 	"RU000A10B024": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002P-01",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218891",
 			"isin": "RU000A10B024",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -1421,17 +1387,17 @@
 	},
 	"RU000A101012": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-12",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219145",
 			"isin": "RU000A101012",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -1471,20 +1437,20 @@
 			"subjectName": "Публичное акционерное общество Лизинговая компания Европлан"
 		},
 		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "9705101614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «ЛК «Европлан», Старший необеспеченный долг серии: 001P-08, ISIN: RU000A10A7C4, гос.рег.номер: 4B020816419A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЛК \"ЕВРОПЛАН\", Старший необеспеченный долг серии: 001P-08, ISIN: RU000A10A7C4, рег.номер: 4B020816419A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7035/",
 			"objectId": "218843",
 			"isin": "RU000A10A7C4",
-			"subjectName": "Публичное акционерное общество «Лизинговая компания «Европлан»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\""
 		}
 	},
 	"RU000A108AL4": {
@@ -1645,22 +1611,6 @@
 			"objectId": "218496",
 			"isin": "RU000A10DWQ2",
 			"subjectName": "Томская область"
-		},
-		"EXPERT_RA": {
-			"ratingAction": "DG – понижение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "30.04.2026",
-			"inn": "7000000885",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruBBB",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Томская область серии 34076",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr30f",
-			"objectId": "218496",
-			"isin": "RU000A10DWQ2",
-			"subjectName": "Томская область"
 		}
 	},
 	"RU000A10FD46": {
@@ -1701,17 +1651,17 @@
 	},
 	"RU000A0JXN21": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-06",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219102",
 			"isin": "RU000A0JXN21",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -1977,20 +1927,20 @@
 			"subjectName": "Публичное акционерное общество Лизинговая компания Европлан"
 		},
 		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "9705101614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «ЛК «Европлан», Старший необеспеченный долг серии: 001P-09, ISIN: RU000A10ASC6, гос.рег.номер: 4B020916419A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЛК \"ЕВРОПЛАН\", Старший необеспеченный долг серии: 001P-09, ISIN: RU000A10ASC6, рег.номер: 4B020916419A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7035/",
 			"objectId": "218850",
 			"isin": "RU000A10ASC6",
-			"subjectName": "Публичное акционерное общество «Лизинговая компания «Европлан»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\""
 		}
 	},
 	"RU000A10DD30": {
@@ -2153,17 +2103,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "13.02.2026",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-18, ISIN: RU000A10E9Y0, рег.номер: 4B021936400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6570/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "220255",
 			"isin": "RU000A10E9Y0",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -2207,17 +2157,17 @@
 	},
 	"RU000A10BY94": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002P-03",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218879",
 			"isin": "RU000A10BY94",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -2311,17 +2261,17 @@
 	},
 	"RU000A10BPZ1": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002P-02",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218878",
 			"isin": "RU000A10BPZ1",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -2431,17 +2381,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "08.04.2026",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-24, ISIN: RU000A10ES57, рег.номер: 4B022436400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6751/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "220259",
 			"isin": "RU000A10ES57",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -2535,17 +2485,17 @@
 	},
 	"RU000A108U72": {
 		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "06.04.2026",
+			"releaseDate": "30.06.2026",
 			"inn": "2723115222",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruA-",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации ПКО ПКБ серии 001Р-05",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr06d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30m",
 			"objectId": "220290",
 			"isin": "RU000A108U72",
 			"subjectName": "Непубличное акционерное общество Профессиональная коллекторская организация Первое клиентское бюро"
@@ -2639,17 +2589,17 @@
 	},
 	"RU000A103C95": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-21",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218855",
 			"isin": "RU000A103C95",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -3143,20 +3093,20 @@
 			"subjectName": "Публичное акционерное общество Лизинговая компания Европлан"
 		},
 		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "9705101614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «ЛК «Европлан», Старший необеспеченный долг серии: БО-03, ISIN: RU000A100W60, гос.рег.номер: 4B020356453P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЛК \"ЕВРОПЛАН\", Старший необеспеченный долг серии: БО-03, ISIN: RU000A100W60, рег.номер: 4B020356453P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7035/",
 			"objectId": "217818",
 			"isin": "RU000A100W60",
-			"subjectName": "Публичное акционерное общество «Лизинговая компания «Европлан»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\""
 		}
 	},
 	"RU000A1095W4": {
@@ -3563,17 +3513,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-09, ISIN: RU000A107050, гос.рег.номер: 4B020936400R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-09, ISIN: RU000A107050, рег.номер: 4B020936400R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218959",
 			"isin": "RU000A107050",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -3651,17 +3601,17 @@
 	},
 	"RU000A10CU55": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "26.09.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002Р-05",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep26b",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218884",
 			"isin": "RU000A10CU55",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -3703,17 +3653,17 @@
 	},
 	"RU000A102SV8": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-18",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219161",
 			"isin": "RU000A102SV8",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -3753,17 +3703,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "09.09.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-19, ISIN: RU000A10CP52, гос.рег.номер: 4B021836400R003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-19, ISIN: RU000A10CP52, рег.номер: 4B021836400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6065/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "219039",
 			"isin": "RU000A10CP52",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -3857,17 +3807,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-13, ISIN: RU000A10BFM0, гос.рег.номер: 4B021336400R003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-13, ISIN: RU000A10BFM0, рег.номер: 4B021336400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "219032",
 			"isin": "RU000A10BFM0",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -3961,17 +3911,17 @@
 	},
 	"RU000A0JWZY6": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-05",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219096",
 			"isin": "RU000A0JWZY6",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -4029,17 +3979,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-14, ISIN: RU000A1087J8, гос.рег.номер: 4B021436400R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-14, ISIN: RU000A1087J8, рег.номер: 4B021436400R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218989",
 			"isin": "RU000A1087J8",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -4219,17 +4169,17 @@
 	},
 	"RU000A108GN7": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-30",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218882",
 			"isin": "RU000A108GN7",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -4535,17 +4485,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002Р-11, ISIN: RU000A107ET1, гос.рег.номер: 4B021136400R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002Р-11, ISIN: RU000A107ET1, рег.номер: 4B021136400R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218981",
 			"isin": "RU000A107ET1",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -5237,17 +5187,17 @@
 	},
 	"RU000A105L27": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-24",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218851",
 			"isin": "RU000A105L27",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -5289,17 +5239,17 @@
 	},
 	"RU000A106Z46": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-26",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218852",
 			"isin": "RU000A106Z46",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -5545,17 +5495,17 @@
 	},
 	"RU000A10DPV6": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "04.12.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002Р-07",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec04e",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218885",
 			"isin": "RU000A10DPV6",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -6689,17 +6639,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-05, ISIN: RU000A106672, гос.рег.номер: 4B020536400R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-05, ISIN: RU000A106672, рег.номер: 4B020536400R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218913",
 			"isin": "RU000A106672",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -6793,20 +6743,20 @@
 			"subjectName": "Публичное акционерное общество ДОМ.РФ"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.07.2025",
+			"releaseDate": "03.07.2026",
 			"inn": "7729355614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ДОМ.РФ\", Старший необеспеченный долг серии: 001P-05R, ISIN: RU000A1004W6, гос.рег.номер: 4B020500739A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО ДОМ.РФ, Старший необеспеченный долг серии: 001P-05R, ISIN: RU000A1004W6, рег.номер: 4B020500739A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5891/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7056/",
 			"objectId": "217646",
 			"isin": "RU000A1004W6",
-			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
 		}
 	},
 	"RU000A106SP1": {
@@ -7439,17 +7389,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-10, ISIN: RU000A107084, гос.рег.номер: 4B021036400R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-10, ISIN: RU000A107084, рег.номер: 4B021036400R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218972",
 			"isin": "RU000A107084",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -7689,17 +7639,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-14, ISIN: RU000A10BPP2, гос.рег.номер: 4B021436400R003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-14, ISIN: RU000A10BPP2, рег.номер: 4B021436400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "219034",
 			"isin": "RU000A10BPP2",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -7919,17 +7869,17 @@
 	},
 	"RU000A104693": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-23",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218870",
 			"isin": "RU000A104693",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -7987,17 +7937,17 @@
 	},
 	"RU000A0ZYWU3": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-08",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219132",
 			"isin": "RU000A0ZYWU3",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -9069,17 +9019,17 @@
 	},
 	"RU000A10CU48": {
 		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "26.09.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002Р-04",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep26b",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218883",
 			"isin": "RU000A10CU48",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -9387,17 +9337,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-02, ISIN: RU000A108JV4, гос.рег.номер: 4B020236400R003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-02, ISIN: RU000A108JV4, рег.номер: 4B020236400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218990",
 			"isin": "RU000A108JV4",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -9439,17 +9389,17 @@
 	},
 	"RU000A102SX4": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-19",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219162",
 			"isin": "RU000A102SX4",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -9749,24 +9699,6 @@
 			"subjectName": "Публичное акционерное общество «Федеральная гидрогенерирующая компания - РусГидро»"
 		}
 	},
-	"RU000A108L81": {
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "12.09.2025",
-			"inn": "7703389295",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAAA",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации Полюс серии ПБО-04",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/sep12",
-			"objectId": "219249",
-			"isin": "RU000A108L81",
-			"subjectName": "Публичное акционерное общество Полюс"
-		}
-	},
 	"RU000A10FBH0": {
 		"AKRA": {
 			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
@@ -9819,22 +9751,6 @@
 			"objectId": "218488",
 			"isin": "RU000A10AC75",
 			"subjectName": "Томская область"
-		},
-		"EXPERT_RA": {
-			"ratingAction": "DG – понижение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "30.04.2026",
-			"inn": "7000000885",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruBBB",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Томская область серии 34072",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr30f",
-			"objectId": "218488",
-			"isin": "RU000A10AC75",
-			"subjectName": "Томская область"
 		}
 	},
 	"RU000A10FG76": {
@@ -9873,20 +9789,20 @@
 			"subjectName": "Публичное акционерное общество ДОМ.РФ"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.07.2025",
+			"releaseDate": "03.07.2026",
 			"inn": "7729355614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ДОМ.РФ\", Старший необеспеченный долг серии: 002Р-01, ISIN: RU000A105MN1, гос.рег.номер: 4B020100739A002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО ДОМ.РФ, Старший необеспеченный долг серии: 002Р-01, ISIN: RU000A105MN1, рег.номер: 4B020100739A002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5891/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7056/",
 			"objectId": "217908",
 			"isin": "RU000A105MN1",
-			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
 		}
 	},
 	"RU000A0JX1S1": {
@@ -10065,6 +9981,40 @@
 			"objectId": "219723",
 			"isin": "RU000A10AFW1",
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССЕТИ МОСКОВСКИЙ РЕГИОН\""
+		}
+	},
+	"RU000A10FJC4": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "29.06.2026",
+			"inn": "7705392230",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA+.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "МЕТАЛЛОИНВЕСТ 002P-06",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/Metalloinvest-bonds-RA-290626/",
+			"objectId": "220735",
+			"isin": "RU000A10FJC4",
+			"subjectName": "Акционерное Общество «Холдинговая компания «МЕТАЛЛОИНВЕСТ»"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "29.06.2026",
+			"inn": "7705392230",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, АО \"ХК \"МЕТАЛЛОИНВЕСТ\", Старший необеспеченный долг серии: 002P-06, ISIN: RU000A10FJC4, рег.номер: 4B020625642H002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7038/",
+			"objectId": "220735",
+			"isin": "RU000A10FJC4",
+			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ХОЛДИНГОВАЯ КОМПАНИЯ \"МЕТАЛЛОИНВЕСТ\""
 		}
 	},
 	"RU000A10DMS9": {
@@ -10915,17 +10865,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002Р-12, ISIN: RU000A107T27, гос.рег.номер: 4B021236400R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002Р-12, ISIN: RU000A107T27, рег.номер: 4B021236400R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218994",
 			"isin": "RU000A107T27",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -11161,17 +11111,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "26.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-07, ISIN: RU000A10DLE1, гос.рег.номер: 4B020736400R003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-07, ISIN: RU000A10DLE1, рег.номер: 4B020736400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6326/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "219006",
 			"isin": "RU000A10DLE1",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -11367,6 +11317,24 @@
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННАЯ ТРАНСПОРТНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\""
 		}
 	},
+	"RU000A0JWTN2": {
+		"AKRA": {
+			"ratingAction": "UP - повышение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "03.12.2025",
+			"inn": "7707049388",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации, ПАО «Ростелеком», Старший необеспеченный долг серии: 001P-01R, ISIN: RU000A0JWTN2, гос.рег.номер: 4B020100124A001P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6363/",
+			"objectId": "219675",
+			"isin": "RU000A0JWTN2",
+			"subjectName": "Публичное акционерное общество «Ростелеком»"
+		}
+	},
 	"RU000A10D459": {
 		"NKR": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -11557,17 +11525,17 @@
 	},
 	"RU000A101Q26": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-13",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219142",
 			"isin": "RU000A101Q26",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -11729,17 +11697,17 @@
 	},
 	"RU000A10EE87": {
 		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "27.02.2026",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruAA-",
+			"ratingValue": "ruA+",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002Р-12",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/feb27a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "220224",
 			"isin": "RU000A10EE87",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -12145,20 +12113,20 @@
 			"subjectName": "Публичное акционерное общество Лизинговая компания Европлан"
 		},
 		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "9705101614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «ЛК «Европлан», Старший необеспеченный долг серии: БО-06, ISIN: RU000A100DG5, гос.рег.номер: 4B020656453P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЛК \"ЕВРОПЛАН\", Старший необеспеченный долг серии: БО-06, ISIN: RU000A100DG5, рег.номер: 4B020656453P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7035/",
 			"objectId": "217812",
 			"isin": "RU000A100DG5",
-			"subjectName": "Публичное акционерное общество «Лизинговая компания «Европлан»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\""
 		}
 	},
 	"RU000A108C58": {
@@ -12333,6 +12301,24 @@
 			"objectId": "218914",
 			"isin": "RU000A10DP51",
 			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННАЯ ТРАНСПОРТНАЯ ЛИЗИНГОВАЯ КОМПАНИЯ\""
+		}
+	},
+	"RU000A10FJQ4": {
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.06.2026",
+			"inn": "7744000912",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"БАНК ПСБ\", Старший необеспеченный долг серии: 004Р-07, ISIN: RU000A10FJQ4, рег.номер: 4B020703251B004P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7044/",
+			"objectId": "220736",
+			"isin": "RU000A10FJQ4",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"БАНК ПСБ\""
 		}
 	},
 	"RU000A10AEB8": {
@@ -12615,17 +12601,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-04, ISIN: RU000A101QN1, гос.рег.номер: 4B02-04-36400-R-001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-04, ISIN: RU000A101QN1, рег.номер: 4B02-04-36400-R-001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "216762",
 			"isin": "RU000A101QN1",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -12895,17 +12881,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-15, ISIN: RU000A109080, гос.рег.номер: 4B021536400R002P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-002P-15, ISIN: RU000A109080, рег.номер: 4B021536400R002P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218979",
 			"isin": "RU000A109080",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -13015,17 +13001,17 @@
 	},
 	"RU000A107SM6": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-28",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218869",
 			"isin": "RU000A107SM6",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -13135,17 +13121,17 @@
 	},
 	"RU000A100N12": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-11",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219128",
 			"isin": "RU000A100N12",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -13707,22 +13693,6 @@
 			"objectId": "218492",
 			"isin": "RU000A10DEN7",
 			"subjectName": "Томская область"
-		},
-		"EXPERT_RA": {
-			"ratingAction": "DG – понижение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "30.04.2026",
-			"inn": "7000000885",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruBBB",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "Облигации Томская область серии 34075",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr30f",
-			"objectId": "218492",
-			"isin": "RU000A10DEN7",
-			"subjectName": "Томская область"
 		}
 	},
 	"RU000A10EAM5": {
@@ -14003,17 +13973,17 @@
 	},
 	"RU000A0ZYQY7": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-07",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219098",
 			"isin": "RU000A0ZYQY7",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -14085,40 +14055,6 @@
 			"objectId": "219670",
 			"isin": "RU000A10C6M3",
 			"subjectName": "Публичное акционерное общество \"Уральская кузница\""
-		}
-	},
-	"RU000A106K35": {
-		"NKR": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "13.05.2026",
-			"inn": "7708813750",
-			"objectType": "TBND – облигационный займ",
-			"ratingValue": "A+.ru",
-			"prediction": "NA – не предусмотрен методологией",
-			"objectName": "АВТОБАН-Финанс АО БО-П04",
-			"kraName": "ООО \"НКР\"",
-			"releaseUrl": "https://ratings.ru/ratings/press-releases/Avtoban-bonds-RA-130526/",
-			"objectId": "218762",
-			"isin": "RU000A106K35",
-			"subjectName": "Акционерное общество «АВТОБАН-Финанс»"
-		},
-		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
-			"country": "РОССИЯ",
-			"koNumber": "",
-			"releaseDate": "08.08.2025",
-			"inn": "7708813750",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruA+",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации АВТОБАН-Финанс серии БО-П04",
-			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/aug08b",
-			"objectId": "218762",
-			"isin": "RU000A106K35",
-			"subjectName": "Акционерное общество АВТОБАН-Финанс"
 		}
 	},
 	"RU000A103Q24": {
@@ -14245,17 +14181,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-06, ISIN: RU000A106AT1, гос.рег.номер: 4B020636400R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-001Р-06, ISIN: RU000A106AT1, рег.номер: 4B020636400R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218919",
 			"isin": "RU000A106AT1",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -14335,17 +14271,17 @@
 	},
 	"RU000A0JWYQ5": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-04",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219103",
 			"isin": "RU000A0JWYQ5",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -14721,20 +14657,20 @@
 			"subjectName": "Публичное акционерное общество Лизинговая компания Европлан"
 		},
 		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "9705101614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «ЛК «Европлан», Старший необеспеченный долг серии: БО-07, ISIN: RU000A0JWVL2, гос.рег.номер: 4B020756453P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЛК \"ЕВРОПЛАН\", Старший необеспеченный долг серии: БО-07, ISIN: RU000A0JWVL2, рег.номер: 4B020756453P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7035/",
 			"objectId": "218888",
 			"isin": "RU000A0JWVL2",
-			"subjectName": "Публичное акционерное общество «Лизинговая компания «Европлан»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\""
 		}
 	},
 	"RU000A10B0Z9": {
@@ -15535,17 +15471,17 @@
 	},
 	"RU000A10FA72": {
 		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.06.2026",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
 			"objectType": "TBND – облигационный займ",
-			"ratingValue": "ruAA-",
+			"ratingValue": "ruA+",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002Р-14",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/jun02",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "220707",
 			"isin": "RU000A10FA72",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -15637,17 +15573,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "20.05.2026",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-22, ISIN: RU000A10F728, рег.номер: 4B022236400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6888/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "220256",
 			"isin": "RU000A10F728",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -15847,20 +15783,20 @@
 			"subjectName": "Публичное акционерное общество Лизинговая компания Европлан"
 		},
 		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "9705101614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «ЛК «Европлан», Старший необеспеченный долг серии: 001Р-07, ISIN: RU000A108Y86, гос.рег.номер: 4B020716419A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЛК \"ЕВРОПЛАН\", Старший необеспеченный долг серии: 001Р-07, ISIN: RU000A108Y86, рег.номер: 4B020716419A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7035/",
 			"objectId": "218880",
 			"isin": "RU000A108Y86",
-			"subjectName": "Публичное акционерное общество «Лизинговая компания «Европлан»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\""
 		}
 	},
 	"RU000A10E6U4": {
@@ -16007,17 +15943,17 @@
 	},
 	"RU000A1005L6": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-09",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219130",
 			"isin": "RU000A1005L6",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -16197,20 +16133,20 @@
 			"subjectName": "Публичное акционерное общество ДОМ.РФ"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.07.2025",
+			"releaseDate": "03.07.2026",
 			"inn": "7729355614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ДОМ.РФ\", Старший необеспеченный долг серии: 001P-04R, ISIN: RU000A0ZZ7C0, гос.рег.номер: 4B020400739A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО ДОМ.РФ, Старший необеспеченный долг серии: 001P-04R, ISIN: RU000A0ZZ7C0, рег.номер: 4B020400739A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5891/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7056/",
 			"objectId": "217640",
 			"isin": "RU000A0ZZ7C0",
-			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
 		}
 	},
 	"RU000A108DE3": {
@@ -16389,20 +16325,20 @@
 			"subjectName": "Публичное акционерное общество Лизинговая компания Европлан"
 		},
 		"AKRA": {
-			"ratingAction": "WR - изменение статуса «под наблюдением» или «на пересмотре»",
+			"ratingAction": "AF – подтверждение кредитного рейтинга, RWR – снятие статуса «под наблюдением»",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "19.11.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "9705101614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ПАО «ЛК «Европлан», Старший необеспеченный долг серии: 001Р-03, ISIN: RU000A103KJ8, гос.рег.номер: 4B020316419A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"ЛК \"ЕВРОПЛАН\", Старший необеспеченный долг серии: 001Р-03, ISIN: RU000A103KJ8, рег.номер: 4B020316419A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6305/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7035/",
 			"objectId": "218078",
 			"isin": "RU000A103KJ8",
-			"subjectName": "Публичное акционерное общество «Лизинговая компания «Европлан»"
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛИЗИНГОВАЯ КОМПАНИЯ \"ЕВРОПЛАН\""
 		}
 	},
 	"RU000A104SY8": {
@@ -16701,19 +16637,69 @@
 			"subjectName": "Ростовская область"
 		}
 	},
-	"RU000A10DPW4": {
-		"EXPERT_RA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+	"RU000A10ESM7": {
+		"NKR": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "04.12.2025",
+			"releaseDate": "10.04.2026",
+			"inn": "7740000076",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA.ru",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Мобильные ТелеСистемы 002P-18",
+			"kraName": "ООО \"НКР\"",
+			"releaseUrl": "https://ratings.ru/ratings/press-releases/MTS-bonds-RA-100426/",
+			"objectId": "220169",
+			"isin": "RU000A10ESM7",
+			"subjectName": "Публичное акционерное общество «Мобильные ТелеСистемы»"
+		},
+		"EXPERT_RA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "10.04.2026",
+			"inn": "7740000076",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAAA",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации МТС серии 002P-18",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr10a",
+			"objectId": "220169",
+			"isin": "RU000A10ESM7",
+			"subjectName": "Публичное акционерное общество Мобильные ТелеСистемы"
+		},
+		"AKRA": {
+			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "10.04.2026",
+			"inn": "7740000076",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "AAA(RU)",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО \"МТС\", Старший необеспеченный долг серии: 002P-18, ISIN: RU000A10ESM7, рег.номер: 4B021804715A002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6762/",
+			"objectId": "220169",
+			"isin": "RU000A10ESM7",
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОБИЛЬНЫЕ ТЕЛЕСИСТЕМЫ\""
+		}
+	},
+	"RU000A10DPW4": {
+		"EXPERT_RA": {
+			"ratingAction": "DG – понижение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 002Р-06",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/dec04e",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218893",
 			"isin": "RU000A10DPW4",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -17087,17 +17073,17 @@
 	},
 	"RU000A101XN7": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-14",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218865",
 			"isin": "RU000A101XN7",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -17121,17 +17107,17 @@
 	},
 	"RU000A10EMF4": {
 		"EXPERT_RA": {
-			"ratingAction": "NW – первичное присвоение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "06.04.2026",
+			"releaseDate": "30.06.2026",
 			"inn": "2723115222",
 			"objectType": "TBND – облигационный займ",
 			"ratingValue": "ruA-",
 			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации ПКО ПКБ серии 001Р-10",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2026/apr06d",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30m",
 			"objectId": "220288",
 			"isin": "RU000A10EMF4",
 			"subjectName": "Непубличное акционерное общество Профессиональная коллекторская организация Первое клиентское бюро"
@@ -17523,17 +17509,17 @@
 	},
 	"RU000A1008J4": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-10",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219129",
 			"isin": "RU000A1008J4",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -17817,17 +17803,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: 07, ISIN: RU000A106375, гос.рег.номер: 41136400R",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: 07, ISIN: RU000A106375, рег.номер: 41136400R",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218909",
 			"isin": "RU000A106375",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -17835,17 +17821,17 @@
 	},
 	"RU000A103372": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-20",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218841",
 			"isin": "RU000A103372",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -18617,6 +18603,40 @@
 			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАМАЗ\""
 		}
 	},
+	"RU000A10DS66": {
+		"EXPERT_RA": {
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "06.04.2026",
+			"inn": "7728168971",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruAA+",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации Альфа-Банк серии 002Р-30",
+			"kraName": "АО \"Эксперт РА\"",
+			"releaseUrl": "https://raexpert.ru/releases/2026/apr06m",
+			"objectId": "218999",
+			"isin": "RU000A10DS66",
+			"subjectName": "Акционерное общество АЛЬФА-БАНК"
+		},
+		"AKRA": {
+			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"country": "РОССИЯ",
+			"koNumber": "",
+			"releaseDate": "16.12.2025",
+			"inn": "7728168971",
+			"objectType": "TBND - облигационный займ",
+			"ratingValue": "AA+(RU)",
+			"prediction": "NA - не предусмотрен методологией",
+			"objectName": "Облигации, АО «АЛЬФА-БАНК», Старший необеспеченный долг серии: 002Р-30, ISIN: RU000A10DS66, гос.рег.номер: 4B023001326B002P",
+			"kraName": "АКРА (АО)",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6415/",
+			"objectId": "218999",
+			"isin": "RU000A10DS66",
+			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО «АЛЬФА-БАНК»"
+		}
+	},
 	"RU000A1013P1": {
 		"AKRA": {
 			"ratingAction": "AF – подтверждение кредитного рейтинга",
@@ -18773,17 +18793,17 @@
 			"subjectName": "Общество с ограниченной ответственностью Газпром капитал"
 		},
 		"AKRA": {
-			"ratingAction": "NW - первичное присвоение и раскрытие кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "10.10.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший обеспеченный долг серии: БО-003Р-06, ISIN: RU000A10D2Q2, гос.рег.номер: 4B020636400R003P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Старший необеспеченный долг серии: БО-003Р-06, ISIN: RU000A10D2Q2, рег.номер: 4B020636400R003P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/6166/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "218997",
 			"isin": "RU000A10D2Q2",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -18809,17 +18829,17 @@
 	},
 	"RU000A102FS1": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-16",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "219141",
 			"isin": "RU000A102FS1",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -18897,17 +18917,17 @@
 	},
 	"RU000A1039A8": {
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "03.07.2025",
+			"releaseDate": "29.06.2026",
 			"inn": "7726588547",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AA+(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Бессрочные облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Субординированный долг серии: 001Б-02, ISIN: RU000A1039A8, гос.рег.номер: 40236400R001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Бессрочные облигации, ООО \"ГАЗПРОМ КАПИТАЛ\", Субординированный долг серии: 001Б-02, ISIN: RU000A1039A8, рег.номер: 40236400R001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5883/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7040/",
 			"objectId": "216832",
 			"isin": "RU000A1039A8",
 			"subjectName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЗПРОМ КАПИТАЛ\""
@@ -19195,17 +19215,17 @@
 	},
 	"RU000A108GL1": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-29",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218868",
 			"isin": "RU000A108GL1",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -19401,20 +19421,20 @@
 			"subjectName": "Публичное акционерное общество ДОМ.РФ"
 		},
 		"AKRA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "AF – подтверждение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "07.07.2025",
+			"releaseDate": "03.07.2026",
 			"inn": "7729355614",
-			"objectType": "TBND - облигационный займ",
+			"objectType": "TBND – облигационный займ",
 			"ratingValue": "AAA(RU)",
-			"prediction": "NA - не предусмотрен методологией",
-			"objectName": "Облигации, АО \"ДОМ.РФ\", Старший необеспеченный долг серии: 001P-06R, ISIN: RU000A100ET6, гос.рег.номер: 4B020600739A001P",
+			"prediction": "NA – не предусмотрен методологией",
+			"objectName": "Облигации, ПАО ДОМ.РФ, Старший необеспеченный долг серии: 001P-06R, ISIN: RU000A100ET6, рег.номер: 4B020600739A001P",
 			"kraName": "АКРА (АО)",
-			"releaseUrl": "https://www.acra-ratings.ru/press-releases/5891/",
+			"releaseUrl": "https://www.acra-ratings.ru/press-releases/7056/",
 			"objectId": "217653",
 			"isin": "RU000A100ET6",
-			"subjectName": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
+			"subjectName": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОМ.РФ\""
 		}
 	},
 	"RU000A106P97": {
@@ -19629,17 +19649,17 @@
 	},
 	"RU000A107GX8": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001Р-27",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218875",
 			"isin": "RU000A107GX8",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
@@ -19663,17 +19683,17 @@
 	},
 	"RU000A1023K1": {
 		"EXPERT_RA": {
-			"ratingAction": "AF - подтверждение кредитного рейтинга",
+			"ratingAction": "DG – понижение кредитного рейтинга",
 			"country": "РОССИЯ",
 			"koNumber": "",
-			"releaseDate": "02.07.2025",
+			"releaseDate": "30.06.2026",
 			"inn": "7703104630",
-			"objectType": "TBND - облигационный займ",
-			"ratingValue": "ruAA-",
-			"prediction": "NA - не предусмотрен методологией",
+			"objectType": "TBND – облигационный займ",
+			"ratingValue": "ruA+",
+			"prediction": "NA – не предусмотрен методологией",
 			"objectName": "Облигации АФК Система серии 001P-15",
 			"kraName": "АО \"Эксперт РА\"",
-			"releaseUrl": "https://raexpert.ru/releases/2025/jul02a",
+			"releaseUrl": "https://raexpert.ru/releases/2026/jun30l",
 			"objectId": "218861",
 			"isin": "RU000A1023K1",
 			"subjectName": "Публичное акционерное общество Акционерная финансовая корпорация Система"
