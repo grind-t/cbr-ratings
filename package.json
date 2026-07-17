@@ -29,8 +29,8 @@
     "test:e2e": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.e2e.test.ts\"",
     "test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
     "build": "tsdown",
-    "export:bond-company-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-company-ratings.ts",
-    "export:bond-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-ratings.ts"
+    "export:issuers": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-company-ratings.ts",
+    "export:bonds": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-ratings.ts"
   },
   "dependencies": {
     "dayjs": "^1.11.18",
@@ -38,16 +38,14 @@
   },
   "devDependencies": {
     "@grind-t/moex": "^1.0.7",
+    "@grind-t/t-invest": "^1.0.0",
     "@grind-t/toolkit": "^2.1.0",
-    "@types/fs-extra": "^11.0.4",
     "@types/node": "latest",
     "oxfmt": "latest",
     "oxlint": "latest",
     "oxlint-tsgolint": "latest",
-    "tinkoff-invest-api": "^7.0.1",
     "tsdown": "latest",
     "typescript": "latest",
-    "zod": "^4.0.5",
-    "zx": "^8.8.5"
+    "zod": "^4.0.5"
   }
 }

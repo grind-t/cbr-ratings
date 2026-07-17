@@ -1,43 +1,42 @@
+import { writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { env, exit } from "node:process";
+import { setTimeout } from "node:timers/promises";
 
 import { getMoexBondSecurities } from "@grind-t/moex";
+import { TInvestApi } from "@grind-t/t-invest";
 import { toRecord } from "@grind-t/toolkit/array";
 import dayjs from "dayjs";
-import { TinkoffInvestApi } from "tinkoff-invest-api";
 import z from "zod";
-import { fs, sleep } from "zx";
 
 import { latestRatingsByKra } from "../../src/common/latest-ratings-by-kra.ts";
 import { searchRatings } from "../../src/rating-search/index.ts";
 import { SearchRatingResponseSchema } from "../../src/rating-search/schema/output.ts";
 
-const tInvestApi = new TinkoffInvestApi({
-  token: env.T_INVEST_READONLY_TOKEN as string,
-});
+const tInvestApi = new TInvestApi(env.T_INVEST_READONLY_TOKEN);
 
 const [bonds, moexSecurities] = await Promise.all([
   tInvestApi.instruments.bonds({}).then((v) => v.instruments),
   getMoexBondSecurities().then((v) => toRecord(v, (v) => v.isin)),
 ]);
 
-const emitentInns = bonds.reduce((acc, v) => {
+const inns = bonds.reduce((acc, v) => {
   const moexSecurity = moexSecurities[v.isin];
-  const emitentInn = moexSecurity?.emitent_inn;
+  const inn = moexSecurity?.emitent_inn;
 
-  if (!emitentInn) {
-    console.warn(`Missing emitent inn for bond with isin ${v.isin}`);
+  if (!inn) {
+    console.warn(`Missing issuer inn for bond with isin ${v.isin}`);
     return acc;
   }
 
-  acc.add(emitentInn);
+  acc.add(inn);
   return acc;
 }, new Set<string>());
 
 const ratings = new Map<string, object>();
 
-for (const inn of emitentInns) {
-  await sleep(250);
+for (const inn of inns) {
+  await setTimeout(250);
 
   const response = await searchRatings({
     fields: {
@@ -77,8 +76,7 @@ for (const inn of emitentInns) {
   }
 }
 
-void fs.outputJSON(
-  resolve(import.meta.dirname, "..", "..", "exports", "bond-company-ratings.json"),
-  Object.fromEntries(ratings),
-  { spaces: "\t" },
+writeFileSync(
+  resolve(import.meta.dirname, "..", "..", "exports", "issuers.json"),
+  JSON.stringify(Object.fromEntries(ratings)),
 );
