@@ -47,7 +47,7 @@ for (const bond of bonds) {
   }
 }
 
-fs.outputJSON(
+void fs.outputJSON(
   resolve(import.meta.dirname, "..", "..", "exports", "bond-ratings.json"),
   Object.fromEntries(ratings),
   { spaces: "\t" },

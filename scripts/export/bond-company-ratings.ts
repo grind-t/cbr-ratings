@@ -8,7 +8,6 @@ import { TinkoffInvestApi } from "tinkoff-invest-api";
 import z from "zod";
 import { fs, sleep } from "zx";
 
-import { latestRating } from "../../src/common/latest-rating.ts";
 import { latestRatingsByKra } from "../../src/common/latest-ratings-by-kra.ts";
 import { searchRatings } from "../../src/rating-search/index.ts";
 import { SearchRatingResponseSchema } from "../../src/rating-search/schema/output.ts";
@@ -78,7 +77,7 @@ for (const inn of emitentInns) {
   }
 }
 
-fs.outputJSON(
+void fs.outputJSON(
   resolve(import.meta.dirname, "..", "..", "exports", "bond-company-ratings.json"),
   Object.fromEntries(ratings),
   { spaces: "\t" },

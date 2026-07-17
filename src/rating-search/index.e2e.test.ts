@@ -17,7 +17,7 @@ describe("searchRatings (e2e)", () => {
       const validationResult = SearchRatingResponseSchema.safeParse(response);
       assert.ok(validationResult.success);
     } catch (error) {
-      assert.fail(`Request failed with error: ${error}`);
+      assert.fail(`Request failed with error: ${String(error)}`);
     }
   });
 
@@ -33,7 +33,7 @@ describe("searchRatings (e2e)", () => {
       const validationResult = SearchRatingResponseSchema.safeParse(response);
       assert.ok(validationResult.success);
     } catch (error) {
-      assert.fail(`Request failed with error: ${error}`);
+      assert.fail(`Request failed with error: ${String(error)}`);
     }
   });
 });
