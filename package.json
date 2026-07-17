@@ -29,8 +29,8 @@
     "test:e2e": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.e2e.test.ts\"",
     "test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
     "build": "tsdown",
-    "export:issuers": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-company-ratings.ts",
-    "export:bonds": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-ratings.ts"
+    "export:issuers": "node --env-file=.env --experimental-transform-types ./scripts/export/issuers.ts",
+    "export:bonds": "node --env-file=.env --experimental-transform-types ./scripts/export/bonds.ts"
   },
   "dependencies": {
     "dayjs": "^1.11.18",
@@ -47,5 +47,8 @@
     "tsdown": "latest",
     "typescript": "latest",
     "zod": "^4.0.5"
+  },
+  "peerDependencies": {
+    "zod": "^4.0.0"
   }
 }
