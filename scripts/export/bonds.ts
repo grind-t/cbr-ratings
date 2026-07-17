@@ -1,7 +1,10 @@
-import { writeFileSync } from "node:fs";
+import { createWriteStream } from "node:fs";
 import { resolve } from "node:path";
 import { env, exit } from "node:process";
+import { Readable } from "node:stream";
+import { pipeline } from "node:stream/promises";
 import { setTimeout } from "node:timers/promises";
+import { createBrotliCompress } from "node:zlib";
 
 import { TInvestApi } from "@grind-t/t-invest";
 import z from "zod";
@@ -46,7 +49,8 @@ for (const bond of bonds) {
   }
 }
 
-writeFileSync(
-  resolve(import.meta.dirname, "..", "..", "exports", "bonds.json"),
-  JSON.stringify(Object.fromEntries(ratings)),
+await pipeline(
+  Readable.from(JSON.stringify(Object.fromEntries(ratings))),
+  createBrotliCompress(),
+  createWriteStream(resolve(import.meta.dirname, "..", "..", "exports", "bonds.json.br")),
 );

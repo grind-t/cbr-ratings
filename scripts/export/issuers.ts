@@ -1,7 +1,10 @@
-import { writeFileSync } from "node:fs";
+import { createWriteStream } from "node:fs";
 import { resolve } from "node:path";
 import { env, exit } from "node:process";
+import { Readable } from "node:stream";
+import { pipeline } from "node:stream/promises";
 import { setTimeout } from "node:timers/promises";
+import { createBrotliCompress } from "node:zlib";
 
 import { getMoexBondSecurities } from "@grind-t/moex";
 import { TInvestApi } from "@grind-t/t-invest";
@@ -76,7 +79,8 @@ for (const inn of inns) {
   }
 }
 
-writeFileSync(
-  resolve(import.meta.dirname, "..", "..", "exports", "issuers.json"),
-  JSON.stringify(Object.fromEntries(ratings)),
+await pipeline(
+  Readable.from(JSON.stringify(Object.fromEntries(ratings))),
+  createBrotliCompress(),
+  createWriteStream(resolve(import.meta.dirname, "..", "..", "exports", "issuers.json.br")),
 );
