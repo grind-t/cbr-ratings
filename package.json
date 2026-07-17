@@ -37,7 +37,7 @@
     "fetch-cookie": "^3.1.0"
   },
   "devDependencies": {
-    "@grind-t/moex": "^1.0.7",
+    "@grind-t/moex": "^1.0.8",
     "@grind-t/t-invest": "^1.0.0",
     "@grind-t/toolkit": "^2.1.0",
     "@types/node": "latest",
