@@ -1,14 +1,14 @@
 import dayjs from "dayjs";
+
 import type { RatingItem } from "../rating-search/schema/output.ts";
 import { isRatingWithdrawn } from "./is-rating-withdrawn.ts";
 
 export function latestRating(items: RatingItem[]): RatingItem | undefined {
-	return items
-		.filter((v) => !isRatingWithdrawn(v.ratingValue, v.ratingAction))
-		.sort(
-			(a, b) =>
-				dayjs(b.releaseDate, "DD-MM-YYYY").valueOf() -
-				dayjs(a.releaseDate, "DD-MM-YYYY").valueOf(),
-		)
-		.at(0);
+  return items
+    .filter((v) => !isRatingWithdrawn(v.ratingValue, v.ratingAction))
+    .sort(
+      (a, b) =>
+        dayjs(b.releaseDate, "DD-MM-YYYY").valueOf() - dayjs(a.releaseDate, "DD-MM-YYYY").valueOf(),
+    )
+    .at(0);
 }

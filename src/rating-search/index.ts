@@ -1,4 +1,5 @@
 import fetchCookie from "fetch-cookie";
+
 import { fetchCsrfToken } from "../common/fetch-csrf-token.ts";
 import { serializeFields } from "../common/serialize-fields.ts";
 import type { SearchRatingRequest } from "./schema/input.ts";
@@ -6,43 +7,37 @@ import type { SearchRatingResponse } from "./schema/output.ts";
 
 const fetcher = fetchCookie(fetch);
 
-export async function searchRatings(
-	req: SearchRatingRequest,
-): Promise<SearchRatingResponse> {
-	const csrfToken = await fetchCsrfToken(fetcher);
+export async function searchRatings(req: SearchRatingRequest): Promise<SearchRatingResponse> {
+  const csrfToken = await fetchCsrfToken(fetcher);
 
-	if (!csrfToken) {
-		return {
-			status: "error",
-			data: null,
-			errors: [
-				{ message: "Failed to fetch CSRF token", code: 500, customData: null },
-			],
-		};
-	}
+  if (!csrfToken) {
+    return {
+      status: "error",
+      data: null,
+      errors: [{ message: "Failed to fetch CSRF token", code: 500, customData: null }],
+    };
+  }
 
-	const url =
-		"https://ratings.cbr.ru/bitrix/services/main/ajax.php?mode=ajax&c=prr.form&action=searchRating";
-	const body = serializeFields(req.fields);
-	const res = await fetcher(url, {
-		method: "POST",
-		headers: {
-			"Content-Type": "application/x-www-form-urlencoded",
-			"bx-ajax": "true",
-			"x-bitrix-csrf-token": csrfToken,
-		},
-		body,
-	});
+  const url =
+    "https://ratings.cbr.ru/bitrix/services/main/ajax.php?mode=ajax&c=prr.form&action=searchRating";
+  const body = serializeFields(req.fields);
+  const res = await fetcher(url, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/x-www-form-urlencoded",
+      "bx-ajax": "true",
+      "x-bitrix-csrf-token": csrfToken,
+    },
+    body,
+  });
 
-	if (!res.ok) {
-		return {
-			status: "error",
-			data: null,
-			errors: [
-				{ message: `HTTP ${res.status}`, code: res.status, customData: null },
-			],
-		};
-	}
+  if (!res.ok) {
+    return {
+      status: "error",
+      data: null,
+      errors: [{ message: `HTTP ${res.status}`, code: res.status, customData: null }],
+    };
+  }
 
-	return (await res.json()) as SearchRatingResponse;
+  return (await res.json()) as SearchRatingResponse;
 }

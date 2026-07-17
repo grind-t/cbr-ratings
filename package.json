@@ -1,54 +1,53 @@
 {
-	"name": "@grind-t/cbr-ratings",
-	"version": "1.0.2",
-	"type": "module",
-	"files": [
-		"dist"
-	],
-	"exports": {
-		".": {
-			"import": "./dist/index.js",
-			"require": "./dist/index.umd.cjs",
-			"types": "./dist/index.d.ts"
-		}
-	},
-	"scripts": {
-		"dev": "node --env-file=.env --experimental-transform-types --watch ./playground.ts",
-		"typecheck": "tsc --noEmit",
-		"lint": "npx @biomejs/biome check --write ./src ./scripts",
-		"test:unit": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.unit.test.ts\"",
-		"test:e2e": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.e2e.test.ts\"",
-		"test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
-		"check": "npm run typecheck && npm run lint && npm run test",
-		"build": "tsup",
-		"export:bond-company-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-company-ratings.ts",
-		"export:bond-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-ratings.ts"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/grind-t/cbr-ratings.git"
-	},
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/grind-t/cbr-ratings/issues"
-	},
-	"homepage": "https://github.com/grind-t/cbr-ratings#readme",
-	"devDependencies": {
-		"@biomejs/biome": "latest",
-		"@grind-t/moex": "^1.0.7",
-		"@grind-t/toolkit": "^2.1.0",
-		"@microsoft/api-extractor": "latest",
-		"@swc/core": "^1.12.11",
-		"@types/fs-extra": "^11.0.4",
-		"@types/node": "latest",
-		"tinkoff-invest-api": "^7.0.1",
-		"tsup": "latest",
-		"typescript": "latest",
-		"zod": "^4.0.5",
-		"zx": "^8.8.5"
-	},
-	"dependencies": {
-		"dayjs": "^1.11.18",
-		"fetch-cookie": "^3.1.0"
-	}
+  "name": "@grind-t/cbr-ratings",
+  "version": "1.0.2",
+  "homepage": "https://github.com/grind-t/cbr-ratings#readme",
+  "bugs": {
+    "url": "https://github.com/grind-t/cbr-ratings/issues"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grind-t/cbr-ratings.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.mts",
+      "import": "./dist/index.mjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "dev": "node --env-file=.env --experimental-transform-types --watch ./playground.ts",
+    "fmt": "oxfmt",
+    "lint": "oxlint --fix",
+    "test:unit": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.unit.test.ts\"",
+    "test:e2e": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.e2e.test.ts\"",
+    "test": "node --experimental-transform-types --experimental-test-module-mocks --test \"src/**/*.test.ts\"",
+    "build": "tsdown",
+    "export:bond-company-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-company-ratings.ts",
+    "export:bond-ratings": "node --env-file=.env --experimental-transform-types ./scripts/export/bond-ratings.ts"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.18",
+    "fetch-cookie": "^3.1.0"
+  },
+  "devDependencies": {
+    "@grind-t/moex": "^1.0.7",
+    "@grind-t/toolkit": "^2.1.0",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "latest",
+    "oxfmt": "latest",
+    "oxlint": "latest",
+    "oxlint-tsgolint": "latest",
+    "tinkoff-invest-api": "^7.0.1",
+    "tsdown": "latest",
+    "typescript": "latest",
+    "zod": "^4.0.5",
+    "zx": "^8.8.5"
+  }
 }

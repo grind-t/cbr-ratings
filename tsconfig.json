@@ -1,13 +1,14 @@
-// https://nodejs.org/api/typescript.html#type-stripping
 {
   "compilerOptions": {
-    "noEmit": true,
     "target": "esnext",
     "module": "nodenext",
+    "types": ["node"],
+    "strict": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "isolatedModules": true,
     "allowImportingTsExtensions": true,
-    "erasableSyntaxOnly": true,
     "verbatimModuleSyntax": true,
-    "skipLibCheck": true,
-    "strict": true
+    "skipLibCheck": true
   }
 }

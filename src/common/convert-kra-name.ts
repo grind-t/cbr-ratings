@@ -1,23 +1,23 @@
 export type Kra = "AKRA" | "NKR" | "EXPERT_RA" | "NRA" | "UNKNOWN";
 
 export function convertKraName(value: string): Kra {
-	const ucValue = value.toUpperCase();
+  const ucValue = value.toUpperCase();
 
-	if (ucValue.includes("АКРА")) {
-		return "AKRA";
-	}
+  if (ucValue.includes("АКРА")) {
+    return "AKRA";
+  }
 
-	if (ucValue.includes("НКР")) {
-		return "NKR";
-	}
+  if (ucValue.includes("НКР")) {
+    return "NKR";
+  }
 
-	if (ucValue.includes("ЭКСПЕРТ РА")) {
-		return "EXPERT_RA";
-	}
+  if (ucValue.includes("ЭКСПЕРТ РА")) {
+    return "EXPERT_RA";
+  }
 
-	if (ucValue.includes("НРА")) {
-		return "NRA";
-	}
+  if (ucValue.includes("НРА")) {
+    return "NRA";
+  }
 
-	return "UNKNOWN";
+  return "UNKNOWN";
 }
