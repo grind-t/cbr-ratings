@@ -1,5 +1,6 @@
 export { convertKraName, type Kra } from "./common/convert-kra-name.ts";
 export { ratingScale, ratingValueToNumber } from "./common/convert-rating-value.ts";
+export {convertPrediction, type Prediction} from './common/convert-prediction.ts'
 export { isRatingWithdrawn } from "./common/is-rating-withdrawn.ts";
 export { searchRatings } from "./rating-search/index.ts";
 export type {
