@@ -7,6 +7,7 @@ import { setTimeout } from "node:timers/promises";
 import { createBrotliCompress } from "node:zlib";
 
 import { TInvestApi } from "@grind-t/t-invest";
+import dayjs from "dayjs";
 import z from "zod";
 
 import { latestRatingsByKra } from "../../src/common/latest-ratings-by-kra.ts";
@@ -24,6 +25,7 @@ for (const bond of bonds) {
     fields: {
       formSearh: "advanced",
       isin: bond.isin,
+      dateFrom: dayjs().subtract(9, "months").format("DD.MM.YYYY"),
       typeGroup: ["Финансовые инструменты"],
     },
   });

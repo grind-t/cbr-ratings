@@ -45,7 +45,7 @@ for (const inn of inns) {
     fields: {
       formSearh: "advanced",
       inn,
-      dateFrom: dayjs().subtract(1, "year").format("DD.MM.YYYY"),
+      dateFrom: dayjs().subtract(9, "months").format("DD.MM.YYYY"),
       typeGroup: [
         "Негосударственные пенсионные фонды",
         "Страховые организации",
